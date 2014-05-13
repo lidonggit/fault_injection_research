@@ -1,0 +1,25 @@
+ 
+ UMT1.2 Microkernel Benchmark (single CPU) 
+ 
+  Enter size_ctor 
+ Exit  subroutine size_ctor 
+ Enter subroutine getSize 
+ nzones=         9336
+ ncornr=        74688
+ nfaces=        56016
+ nbelem=         7776
+ ndim  =            3
+ nangsn=          288
+ ngr   =           64
+ Exit  subroutine getSize 
+  Geom was allocated
+  Allocated pZ % Connect (3, pZ%nCFaces, pZ%nCorner) 
+  Initialized pZ%A_fp(:,:,:) pZ%A_ez(:,:,:)  
+  Initialized pZ%c0, pZ%Connect(1:3,1:pZ%nCFaces,1:pZ%nCorner ) for all zones 
+  Done omega (3) 
+  Done allocating and initializing next(Size%ncornr+1) 
+  Done allocating and initializing nextZ(1:Size%nzones) 
+ Enter snswp3d 
+ nzones =         9336
+  V&V chk =    1.56485996213159     
+ UMT1.2 microkernel Walltime (second)   5.788087844848633E-002
