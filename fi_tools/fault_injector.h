@@ -6,7 +6,7 @@
 extern "C" {
 #endif
 
-#define DEBUG
+//#define DEBUG
 
 void launch_fi_thread(void* start_address, int mem_size);
 

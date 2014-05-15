@@ -60,9 +60,9 @@ void *fault_injection(void *start_address)
 	     "Will perform fault injection immediately\n");
    else
    {
-#ifdef DEBUG
-     printf("tigger_time=%d, waittime=%d\n", trigger_time, waittime);
-#endif
+//#ifdef DEBUG
+     printf("*****[fault_injection tool] tigger_time=%d, waittime=%d *****\n", trigger_time, waittime);
+//#endif
      usleep(waittime);   
    } 
 
@@ -71,16 +71,16 @@ void *fault_injection(void *start_address)
     fi_bit_point = (int)(mem_size * 8 * space_random); //a random bit
     fi_byte_point = fi_bit_point/8;
     char * target_byte = (char *)start_address + fi_byte_point;  //char* is 1 byte
-#ifdef DEBUG
-    printf("mem_size*8*space_random=%f, fi_bit_point=%d, fi_byte_point=%d, target=%d\n", 
+//#ifdef DEBUG
+    printf("*****[fault_injection tool] mem_size*8*space_random=%f, fi_bit_point=%d, fi_byte_point=%d, target_byte(before fi)=%d *****\n", 
 	   mem_size*8*space_random, fi_bit_point, fi_byte_point, *target_byte);
-#endif
+//#endif
 
     *target_byte ^= (1UL << (fi_bit_point - fi_byte_point*8));
 
-#ifdef DEBUG
-    printf("target(after fi)=%d, target_byte=%p\n", *target_byte, (void *)target_byte);
-#endif
+//#ifdef DEBUG
+    printf("*****[fault_injection tool] target_byte(after fi)=%d, address for target_byte=%p *****\n", *target_byte, (void *)target_byte);
+//#endif
    
     pthread_exit(NULL); 
 }
