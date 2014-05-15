@@ -8,7 +8,7 @@ extern "C" {
 
 #define DEBUG
 
-void launch_fi_thread(void* start_address);
+void launch_fi_thread(void* start_address, int mem_size);
 
 
 #ifdef __cplusplus

@@ -56,7 +56,7 @@ main(){
   printf("test_static=%d\n", test_static);
 
 
-  launch_fi_thread((void *)dummy);
+  launch_fi_thread((void *)dummy, sizeof(float)*DUMMY_SIZE);
   for(i=0; i<10; i++)
   {
     usleep(3000000);  //3s

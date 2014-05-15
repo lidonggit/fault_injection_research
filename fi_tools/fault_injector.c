@@ -6,6 +6,7 @@
 #include <sys/time.h>
 #include <fault_injector.h>
 
+int mem_size;
 
 void *fault_injection(void *start_address)
 {
@@ -36,11 +37,10 @@ void *fault_injection(void *start_address)
    }   
  	
    float time_random, space_random, exe_time;
-   int mem_size;
    fscanf(fp, "%f", &time_random);
    fscanf(fp, "%f", &space_random);
    fscanf(fp, "%f", &exe_time); //in seconds
-   fscanf(fp, "%d", &mem_size); //in seconds
+   //fscanf(fp, "%d", &mem_size); //in seconds
 
 #ifdef DEBUG
    printf("time_random=%f, space_random=%f, exe_time=%f, mem_size=%d\n", 
@@ -86,10 +86,11 @@ void *fault_injection(void *start_address)
 }
 
 //This API needs to be inserted right before the computation starts
-void launch_fi_thread(void* start_address)
+void launch_fi_thread(void* start_address, int size)
 {
    int rc;
    pthread_t fi_thread;
+   mem_size = size;
 
 #ifdef DEBUG
    printf("start_address=%p\n", start_address);    
