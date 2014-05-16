@@ -43,7 +43,7 @@ void *fault_injection(void *start_address)
    //fscanf(fp, "%d", &mem_size); //in seconds
 
 #ifdef DEBUG
-   printf("time_random=%f, space_random=%f, exe_time=%f, mem_size=%d\n", 
+   printf("time_random=%f, space_random=%f, exe_time=%f seconds, mem_size=%d bytes\n", 
 	time_random, space_random, exe_time, mem_size);  
 #endif
 
@@ -61,7 +61,8 @@ void *fault_injection(void *start_address)
    else
    {
 //#ifdef DEBUG
-     printf("*****[fault_injection tool] tigger_time=%d, waittime=%d *****\n", trigger_time, waittime);
+     printf("*****[fault_injection tool] start_addr=%p, mem_size=%d bytes, tigger_time=%d us, waittime=%d us*****\n", 
+		  start_address, mem_size, trigger_time, waittime);
 //#endif
      usleep(waittime);   
    } 
@@ -72,14 +73,14 @@ void *fault_injection(void *start_address)
     fi_byte_point = fi_bit_point/8;
     char * target_byte = (char *)start_address + fi_byte_point;  //char* is 1 byte
 //#ifdef DEBUG
-    printf("*****[fault_injection tool] mem_size*8*space_random=%f, fi_bit_point=%d, fi_byte_point=%d, target_byte(before fi)=%d *****\n", 
+    printf("*****[fault_injection tool] mem_size*8*space_random=%f, fi_bit_point=%d, fi_byte_point=%d, value_of_target_byte(before fi)=%x *****\n", 
 	   mem_size*8*space_random, fi_bit_point, fi_byte_point, *target_byte);
 //#endif
 
     *target_byte ^= (1UL << (fi_bit_point - fi_byte_point*8));
 
 //#ifdef DEBUG
-    printf("*****[fault_injection tool] target_byte(after fi)=%d, address for target_byte=%p *****\n", *target_byte, (void *)target_byte);
+    printf("*****[fault_injection tool] value_of_target_byte(after fi)=%x, address_for_target_byte=%p *****\n", *target_byte, (void *)target_byte);
 //#endif
    
     pthread_exit(NULL); 
@@ -104,4 +105,8 @@ void launch_fi_thread(void* start_address, int size)
    } 
 }
 
-
+//This API is for Fortran
+void launch_fi_thread_(void *start_address, int *size)
+{
+   launch_fi_thread(start_address, *size);
+}
