@@ -1,0 +1,770 @@
+Number of Execution: = 1 
+start_address=0x28044c0
+time_random=0.233489, space_random=0.627353, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=842894 us, waittime=842860 us*****
+*****[fault_injection tool] mem_size*8*space_random=168403680.000000, fi_bit_point=168403680, fi_byte_point=21050460, value_of_target_byte(before fi)=45 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=44, address_for_target_byte=0x3c1791c *****
+Execution Time = 3.680000 
+
+Number of Execution: = 2 
+start_address=0x28044c0
+time_random=0.961746, space_random=0.348377, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3471902 us, waittime=3471881 us*****
+*****[fault_injection tool] mem_size*8*space_random=93516824.000000, fi_bit_point=93516824, fi_byte_point=11689603, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x332a343 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 3 
+start_address=0x28044c0
+time_random=0.329096, space_random=0.154009, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1188035 us, waittime=1188010 us*****
+*****[fault_injection tool] mem_size*8*space_random=41341568.000000, fi_bit_point=41341568, fi_byte_point=5167696, value_of_target_byte(before fi)=ffffff83 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff82, address_for_target_byte=0x2cf1f10 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 4 
+start_address=0x28044c0
+time_random=0.554044, space_random=0.870409, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2000098 us, waittime=2000074 us*****
+*****[fault_injection tool] mem_size*8*space_random=233648704.000000, fi_bit_point=233648704, fi_byte_point=29206088, value_of_target_byte(before fi)=ffffffbe *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffbf, address_for_target_byte=0x43deb08 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 6 
+start_address=0x28044c0
+time_random=0.132996, space_random=0.996191, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=480115 us, waittime=480093 us*****
+*****[fault_injection tool] mem_size*8*space_random=267413040.000000, fi_bit_point=267413040, fi_byte_point=33426630, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x47e5186 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 7 
+start_address=0x28044c0
+time_random=0.362429, space_random=0.217224, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1308367 us, waittime=1308343 us*****
+*****[fault_injection tool] mem_size*8*space_random=58310512.000000, fi_bit_point=58310512, fi_byte_point=7288814, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x2ef7cae *****
+Execution Time = 3.680000 
+
+Number of Execution: = 8 
+start_address=0x28044c0
+time_random=0.585661, space_random=0.932770, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2114234 us, waittime=2114212 us*****
+*****[fault_injection tool] mem_size*8*space_random=250388592.000000, fi_bit_point=250388592, fi_byte_point=31298574, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x45dd8ce *****
+Execution Time = 3.670000 
+
+Number of Execution: = 9 
+start_address=0x28044c0
+time_random=0.458559, space_random=0.242843, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1655397 us, waittime=1655375 us*****
+*****[fault_injection tool] mem_size*8*space_random=65187540.000000, fi_bit_point=65187540, fi_byte_point=8148442, value_of_target_byte(before fi)=2 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=12, address_for_target_byte=0x2fc9a9a *****
+Full_verify: number of keys out of sort: 2
+Execution Time = 3.670000 
+
+Number of Execution: = 10 
+start_address=0x28044c0
+time_random=0.183047, space_random=0.459788, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=660799 us, waittime=660777 us*****
+*****[fault_injection tool] mem_size*8*space_random=123423272.000000, fi_bit_point=123423272, fi_byte_point=15427909, value_of_target_byte(before fi)=ffffffeb *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffea, address_for_target_byte=0x36bae05 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 11 
+start_address=0x28044c0
+time_random=0.906901, space_random=0.677710, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3273911 us, waittime=3273888 us*****
+*****[fault_injection tool] mem_size*8*space_random=181921328.000000, fi_bit_point=181921328, fi_byte_point=22740166, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3db4186 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 12 
+start_address=0x28044c0
+time_random=0.628241, space_random=0.389474, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2267950 us, waittime=2267928 us*****
+*****[fault_injection tool] mem_size*8*space_random=104548744.000000, fi_bit_point=104548744, fi_byte_point=13068593, value_of_target_byte(before fi)=ffffff8f *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff8e, address_for_target_byte=0x347adf1 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 13 
+start_address=0x28044c0
+time_random=0.997398, space_random=0.196300, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3600607 us, waittime=3600586 us*****
+*****[fault_injection tool] mem_size*8*space_random=52693804.000000, fi_bit_point=52693804, fi_byte_point=6586725, value_of_target_byte(before fi)=fffffffb *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffeb, address_for_target_byte=0x2e4c625 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 14 
+start_address=0x28044c0
+time_random=0.723440, space_random=0.416098, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2611616 us, waittime=2611595 us*****
+*****[fault_injection tool] mem_size*8*space_random=111695328.000000, fi_bit_point=111695328, fi_byte_point=13961916, value_of_target_byte(before fi)=4c *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4d, address_for_target_byte=0x3554f7c *****
+Execution Time = 3.680000 
+
+Number of Execution: = 15 
+start_address=0x28044c0
+time_random=0.946303, space_random=0.130168, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3416155 us, waittime=3416133 us*****
+*****[fault_injection tool] mem_size*8*space_random=34941632.000000, fi_bit_point=34941632, fi_byte_point=4367704, value_of_target_byte(before fi)=ffffff80 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff81, address_for_target_byte=0x2c2ea18 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 16 
+start_address=0x28044c0
+time_random=0.817278, space_random=0.938588, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2950372 us, waittime=2950351 us*****
+*****[fault_injection tool] mem_size*8*space_random=251950176.000000, fi_bit_point=251950176, fi_byte_point=31493772, value_of_target_byte(before fi)=ffffffe4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffe5, address_for_target_byte=0x460d34c *****
+Execution Time = 3.670000 
+
+Number of Execution: = 17 
+start_address=0x28044c0
+time_random=0.040966, space_random=0.656250, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=147887 us, waittime=147865 us*****
+*****[fault_injection tool] mem_size*8*space_random=176160864.000000, fi_bit_point=176160864, fi_byte_point=22020108, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3d044cc *****
+Execution Time = 3.680000 
+
+Number of Execution: = 18 
+start_address=0x28044c0
+time_random=0.266576, space_random=0.870951, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=962338 us, waittime=962315 us*****
+*****[fault_injection tool] mem_size*8*space_random=233794160.000000, fi_bit_point=233794160, fi_byte_point=29224270, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x43e320e *****
+Execution Time = 3.670000 
+
+Number of Execution: = 19 
+start_address=0x28044c0
+time_random=0.492012, space_random=0.590434, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1776161 us, waittime=1776139 us*****
+*****[fault_injection tool] mem_size*8*space_random=158493504.000000, fi_bit_point=158493504, fi_byte_point=19811688, value_of_target_byte(before fi)=ffffff82 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff83, address_for_target_byte=0x3ae9228 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 20 
+start_address=0x28044c0
+time_random=0.356540, space_random=0.392354, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1287109 us, waittime=1287088 us*****
+*****[fault_injection tool] mem_size*8*space_random=105321752.000000, fi_bit_point=105321752, fi_byte_point=13165219, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3492763 *****
+Execution Time = 3.660000 
+
+Number of Execution: = 21 
+start_address=0x28044c0
+time_random=0.084168, space_random=0.612622, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=303846 us, waittime=303824 us*****
+*****[fault_injection tool] mem_size*8*space_random=164449440.000000, fi_bit_point=164449440, fi_byte_point=20556180, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3b9ee54 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 22 
+start_address=0x28044c0
+time_random=0.308559, space_random=0.329104, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1113899 us, waittime=1113878 us*****
+*****[fault_injection tool] mem_size*8*space_random=88343200.000000, fi_bit_point=88343200, fi_byte_point=11042900, value_of_target_byte(before fi)=ffffff90 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff91, address_for_target_byte=0x328c514 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 23 
+start_address=0x28044c0
+time_random=0.037899, space_random=0.549960, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=136814 us, waittime=136793 us*****
+*****[fault_injection tool] mem_size*8*space_random=147628768.000000, fi_bit_point=147628768, fi_byte_point=18453596, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x399d91c *****
+Execution Time = 3.680000 
+
+Number of Execution: = 24 
+start_address=0x28044c0
+time_random=0.406825, space_random=0.358586, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1468636 us, waittime=1468614 us*****
+*****[fault_injection tool] mem_size*8*space_random=96257176.000000, fi_bit_point=96257176, fi_byte_point=12032147, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x337dd53 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 26 
+start_address=0x28044c0
+time_random=0.987221, space_random=0.484235, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3563869 us, waittime=3563847 us*****
+*****[fault_injection tool] mem_size*8*space_random=129985752.000000, fi_bit_point=129985752, fi_byte_point=16248219, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x378325b *****
+Execution Time = 3.670000 
+
+Number of Execution: = 27 
+start_address=0x28044c0
+time_random=0.716219, space_random=0.204823, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2585551 us, waittime=2585530 us*****
+*****[fault_injection tool] mem_size*8*space_random=54981872.000000, fi_bit_point=54981872, fi_byte_point=6872734, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x2e9235e *****
+Execution Time = 3.680000 
+
+Number of Execution: = 28 
+start_address=0x28044c0
+time_random=0.436147, space_random=0.918045, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1574488 us, waittime=1574468 us*****
+*****[fault_injection tool] mem_size*8*space_random=246435952.000000, fi_bit_point=246435952, fi_byte_point=30804494, value_of_target_byte(before fi)=6 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=7, address_for_target_byte=0x4564ece *****
+Execution Time = 3.670000 
+
+Number of Execution: = 29 
+start_address=0x28044c0
+time_random=0.166763, space_random=0.640316, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=602015 us, waittime=601993 us*****
+*****[fault_injection tool] mem_size*8*space_random=171883520.000000, fi_bit_point=171883520, fi_byte_point=21485440, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3c81c40 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 30 
+start_address=0x28044c0
+time_random=0.029882, space_random=0.441782, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=107873 us, waittime=107851 us*****
+*****[fault_injection tool] mem_size*8*space_random=118589880.000000, fi_bit_point=118589880, fi_byte_point=14823735, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x36275f7 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 31 
+start_address=0x28044c0
+time_random=0.755565, space_random=0.659644, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2727588 us, waittime=2727567 us*****
+*****[fault_injection tool] mem_size*8*space_random=177071824.000000, fi_bit_point=177071824, fi_byte_point=22133978, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3d2019a *****
+Execution Time = 3.680000 
+
+Number of Execution: = 32 
+start_address=0x28044c0
+time_random=0.980595, space_random=0.376472, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3539949 us, waittime=3539927 us*****
+*****[fault_injection tool] mem_size*8*space_random=101058480.000000, fi_bit_point=101058480, fi_byte_point=12632310, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x34105b6 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 33 
+start_address=0x28044c0
+time_random=0.202711, space_random=0.091116, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=731785 us, waittime=731763 us*****
+*****[fault_injection tool] mem_size*8*space_random=24458866.000000, fi_bit_point=24458866, fi_byte_point=3057358, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=0, address_for_target_byte=0x2aeeb8e *****
+Execution Time = 3.690000 
+
+Number of Execution: = 34 
+start_address=0x28044c0
+time_random=0.574420, space_random=0.401072, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2073656 us, waittime=2073634 us*****
+*****[fault_injection tool] mem_size*8*space_random=107661984.000000, fi_bit_point=107661984, fi_byte_point=13457748, value_of_target_byte(before fi)=ffffffd6 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd7, address_for_target_byte=0x34d9e14 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 35 
+start_address=0x28044c0
+time_random=0.797743, space_random=0.115964, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2879851 us, waittime=2879829 us*****
+*****[fault_injection tool] mem_size*8*space_random=31128776.000000, fi_bit_point=31128776, fi_byte_point=3891097, value_of_target_byte(before fi)=ffffff97 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff96, address_for_target_byte=0x2bba459 *****
+Execution Time = 3.720000 
+
+Number of Execution: = 36 
+start_address=0x28044c0
+time_random=0.524734, space_random=0.835717, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1894290 us, waittime=1894268 us*****
+*****[fault_injection tool] mem_size*8*space_random=224336080.000000, fi_bit_point=224336080, fi_byte_point=28042010, value_of_target_byte(before fi)=2 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0x42c27da *****
+Execution Time = 3.680000 
+
+Number of Execution: = 37 
+start_address=0x28044c0
+time_random=0.250562, space_random=0.551860, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=904527 us, waittime=904505 us*****
+*****[fault_injection tool] mem_size*8*space_random=148138864.000000, fi_bit_point=148138864, fi_byte_point=18517358, value_of_target_byte(before fi)=5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0x39ad22e *****
+Execution Time = 3.700000 
+
+Number of Execution: = 38 
+start_address=0x28044c0
+time_random=0.621266, space_random=0.860765, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2242770 us, waittime=2242747 us*****
+*****[fault_injection tool] mem_size*8*space_random=231059744.000000, fi_bit_point=231059744, fi_byte_point=28882468, value_of_target_byte(before fi)=ffffffb4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb5, address_for_target_byte=0x438fae4 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 39 
+start_address=0x28044c0
+time_random=0.845331, space_random=0.078339, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3051646 us, waittime=3051622 us*****
+*****[fault_injection tool] mem_size*8*space_random=21028904.000000, fi_bit_point=21028904, fi_byte_point=2628613, value_of_target_byte(before fi)=57 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=56, address_for_target_byte=0x2a860c5 *****
+Execution Time = 3.740000 
+
+Number of Execution: = 40 
+start_address=0x28044c0
+time_random=0.566762, space_random=0.291731, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2046012 us, waittime=2045990 us*****
+*****[fault_injection tool] mem_size*8*space_random=78311056.000000, fi_bit_point=78311056, fi_byte_point=9788882, value_of_target_byte(before fi)=2 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0x315a292 *****
+Execution Time = 3.690000 
+
+Number of Execution: = 41 
+start_address=0x28044c0
+time_random=0.796013, space_random=0.513905, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2873608 us, waittime=2873586 us*****
+*****[fault_injection tool] mem_size*8*space_random=137950256.000000, fi_bit_point=137950256, fi_byte_point=17243782, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3876346 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 42 
+start_address=0x28044c0
+time_random=0.159154, space_random=0.813755, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=574545 us, waittime=574525 us*****
+*****[fault_injection tool] mem_size*8*space_random=218440800.000000, fi_bit_point=218440800, fi_byte_point=27305100, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x420e94c *****
+Execution Time = 3.680000 
+
+Number of Execution: = 43 
+start_address=0x28044c0
+time_random=0.887978, space_random=0.035644, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3205599 us, waittime=3205577 us*****
+*****[fault_injection tool] mem_size*8*space_random=9568214.000000, fi_bit_point=9568214, fi_byte_point=1196026, value_of_target_byte(before fi)=1 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=41, address_for_target_byte=0x29284ba *****
+Execution Time = 3.760000 
+
+Number of Execution: = 44 
+start_address=0x28044c0
+time_random=0.610386, space_random=0.749750, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2203492 us, waittime=2203470 us*****
+*****[fault_injection tool] mem_size*8*space_random=201259424.000000, fi_bit_point=201259424, fi_byte_point=25157428, value_of_target_byte(before fi)=4c *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4d, address_for_target_byte=0x40023f4 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 45 
+start_address=0x28044c0
+time_random=0.835693, space_random=0.966790, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3016850 us, waittime=3016828 us*****
+*****[fault_injection tool] mem_size*8*space_random=259520832.000000, fi_bit_point=259520832, fi_byte_point=32440104, value_of_target_byte(before fi)=3e *****
+*****[fault_injection tool] value_of_target_byte(after fi)=3f, address_for_target_byte=0x46f43e8 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 46 
+start_address=0x28044c0
+time_random=0.704882, space_random=0.772874, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2544624 us, waittime=2544601 us*****
+*****[fault_injection tool] mem_size*8*space_random=207466848.000000, fi_bit_point=207466848, fi_byte_point=25933356, value_of_target_byte(before fi)=ffffffb3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb2, address_for_target_byte=0x40bfaec *****
+Execution Time = 3.680000 
+
+Number of Execution: = 47 
+start_address=0x28044c0
+time_random=0.926671, space_random=0.987659, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3345281 us, waittime=3345259 us*****
+*****[fault_injection tool] mem_size*8*space_random=265122560.000000, fi_bit_point=265122560, fi_byte_point=33140320, value_of_target_byte(before fi)=4f *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4e, address_for_target_byte=0x479f320 *****
+Execution Time = 3.690000 
+
+Number of Execution: = 48 
+start_address=0x28044c0
+time_random=0.151444, space_random=0.705015, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=546711 us, waittime=546689 us*****
+*****[fault_injection tool] mem_size*8*space_random=189251088.000000, fi_bit_point=189251088, fi_byte_point=23656386, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3e93c82 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 49 
+start_address=0x28044c0
+time_random=0.880668, space_random=0.427651, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3179212 us, waittime=3179190 us*****
+*****[fault_injection tool] mem_size*8*space_random=114796808.000000, fi_bit_point=114796808, fi_byte_point=14349601, value_of_target_byte(before fi)=ffffffc8 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffc9, address_for_target_byte=0x35b39e1 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 50 
+start_address=0x28044c0
+time_random=0.246768, space_random=0.731018, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=890833 us, waittime=890811 us*****
+*****[fault_injection tool] mem_size*8*space_random=196231248.000000, fi_bit_point=196231248, fi_byte_point=24528906, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3f68cca *****
+Execution Time = 3.680000 
+
+Number of Execution: = 51 
+start_address=0x28044c0
+time_random=0.972658, space_random=0.448878, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3511295 us, waittime=3511273 us*****
+*****[fault_injection tool] mem_size*8*space_random=120494800.000000, fi_bit_point=120494800, fi_byte_point=15061850, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x366181a *****
+Execution Time = 3.680000 
+
+Number of Execution: = 52 
+start_address=0x28044c0
+time_random=0.699090, space_random=0.665516, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2523715 us, waittime=2523692 us*****
+*****[fault_injection tool] mem_size*8*space_random=178648144.000000, fi_bit_point=178648144, fi_byte_point=22331018, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3d5034a *****
+Execution Time = 3.680000 
+
+Number of Execution: = 53 
+start_address=0x28044c0
+time_random=0.066377, space_random=0.972222, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=239621 us, waittime=239596 us*****
+*****[fault_injection tool] mem_size*8*space_random=260978768.000000, fi_bit_point=260978768, fi_byte_point=32622346, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x4720bca *****
+Execution Time = 3.700000 
+
+Number of Execution: = 54 
+start_address=0x28044c0
+time_random=0.788537, space_random=0.686867, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2846619 us, waittime=2846597 us*****
+*****[fault_injection tool] mem_size*8*space_random=184379344.000000, fi_bit_point=184379344, fi_byte_point=23047418, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3dff1ba *****
+Execution Time = 3.700000 
+
+Number of Execution: = 55 
+start_address=0x28044c0
+time_random=0.513509, space_random=0.904280, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1853765 us, waittime=1853742 us*****
+*****[fault_injection tool] mem_size*8*space_random=242740880.000000, fi_bit_point=242740880, fi_byte_point=30342610, value_of_target_byte(before fi)=1 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=0, address_for_target_byte=0x44f4292 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 56 
+start_address=0x28044c0
+time_random=0.738623, space_random=0.621373, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2666430 us, waittime=2666408 us*****
+*****[fault_injection tool] mem_size*8*space_random=166798528.000000, fi_bit_point=166798528, fi_byte_point=20849816, value_of_target_byte(before fi)=ffffffdd *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffdc, address_for_target_byte=0x3be6958 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 57 
+start_address=0x28044c0
+time_random=0.608314, space_random=0.428655, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2196014 us, waittime=2195992 us*****
+*****[fault_injection tool] mem_size*8*space_random=115066128.000000, fi_bit_point=115066128, fi_byte_point=14383266, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x35bbd62 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 59 
+start_address=0x28044c0
+time_random=0.047847, space_random=0.470523, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=172726 us, waittime=172704 us*****
+*****[fault_injection tool] mem_size*8*space_random=126305104.000000, fi_bit_point=126305104, fi_byte_point=15788138, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x3712d2a *****
+Execution Time = 3.670000 
+
+Number of Execution: = 60 
+start_address=0x28044c0
+time_random=0.419074, space_random=0.776923, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1512855 us, waittime=1512833 us*****
+*****[fault_injection tool] mem_size*8*space_random=208553744.000000, fi_bit_point=208553744, fi_byte_point=26069218, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x40e0da2 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 61 
+start_address=0x28044c0
+time_random=0.639185, space_random=0.991822, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2307459 us, waittime=2307437 us*****
+*****[fault_injection tool] mem_size*8*space_random=266240320.000000, fi_bit_point=266240320, fi_byte_point=33280040, value_of_target_byte(before fi)=46 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=47, address_for_target_byte=0x47c14e8 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 62 
+start_address=0x28044c0
+time_random=0.368182, space_random=0.211830, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1329136 us, waittime=1329115 us*****
+*****[fault_injection tool] mem_size*8*space_random=56862660.000000, fi_bit_point=56862660, fi_byte_point=7107832, value_of_target_byte(before fi)=fffffffd *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffed, address_for_target_byte=0x2ecb9b8 *****
+Execution Time = 3.710000 
+
+Number of Execution: = 63 
+start_address=0x28044c0
+time_random=0.734850, space_random=0.017401, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2652808 us, waittime=2652785 us*****
+*****[fault_injection tool] mem_size*8*space_random=4671147.500000, fi_bit_point=4671147, fi_byte_point=583893, value_of_target_byte(before fi)=ffffff9b *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff93, address_for_target_byte=0x2892d95 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 64 
+start_address=0x28044c0
+time_random=0.961435, space_random=0.734631, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3470781 us, waittime=3470760 us*****
+*****[fault_injection tool] mem_size*8*space_random=197200960.000000, fi_bit_point=197200960, fi_byte_point=24650120, value_of_target_byte(before fi)=fffffff4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=fffffff5, address_for_target_byte=0x3f86648 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 65 
+start_address=0x28044c0
+time_random=0.689586, space_random=0.955079, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2489405 us, waittime=2489383 us*****
+*****[fault_injection tool] mem_size*8*space_random=256377072.000000, fi_bit_point=256377072, fi_byte_point=32047134, value_of_target_byte(before fi)=5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0x46944de *****
+Execution Time = 3.680000 
+
+Number of Execution: = 66 
+start_address=0x28044c0
+time_random=0.914140, space_random=0.672743, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3300045 us, waittime=3300023 us*****
+*****[fault_injection tool] mem_size*8*space_random=180588048.000000, fi_bit_point=180588048, fi_byte_point=22573506, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3d8b682 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 67 
+start_address=0x28044c0
+time_random=0.780554, space_random=0.976222, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2817800 us, waittime=2817777 us*****
+*****[fault_injection tool] mem_size*8*space_random=262052640.000000, fi_bit_point=262052640, fi_byte_point=32756580, value_of_target_byte(before fi)=d *****
+*****[fault_injection tool] value_of_target_byte(after fi)=c, address_for_target_byte=0x4741824 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 68 
+start_address=0x28044c0
+time_random=0.001212, space_random=0.190204, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=4375 us, waittime=4285 us*****
+*****[fault_injection tool] mem_size*8*space_random=51057532.000000, fi_bit_point=51057532, fi_byte_point=6382191, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=10, address_for_target_byte=0x2e1a72f *****
+Execution Time = 3.680000 
+
+Number of Execution: = 69 
+start_address=0x28044c0
+time_random=0.729414, space_random=0.911373, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2633183 us, waittime=2633160 us*****
+*****[fault_injection tool] mem_size*8*space_random=244644720.000000, fi_bit_point=244644720, fi_byte_point=30580590, value_of_target_byte(before fi)=5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0x452e42e *****
+Execution Time = 3.700000 
+
+Number of Execution: = 70 
+start_address=0x28044c0
+time_random=0.452189, space_random=0.126273, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1632401 us, waittime=1632281 us*****
+*****[fault_injection tool] mem_size*8*space_random=33896020.000000, fi_bit_point=33896020, fi_byte_point=4237002, value_of_target_byte(before fi)=6 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=16, address_for_target_byte=0x2c0eb8a *****
+Full_verify: number of keys out of sort: 2
+Execution Time = 3.700000 
+
+Number of Execution: = 71 
+start_address=0x28044c0
+time_random=0.323428, space_random=0.432473, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1167574 us, waittime=1167552 us*****
+*****[fault_injection tool] mem_size*8*space_random=116091216.000000, fi_bit_point=116091216, fi_byte_point=14511402, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x35db1ea *****
+Execution Time = 3.680000 
+
+Number of Execution: = 72 
+start_address=0x28044c0
+time_random=0.049365, space_random=0.153008, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=178206 us, waittime=178184 us*****
+*****[fault_injection tool] mem_size*8*space_random=41072672.000000, fi_bit_point=41072672, fi_byte_point=5134084, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x2ce9bc4 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 73 
+start_address=0x28044c0
+time_random=0.272901, space_random=0.866576, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=985171 us, waittime=985149 us*****
+*****[fault_injection tool] mem_size*8*space_random=232619728.000000, fi_bit_point=232619728, fi_byte_point=29077466, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x43bf49a *****
+Execution Time = 3.680000 
+
+Number of Execution: = 74 
+start_address=0x28044c0
+time_random=0.995276, space_random=0.082426, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3592945 us, waittime=3592921 us*****
+*****[fault_injection tool] mem_size*8*space_random=22125968.000000, fi_bit_point=22125968, fi_byte_point=2765746, value_of_target_byte(before fi)=2 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0x2aa7872 *****
+Execution Time = 3.720000 
+
+Number of Execution: = 75 
+start_address=0x28044c0
+time_random=0.369466, space_random=0.392666, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1333773 us, waittime=1333751 us*****
+*****[fault_injection tool] mem_size*8*space_random=105405584.000000, fi_bit_point=105405584, fi_byte_point=13175698, value_of_target_byte(before fi)=4 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x3495052 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 76 
+start_address=0x28044c0
+time_random=0.089442, space_random=0.107081, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=322885 us, waittime=322863 us*****
+*****[fault_injection tool] mem_size*8*space_random=28744238.000000, fi_bit_point=28744238, fi_byte_point=3593029, value_of_target_byte(before fi)=30 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=70, address_for_target_byte=0x2b71805 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 77 
+start_address=0x28044c0
+time_random=0.816562, space_random=0.824333, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2947788 us, waittime=2947767 us*****
+*****[fault_injection tool] mem_size*8*space_random=221280080.000000, fi_bit_point=221280080, fi_byte_point=27660010, value_of_target_byte(before fi)=5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0x42653aa *****
+Execution Time = 3.690000 
+
+Number of Execution: = 78 
+start_address=0x28044c0
+time_random=0.541113, space_random=0.042879, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1953418 us, waittime=1953398 us*****
+*****[fault_injection tool] mem_size*8*space_random=11510189.000000, fi_bit_point=11510189, fi_byte_point=1438773, value_of_target_byte(before fi)=ffffffff *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffdf, address_for_target_byte=0x29638f5 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 79 
+start_address=0x28044c0
+time_random=0.906829, space_random=0.846089, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3273652 us, waittime=3273630 us*****
+*****[fault_injection tool] mem_size*8*space_random=227120352.000000, fi_bit_point=227120352, fi_byte_point=28390044, value_of_target_byte(before fi)=ffffff99 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff98, address_for_target_byte=0x431775c *****
+Execution Time = 3.690000 
+
+Number of Execution: = 80 
+start_address=0x28044c0
+time_random=0.632718, space_random=0.562442, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2284111 us, waittime=2284090 us*****
+*****[fault_injection tool] mem_size*8*space_random=150979456.000000, fi_bit_point=150979456, fi_byte_point=18872432, value_of_target_byte(before fi)=59 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=58, address_for_target_byte=0x3a03d30 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 81 
+start_address=0x28044c0
+time_random=0.858473, space_random=0.281025, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3099086 us, waittime=3099062 us*****
+*****[fault_injection tool] mem_size*8*space_random=75437040.000000, fi_bit_point=75437040, fi_byte_point=9429630, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x310273e *****
+Execution Time = 3.710000 
+
+Number of Execution: = 82 
+start_address=0x28044c0
+time_random=0.084524, space_random=0.501408, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=305131 us, waittime=305109 us*****
+*****[fault_injection tool] mem_size*8*space_random=134595632.000000, fi_bit_point=134595632, fi_byte_point=16824454, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x380fd46 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 83 
+start_address=0x28044c0
+time_random=0.451917, space_random=0.805828, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1631418 us, waittime=1631397 us*****
+*****[fault_injection tool] mem_size*8*space_random=216312768.000000, fi_bit_point=216312768, fi_byte_point=27039096, value_of_target_byte(before fi)=ffffffd0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd1, address_for_target_byte=0x41cda38 *****
+Execution Time = 3.710000 
+
+Number of Execution: = 84 
+start_address=0x28044c0
+time_random=0.177278, space_random=0.523756, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=639974 us, waittime=639953 us*****
+*****[fault_injection tool] mem_size*8*space_random=140594560.000000, fi_bit_point=140594560, fi_byte_point=17574320, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x38c6e70 *****
+Execution Time = 3.700000 
+
+Number of Execution: = 85 
+start_address=0x28044c0
+time_random=0.900430, space_random=0.238132, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3250551 us, waittime=3250530 us*****
+*****[fault_injection tool] mem_size*8*space_random=63923184.000000, fi_bit_point=63923184, fi_byte_point=7990398, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x2fa313e *****
+Execution Time = 3.690000 
+
+Number of Execution: = 86 
+start_address=0x28044c0
+time_random=0.128104, space_random=0.457659, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=462455 us, waittime=462433 us*****
+*****[fault_injection tool] mem_size*8*space_random=122851904.000000, fi_bit_point=122851904, fi_byte_point=15356488, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x36a9708 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 87 
+start_address=0x28044c0
+time_random=0.492418, space_random=0.758783, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1777630 us, waittime=1777608 us*****
+*****[fault_injection tool] mem_size*8*space_random=203684288.000000, fi_bit_point=203684288, fi_byte_point=25460536, value_of_target_byte(before fi)=ffffff9c *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff9d, address_for_target_byte=0x404c3f8 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 88 
+start_address=0x28044c0
+time_random=0.721076, space_random=0.479777, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2603085 us, waittime=2603061 us*****
+*****[fault_injection tool] mem_size*8*space_random=128789048.000000, fi_bit_point=128789048, fi_byte_point=16098631, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x375ea07 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 89 
+start_address=0x28044c0
+time_random=0.945252, space_random=0.198697, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3412359 us, waittime=3412337 us*****
+*****[fault_injection tool] mem_size*8*space_random=53337308.000000, fi_bit_point=53337308, fi_byte_point=6667163, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=10, address_for_target_byte=0x2e6005b *****
+Execution Time = 3.670000 
+
+Number of Execution: = 90 
+start_address=0x28044c0
+time_random=0.668498, space_random=0.412777, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2413278 us, waittime=2413257 us*****
+*****[fault_injection tool] mem_size*8*space_random=110803888.000000, fi_bit_point=110803888, fi_byte_point=13850486, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x3539c36 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 91 
+start_address=0x28044c0
+time_random=0.538206, space_random=0.220186, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1942925 us, waittime=1942904 us*****
+*****[fault_injection tool] mem_size*8*space_random=59105840.000000, fi_bit_point=59105840, fi_byte_point=7388230, value_of_target_byte(before fi)=6 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=7, address_for_target_byte=0x2f10106 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 92 
+start_address=0x28044c0
+time_random=0.762994, space_random=0.437713, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=2754409 us, waittime=2754387 us*****
+*****[fault_injection tool] mem_size*8*space_random=117497616.000000, fi_bit_point=117497616, fi_byte_point=14687202, value_of_target_byte(before fi)=3 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0x36060a2 *****
+Execution Time = 3.750000 
+
+Number of Execution: = 94 
+start_address=0x28044c0
+time_random=0.203662, space_random=0.979618, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=735219 us, waittime=735197 us*****
+*****[fault_injection tool] mem_size*8*space_random=262964112.000000, fi_bit_point=262964112, fi_byte_point=32870514, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x475d532 *****
+Execution Time = 3.670000 
+
+Number of Execution: = 95 
+start_address=0x28044c0
+time_random=0.929939, space_random=0.198039, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3357078 us, waittime=3357053 us*****
+*****[fault_injection tool] mem_size*8*space_random=53160604.000000, fi_bit_point=53160604, fi_byte_point=6645075, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=10, address_for_target_byte=0x2e5aa13 *****
+Execution Time = 3.910000 
+
+Number of Execution: = 96 
+start_address=0x28044c0
+time_random=0.301517, space_random=0.007853, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1088477 us, waittime=1088454 us*****
+*****[fault_injection tool] mem_size*8*space_random=2108142.250000, fi_bit_point=2108142, fi_byte_point=263517, value_of_target_byte(before fi)=ffffffb2 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=fffffff2, address_for_target_byte=0x2844a1d *****
+Execution Time = 3.680000 
+
+Number of Execution: = 97 
+start_address=0x28044c0
+time_random=0.522899, space_random=0.221112, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1887663 us, waittime=1887641 us*****
+*****[fault_injection tool] mem_size*8*space_random=59354392.000000, fi_bit_point=59354392, fi_byte_point=7419299, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x2f17a63 *****
+Execution Time = 3.680000 
+
+Number of Execution: = 98 
+start_address=0x28044c0
+time_random=0.249340, space_random=0.938468, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=900116 us, waittime=900094 us*****
+*****[fault_injection tool] mem_size*8*space_random=251918160.000000, fi_bit_point=251918160, fi_byte_point=31489770, value_of_target_byte(before fi)=0 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x460c3aa *****
+Execution Time = 3.670000 
+
+Number of Execution: = 99 
+start_address=0x28044c0
+time_random=0.476553, space_random=0.658966, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=1720356 us, waittime=1720334 us*****
+*****[fault_injection tool] mem_size*8*space_random=176889952.000000, fi_bit_point=176889952, fi_byte_point=22111244, value_of_target_byte(before fi)=6a *****
+*****[fault_injection tool] value_of_target_byte(after fi)=6b, address_for_target_byte=0x3d1a8cc *****
+Execution Time = 3.670000 
+
+Number of Execution: = 100 
+start_address=0x28044c0
+time_random=0.841245, space_random=0.960087, exe_time=3.610000 seconds, mem_size=33554432 bytes
+*****[fault_injection tool] start_addr=0x28044c0, mem_size=33554432 bytes, tigger_time=3036894 us, waittime=3036872 us*****
+*****[fault_injection tool] mem_size*8*space_random=257721408.000000, fi_bit_point=257721408, fi_byte_point=32215176, value_of_target_byte(before fi)=ffffff89 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffff88, address_for_target_byte=0x46bd548 *****
+Execution Time = 3.680000 
+
