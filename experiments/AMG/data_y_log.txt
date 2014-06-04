@@ -1,0 +1,349 @@
+Number of Execution: =  1
+start_address=0x7f5d76233010
+time_random=0.702486, space_random=0.315862, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f5d76233010, mem_size=1000000 bytes, tigger_time=2025378 us, waittime=2025340 us*****
+Wall time = 2.797214 seconds. 
+./launcher: line 6:  1469 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  2
+start_address=0x7fc83e96a010
+time_random=0.991573, space_random=0.376690, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fc83e96a010, mem_size=1000000 bytes, tigger_time=2858863 us, waittime=2858822 us*****
+Wall time = 2.857482 seconds. 
+./launcher: line 6:  1497 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  3
+start_address=0x7f304ec75010
+time_random=0.784365, space_random=0.943007, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f304ec75010, mem_size=1000000 bytes, tigger_time=2261448 us, waittime=2261409 us*****
+Wall time = 3.010739 seconds. 
+./launcher: line 6:  1502 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  4
+start_address=0x7fdbd36da010
+time_random=0.434110, space_random=0.420273, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fdbd36da010, mem_size=1000000 bytes, tigger_time=1251608 us, waittime=1251570 us*****
+Wall time = 2.852377 seconds. 
+./launcher: line 6:  1507 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  5
+start_address=0x7f05b115e010
+time_random=0.867446, space_random=0.073623, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f05b115e010, mem_size=1000000 bytes, tigger_time=2500983 us, waittime=2500944 us*****
+Wall time = 2.794053 seconds. 
+./launcher: line 6:  1509 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  6
+start_address=0x7f34691de010
+time_random=0.162258, space_random=0.141584, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f34691de010, mem_size=1000000 bytes, tigger_time=467814 us, waittime=467771 us*****
+Wall time = 2.824203 seconds. 
+./launcher: line 6:  1511 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  7
+start_address=0x7f51f44b7010
+time_random=0.736328, space_random=0.882266, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f51f44b7010, mem_size=1000000 bytes, tigger_time=2122950 us, waittime=2122921 us*****
+Wall time = 2.847913 seconds. 
+./launcher: line 6:  1543 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  8
+start_address=0x7fb16e632010
+time_random=0.025420, space_random=0.441811, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fb16e632010, mem_size=1000000 bytes, tigger_time=73291 us, waittime=73253 us*****
+Wall time = 2.803804 seconds. 
+./launcher: line 6:  1545 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  9
+start_address=0x7f8c4b09a010
+time_random=0.607360, space_random=0.689849, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f8c4b09a010, mem_size=1000000 bytes, tigger_time=1751115 us, waittime=1751081 us*****
+Wall time = 2.789026 seconds. 
+./launcher: line 6:  1567 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  10
+start_address=0x7f005a4ca010
+time_random=0.895594, space_random=0.750718, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f005a4ca010, mem_size=1000000 bytes, tigger_time=2582140 us, waittime=2582100 us*****
+Wall time = 2.851836 seconds. 
+./launcher: line 6:  1569 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  11
+start_address=0x7f97afdae010
+time_random=0.185288, space_random=0.313090, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f97afdae010, mem_size=1000000 bytes, tigger_time=534215 us, waittime=534172 us*****
+Wall time = 2.816370 seconds. 
+./launcher: line 6:  1601 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  12
+start_address=0x7fed8288a010
+time_random=0.621372, space_random=0.968301, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fed8288a010, mem_size=1000000 bytes, tigger_time=1791512 us, waittime=1791484 us*****
+Wall time = 2.851289 seconds. 
+./launcher: line 6:  1605 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  13
+start_address=0x7fa912387010
+time_random=0.554578, space_random=0.620031, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fa912387010, mem_size=1000000 bytes, tigger_time=1598937 us, waittime=1598882 us*****
+Wall time = 2.899140 seconds. 
+./launcher: line 6:  1625 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  14
+start_address=0x7fc801b96010
+time_random=0.350460, space_random=0.689677, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fc801b96010, mem_size=1000000 bytes, tigger_time=1010431 us, waittime=1010392 us*****
+Wall time = 2.831851 seconds. 
+./launcher: line 6:  1637 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  15
+start_address=0x7fcfa5a04010
+time_random=0.779692, space_random=0.336379, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fcfa5a04010, mem_size=1000000 bytes, tigger_time=2247975 us, waittime=2247932 us*****
+Wall time = 2.794072 seconds. 
+./launcher: line 6:  1639 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  16
+start_address=0x7fe711375010
+time_random=0.574317, space_random=0.405110, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fe711375010, mem_size=1000000 bytes, tigger_time=1655847 us, waittime=1655808 us*****
+Wall time = 2.828628 seconds. 
+./launcher: line 6:  1641 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  17
+start_address=0x7f75dca38010
+time_random=0.007284, space_random=0.555297, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f75dca38010, mem_size=1000000 bytes, tigger_time=20999 us, waittime=20967 us*****
+Wall time = 2.847382 seconds. 
+./launcher: line 6:  1643 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  18
+start_address=0x7ff2d623c010
+time_random=0.083342, space_random=0.796852, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7ff2d623c010, mem_size=1000000 bytes, tigger_time=240287 us, waittime=240255 us*****
+Wall time = 2.824446 seconds. 
+./launcher: line 6:  1645 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  19
+start_address=0x7f92750b3010
+time_random=0.653154, space_random=0.031055, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f92750b3010, mem_size=1000000 bytes, tigger_time=1883146 us, waittime=1883115 us*****
+Wall time = 2.848235 seconds. 
+./launcher: line 6:  1647 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  20
+start_address=0x7f2556321010
+time_random=0.446030, space_random=0.098765, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f2556321010, mem_size=1000000 bytes, tigger_time=1285975 us, waittime=1285943 us*****
+Wall time = 2.833552 seconds. 
+./launcher: line 6:  1649 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  21
+start_address=0x7f15ff2b7010
+time_random=0.382751, space_random=0.754289, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f15ff2b7010, mem_size=1000000 bytes, tigger_time=1103532 us, waittime=1103489 us*****
+Wall time = 2.791011 seconds. 
+./launcher: line 6:  1651 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  22
+start_address=0x7fc2a7998010
+time_random=0.815387, space_random=0.904818, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fc2a7998010, mem_size=1000000 bytes, tigger_time=2350891 us, waittime=2350852 us*****
+Wall time = 2.830973 seconds. 
+./launcher: line 6:  1653 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  23
+start_address=0x7fdd661b9010
+time_random=0.107050, space_random=0.970381, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fdd661b9010, mem_size=1000000 bytes, tigger_time=308643 us, waittime=308612 us*****
+Wall time = 2.855014 seconds. 
+./launcher: line 6:  1655 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  24
+start_address=0x7fc544705010
+time_random=0.180823, space_random=0.206856, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fc544705010, mem_size=1000000 bytes, tigger_time=521340 us, waittime=521309 us*****
+Wall time = 2.833936 seconds. 
+./launcher: line 6:  1657 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  25
+start_address=0x7f223f2ce010
+time_random=0.617878, space_random=0.362830, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f223f2ce010, mem_size=1000000 bytes, tigger_time=1781440 us, waittime=1781411 us*****
+Wall time = 2.795716 seconds. 
+./launcher: line 6:  1659 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  26
+start_address=0x7f0d45137010
+time_random=0.549346, space_random=0.513817, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f0d45137010, mem_size=1000000 bytes, tigger_time=1583852 us, waittime=1583809 us*****
+Wall time = 2.793548 seconds. 
+./launcher: line 6:  1661 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  27
+start_address=0x7f2850078010
+time_random=0.839395, space_random=0.077123, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f2850078010, mem_size=1000000 bytes, tigger_time=2420109 us, waittime=2420069 us*****
+Wall time = 2.849204 seconds. 
+./launcher: line 6:  1663 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  28
+start_address=0x7fe60347d010
+time_random=0.634808, space_random=0.645611, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fe60347d010, mem_size=1000000 bytes, tigger_time=1830252 us, waittime=1830217 us*****
+Wall time = 2.857484 seconds. 
+./launcher: line 6:  1673 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  29
+start_address=0x7f78f4d65010
+time_random=0.424337, space_random=0.209553, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f78f4d65010, mem_size=1000000 bytes, tigger_time=1223431 us, waittime=1223400 us*****
+Wall time = 2.828064 seconds. 
+./launcher: line 6:  1675 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  30
+start_address=0x7fd93a61d010
+time_random=0.358073, space_random=0.362464, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fd93a61d010, mem_size=1000000 bytes, tigger_time=1032380 us, waittime=1032349 us*****
+Wall time = 2.830685 seconds. 
+./launcher: line 6:  1679 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  31
+start_address=0x7f0152a7b010
+time_random=0.790219, space_random=0.512843, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f0152a7b010, mem_size=1000000 bytes, tigger_time=2278326 us, waittime=2278295 us*****
+Wall time = 2.832595 seconds. 
+./launcher: line 6:  1681 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  32
+start_address=0x7fd59548c010
+time_random=0.083153, space_random=0.080556, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fd59548c010, mem_size=1000000 bytes, tigger_time=239743 us, waittime=239704 us*****
+Wall time = 2.791964 seconds. 
+./launcher: line 6:  1683 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  33
+start_address=0x7f537541b010
+time_random=0.652086, space_random=0.313865, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f537541b010, mem_size=1000000 bytes, tigger_time=1880068 us, waittime=1880037 us*****
+Wall time = 2.834073 seconds. 
+./launcher: line 6:  1685 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  34
+start_address=0x7f6b60fee010
+time_random=0.447313, space_random=0.383550, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f6b60fee010, mem_size=1000000 bytes, tigger_time=1289674 us, waittime=1289637 us*****
+Wall time = 2.827456 seconds. 
+./launcher: line 6:  1712 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  35
+start_address=0x7f3c3d2a9010
+time_random=0.881557, space_random=0.532886, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f3c3d2a9010, mem_size=1000000 bytes, tigger_time=2541668 us, waittime=2541626 us*****
+Wall time = 2.799206 seconds. 
+./launcher: line 6:  1714 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  36
+start_address=0x7fe29f6b1010
+time_random=0.176673, space_random=0.103761, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fe29f6b1010, mem_size=1000000 bytes, tigger_time=509377 us, waittime=509346 us*****
+Wall time = 2.793689 seconds. 
+./launcher: line 6:  1740 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  37
+start_address=0x7f3dacaa9010
+time_random=0.746710, space_random=0.835760, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f3dacaa9010, mem_size=1000000 bytes, tigger_time=2152882 us, waittime=2152854 us*****
+Wall time = 2.795279 seconds. 
+./launcher: line 6:  1742 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  38
+start_address=0x7fcbd5a36010
+time_random=0.038504, space_random=0.401998, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fcbd5a36010, mem_size=1000000 bytes, tigger_time=111012 us, waittime=110981 us*****
+Wall time = 2.791172 seconds. 
+./launcher: line 6:  1744 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  39
+start_address=0x7f940569d010
+time_random=0.618328, space_random=0.645524, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f940569d010, mem_size=1000000 bytes, tigger_time=1782737 us, waittime=1782698 us*****
+Wall time = 2.823499 seconds. 
+./launcher: line 6:  1746 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  40
+start_address=0x7f0e16373010
+time_random=0.408497, space_random=0.709409, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f0e16373010, mem_size=1000000 bytes, tigger_time=1177762 us, waittime=1177732 us*****
+Wall time = 2.828635 seconds. 
+./launcher: line 6:  1748 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  41
+start_address=0x7f474dc93010
+time_random=0.344443, space_random=0.363176, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f474dc93010, mem_size=1000000 bytes, tigger_time=993082 us, waittime=993052 us*****
+Wall time = 2.821305 seconds. 
+./launcher: line 6:  1750 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  42
+start_address=0x7f3fd1f96010
+time_random=0.275380, space_random=0.512546, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f3fd1f96010, mem_size=1000000 bytes, tigger_time=793964 us, waittime=793931 us*****
+Wall time = 2.832969 seconds. 
+./launcher: line 6:  1752 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  43
+start_address=0x7fc334485010
+time_random=0.845664, space_random=0.749562, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fc334485010, mem_size=1000000 bytes, tigger_time=2438184 us, waittime=2438135 us*****
+Wall time = 2.828587 seconds. 
+./launcher: line 6:  1762 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  44
+start_address=0x7fb791def010
+time_random=0.500474, space_random=0.730318, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fb791def010, mem_size=1000000 bytes, tigger_time=1442944 us, waittime=1442913 us*****
+Wall time = 2.824303 seconds. 
+./launcher: line 6:  1764 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  45
+start_address=0x7f23415e2010
+time_random=0.937475, space_random=0.886002, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f23415e2010, mem_size=1000000 bytes, tigger_time=2702890 us, waittime=2702859 us*****
+Wall time = 2.811711 seconds. 
+./launcher: line 6:  1766 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  46
+start_address=0x7fb81f92d010
+time_random=0.730968, space_random=0.953454, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7fb81f92d010, mem_size=1000000 bytes, tigger_time=2107496 us, waittime=2107466 us*****
+Wall time = 2.832476 seconds. 
+./launcher: line 6:  1768 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  47
+start_address=0x7f12f3de1010
+time_random=0.521852, space_random=0.018285, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f12f3de1010, mem_size=1000000 bytes, tigger_time=1504580 us, waittime=1504535 us*****
+Wall time = 2.798609 seconds. 
+./launcher: line 6:  1772 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  48
+start_address=0x7f16e3e86010
+time_random=0.812898, space_random=0.083383, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f16e3e86010, mem_size=1000000 bytes, tigger_time=2343714 us, waittime=2343683 us*****
+Wall time = 2.792134 seconds. 
+./launcher: line 6:  1774 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  49
+start_address=0x7ff85fa31010
+time_random=0.605741, space_random=0.149417, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7ff85fa31010, mem_size=1000000 bytes, tigger_time=1746447 us, waittime=1746408 us*****
+Wall time = 2.827324 seconds. 
+./launcher: line 6:  1776 Segmentation fault      ./AMGMk $i $exe_time
+
+Number of Execution: =  50
+start_address=0x7f4c9802c010
+time_random=0.037820, space_random=0.300422, exe_time=2.883159 seconds, mem_size=1000000 bytes
+*****[fault_injection tool] start_addr=0x7f4c9802c010, mem_size=1000000 bytes, tigger_time=109041 us, waittime=109001 us*****
+Wall time = 2.790663 seconds. 
+./launcher: line 6:  1778 Segmentation fault      ./AMGMk $i $exe_time
