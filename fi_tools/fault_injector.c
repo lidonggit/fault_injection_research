@@ -8,11 +8,13 @@
 
 int mem_size;
 double exe_time;
+double time_random;
+double space_random;
 
-double random_generator()
-{
-    return (double)rand()/RAND_MAX;
-}
+//double random_generator()
+//{
+//    return (double)rand()/RAND_MAX;
+//}
 
 void *fault_injection(void *start_address)
 {
@@ -21,9 +23,9 @@ void *fault_injection(void *start_address)
     gettimeofday(&start_time, NULL);
 
     ///generate randomness
-    srand((unsigned)time(NULL));
-    float time_random = random_generator();
-    float space_random = random_generator();
+//    srand((unsigned)time(NULL));
+//    float time_random = random_generator();
+//    float space_random = random_generator();
 
     #ifdef DEBUG
     printf("time_random=%f, space_random=%f, exe_time=%f seconds, mem_size=%d bytes\n", time_random, space_random, exe_time, mem_size);
@@ -71,12 +73,14 @@ void *fault_injection(void *start_address)
 }
 
 //This API needs to be inserted right before the computation starts
-void launch_fi_thread(void* start_address, int size, double time)
+void launch_fi_thread(void* start_address, int size, double time, double time_rand, double space_rand)
 {
     int rc;
     pthread_t fi_thread;
     mem_size = size;
     exe_time = time;
+    time_random = time_rand;
+    space_random = space_rand;
 
     #ifdef DEBUG
     printf("start_address=%p\n", start_address);
@@ -92,7 +96,7 @@ void launch_fi_thread(void* start_address, int size, double time)
 }
 
 //This API is for Fortran
-void launch_fi_thread_(void *start_address, int *size, double *time)
+void launch_fi_thread_(void *start_address, int *size, double *time, double *time_rand, double *space_rand)
 {
-    launch_fi_thread(start_address, *size, *time);
+    launch_fi_thread(start_address, *size, *time, *time_rand, *space_rand);
 }

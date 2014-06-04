@@ -661,6 +661,8 @@ int main( int argc, char **argv )
 
     int inject_fault = 0;
     double exe_time = 0;
+    double time_rand = 0;
+    double space_rand = 0;
     char* filename = "0";
 
  //   NUM_KEYS = (1L << atoi(argv[1]));
@@ -669,7 +671,7 @@ int main( int argc, char **argv )
 
     if( argc == 1 )
     {
-        printf( "is [number of iter] [execution time]" );
+        printf( "is [number of iter] [execution time] [time rand] [space rand]\n" );
         return 1;
     }
 
@@ -679,11 +681,13 @@ int main( int argc, char **argv )
     }
 
 
-    if( argc == 3 )
+    if( argc == 5 )
     {
         inject_fault = 1;
         filename = argv[1];
         exe_time = atof(argv[2]);
+        time_rand = atof(argv[3]);
+        space_rand = atof(argv[4]);
     }
 
 
@@ -692,13 +696,6 @@ int main( int argc, char **argv )
     double          timecounter;
 
     FILE            *fp;
-
-    if(inject_fault)
-    {
-        printf("Number of Execution: = %s \n", filename);
-        launch_fi_thread((void *)key_array, sizeof(INT_TYPE)*SIZE_OF_BUFFERS, exe_time);
-    }
-
 
 /*  Initialize timers  */
     timer_on = 0;
@@ -732,11 +729,6 @@ int main( int argc, char **argv )
 
     if (timer_on) timer_start( 1 );
 
-    clock_t begin, end;
-    double time_spent;
-
-    begin = clock();
-
 /*  Generate random number sequence and subsequent keys on all procs */
     create_seq( 314159265.00,                    /* Random number gen seed */
                 1220703125.00 );                 /* Random number gen mult */
@@ -760,6 +752,17 @@ int main( int argc, char **argv )
 /*  Start timer  */
     timer_start( 0 );
 
+    clock_t begin, end;
+    double time_spent;
+
+    begin = clock();
+
+    if(inject_fault)
+    {
+//      printf("Number of Execution: = %s \n", filename);
+        launch_fi_thread((void *)key_array, sizeof(INT_TYPE)*SIZE_OF_BUFFERS, exe_time, time_rand, space_rand);
+    }
+
 
 /*  This is the main iteration */
     for( iteration=1; iteration<=MAX_ITERATIONS; iteration++ )
@@ -767,6 +770,11 @@ int main( int argc, char **argv )
 //        if( CLASS != 'S' ) printf( "        %d\n", iteration );
         rank( iteration );
     }
+
+    end = clock();
+    time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
+
+    printf("Execution Time = %f \n", time_spent);
 
 
 /*  End of timing, obtain maximum time of all processors */
@@ -825,10 +833,7 @@ int main( int argc, char **argv )
 	}
 //	printf( "\n" );
 
-    end = clock();
-    time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
 
-    printf("Execution Time = %f \n\n", time_spent);
 
 
 /*  Print additional timers  */
@@ -849,6 +854,8 @@ int main( int argc, char **argv )
        t_percent = timecounter/t_total * 100.;
        printf(" Sorting        : %8.3f (%5.2f%%)\n", timecounter, t_percent);
     }
+
+    printf("\n");
 
 
     return 0;
