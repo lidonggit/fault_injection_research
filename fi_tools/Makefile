@@ -10,10 +10,10 @@ AR =		ar
 RM =		rm
 RANLIB =	ranlib
 DEFS =		-DHAVE_CONFIG_H
-LIBS =		
-INCLUDES =	-I. 
+LIBS =
+INCLUDES =	-I.
 CFLAGS =	-g -O2 $(INCLUDES)
-LDFLAGS =	
+LDFLAGS =
 
 
 all: libfault_injector.so libfault_injector.a
@@ -27,13 +27,14 @@ fault_injector.o: fault_injector.c fault_injector.h
 libfault_injector.a: fault_injector.o
 	$(AR) $(ARFLAGS) $@ fault_injector.o
 
-libfault_injector.so: fault_injector_dyn.o 
-	$(CC) $(CFLAGS) -shared -Wl fault_injector_dyn.o -o $@
+libfault_injector.so: fault_injector_dyn.o
+	$(CC) $(CFLAGS) -shared fault_injector_dyn.o -o $@
+
 
 #common.o: $(srcdir)/common.c $(srcdir)/common.h
 #	$(CC) $(CFLAGS) -c $(srcdir)/common.c
 
 clean:
-	rm -f *.o libfault_injector.a 
+	rm -f *.o libfault_injector.a
 	rm -f libfault_injector.so
 
