@@ -1,0 +1,9 @@
+- LULESH is a more complicated case for directive-based fault injection, since it requires selective function inlining.
+- To perform selective inlining, OpenARC provides tinline option; you can find brief description on the tinline option and an example usage in the openarcConf_FTINJ.txt file.
+
+- To compile and run, execute the following:
+
+$ O2GBuild.script
+$ make
+$ cd bin
+$ ./lulesh_serial

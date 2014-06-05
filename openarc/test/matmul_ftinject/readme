@@ -1,0 +1,15 @@
+- To translate the input OpenACC program into an output GPU program
+$ O2GBuild.script
+
+- To compile the output GPU code
+$ make ARC_CUDA    # for CUDA target
+or
+$ make ARC_OPENCL  # for OpenCL target
+//Compiling this requires OpenARC runtime library in $openarc/openarcrt 
+//directory. (Refer to $openarc/openarcrt/readme_openarcrt.txt file.)
+
+- To run the GPU executable
+$ cd bin
+$ ./matmul_ARC_CUDA # for CUDA target
+or
+$ ./matmul_ARC_OPENCL # for OpenCL target

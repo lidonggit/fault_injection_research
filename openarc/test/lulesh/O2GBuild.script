@@ -1,0 +1,25 @@
+#! /bin/bash
+if [ $# -eq 1 ]; then
+	verLevel=$1
+else
+	verLevel=0
+fi
+
+openarcrt="../../openarcrt"
+openarclib="../../lib"
+
+if [ ! -f "openarcConf.txt" ]; then
+    cp "openarcConf_FTINJ.txt" "openarcConf.txt"
+fi
+
+if [ "$openarcrt" = "" ] || [ ! -d "$openarcrt" ]; then
+	echo "Environment variable, openarcrt, should be set up correctly to run this script; exit."
+	exit
+else
+	mv "openarcConf.txt" "openarcConf.txt_tmp"
+	cat "openarcConf.txt_tmp" | sed "s|__openarcrt__|${openarcrt}|g" > "openarcConf.txt"
+	rm "openarcConf.txt_tmp"
+fi
+
+java -classpath $openarclib/cetus.jar:$openarclib/antlr.jar openacc.exec.ACC2GPUDriver -verbosity=${verLevel} -gpuConfFile=openarcConf.txt *.c
+cp *.h ./cetus_output/

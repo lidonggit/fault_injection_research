@@ -1,0 +1,30 @@
+#! /bin/bash
+if [ $# -ge 1 ]; then
+	aspen_param=$1
+else
+	aspen_param=512
+fi
+
+openarcrt="../../openarcrt"
+openarclib="../../lib"
+
+benchname="matmul"
+verLevel=0
+
+if [ ! -f "openarcConf.txt" ]; then
+    cp "openarcConf_FTINJ.txt" "openarcConf.txt"
+fi
+
+if [ "$aspen_param" != "" ]; then
+    mv "openarcConf.txt" "openarcConf.txt_tmp"
+    cat "openarcConf.txt_tmp" | sed "s|__aspen_param__|${aspen_param}|g" > "openarcConf.txt"
+    rm "openarcConf.txt_tmp"
+fi
+
+if [ "$openarcrt" != "" ]; then
+    mv "openarcConf.txt" "openarcConf.txt_tmp"
+    cat "openarcConf.txt_tmp" | sed "s|__openarcrt__|${openarcrt}|g" > "openarcConf.txt"
+    rm "openarcConf.txt_tmp"
+fi
+
+java -classpath $openarclib/cetus.jar:$openarclib/antlr.jar openacc.exec.ACC2GPUDriver -verbosity=${verLevel} -gpuConfFile=openarcConf.txt *.c
