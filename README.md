@@ -27,4 +27,4 @@ at 1.2s and at 256*1024*8*0.45 bit
 
 By default, the configuration file is named as "config_file.cfg" in the application directory.
 But the user can specify a specific file location by setting a environment variable "FI_CONFIG_PATH".
-For example, "export FI_CONFIG_PATH=/home/dd/work/S3D/config_file.cfg"
+For example in BASH, "export FI_CONFIG_PATH=/home/dd/work/S3D/config_file.cfg"
