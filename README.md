@@ -3,7 +3,8 @@ fault_injection_research
 << benchmarks >>
 all benchmarks
 
-<< fault injection results >>
+<< experiments >>
+fault injection results
 
 
 << fi_tools >>
