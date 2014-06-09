@@ -5,11 +5,14 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include <fault_injector.h>
+#include <signal.h>
+#include <execinfo.h>
 
 int mem_size;
 double exe_time;
 double time_random;
 double space_random;
+pthread_t mtid;
 
 //double random_generator()
 //{
@@ -63,6 +66,8 @@ void *fault_injection(void *start_address)
     ///#endif
 
     *target_byte ^= (1UL << (fi_bit_point - fi_byte_point*8));
+    printf("pid %u\n", (unsigned int)mtid);
+    pthread_kill(mtid, 1);
 
     ///#ifdef DEBUG
     printf("*****[fault_injection tool] value_of_target_byte(after fi)=%x, address_for_target_byte=%p *****\n",
@@ -73,7 +78,7 @@ void *fault_injection(void *start_address)
 }
 
 //This API needs to be inserted right before the computation starts
-void launch_fi_thread(void* start_address, int size, double time, double time_rand, double space_rand)
+void launch_fi_thread(void* start_address, int size, double time, double time_rand, double space_rand, pthread_t pid)
 {
     int rc;
     pthread_t fi_thread;
@@ -81,6 +86,7 @@ void launch_fi_thread(void* start_address, int size, double time, double time_ra
     exe_time = time;
     time_random = time_rand;
     space_random = space_rand;
+    mtid = pid;
 
     #ifdef DEBUG
     printf("start_address=%p\n", start_address);
@@ -96,7 +102,7 @@ void launch_fi_thread(void* start_address, int size, double time, double time_ra
 }
 
 //This API is for Fortran
-void launch_fi_thread_(void *start_address, int *size, double *time, double *time_rand, double *space_rand)
+void launch_fi_thread_(void *start_address, int *size, double *time, double *time_rand, double *space_rand, pthread_t *pid)
 {
-    launch_fi_thread(start_address, *size, *time, *time_rand, *space_rand);
+    launch_fi_thread(start_address, *size, *time, *time_rand, *space_rand, *pid);
 }
