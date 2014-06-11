@@ -1,879 +1,1699 @@
 Num of Iter: 1
-randomness: 0.949467 0.166565
-start_address=0x8e044c0
-time_random=0.949467, space_random=0.166565, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3921298 us, waittime=3921277 us*****
-*****[fault_injection tool] mem_size*8*space_random=178847806.914560, fi_bit_point=178847806, fi_byte_point=22355975, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=40, address_for_target_byte=0xa3564c7 *****
-Execution Time = 5.240000 
+randomness: 0.846877 0.418541
+Caught signal frostart_address=0x22604e00
+time_random=0.846877, space_random=0.418541, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1566722 us, waittime=1566704 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 2
-randomness: 0.141120 0.279287
-start_address=0x8e044c0
-time_random=0.141120, space_random=0.279287, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=582825 us, waittime=582806 us*****
-*****[fault_injection tool] mem_size*8*space_random=299882132.799488, fi_bit_point=299882132, fi_byte_point=37485266, value_of_target_byte(before fi)=d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1d, address_for_target_byte=0xb1c3f92 *****
-Execution Time = 4.130000 
+randomness: 0.829444 0.024738
+Caught signal frostart_address=0x22604e00
+time_random=0.829444, space_random=0.024738, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1534471 us, waittime=1534451 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 3
-randomness: 0.840872 0.900467
-start_address=0x8e044c0
-time_random=0.840872, space_random=0.900467, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3472801 us, waittime=3472778 us*****
-*****[fault_injection tool] mem_size*8*space_random=966869079.031808, fi_bit_point=966869079, fi_byte_point=120858634, value_of_target_byte(before fi)=10 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffff90, address_for_target_byte=0x10146cca *****
-Execution Time = 5.230000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.482423 0.910828
+Caught signal frostart_address=0x22604e00
+time_random=0.482423, space_random=0.910828, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=892482 us, waittime=892462 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 4
-randomness: 0.540183 0.020793
-start_address=0x8e044c0
-time_random=0.540183, space_random=0.020793, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2230955 us, waittime=2230934 us*****
-*****[fault_injection tool] mem_size*8*space_random=22326313.746432, fi_bit_point=22326313, fi_byte_point=2790789, value_of_target_byte(before fi)=59 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=5b, address_for_target_byte=0x90ada45 *****
-Execution Time = 4.130000 
+randomness: 0.968265 0.020547
+Caught signal frostart_address=0x22604e00
+time_random=0.968265, space_random=0.020547, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1791290 us, waittime=1791269 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 5
-randomness: 0.320610 0.277182
-start_address=0x8e044c0
-time_random=0.320610, space_random=0.277182, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1324119 us, waittime=1324096 us*****
-*****[fault_injection tool] mem_size*8*space_random=297621906.259968, fi_bit_point=297621906, fi_byte_point=37202738, value_of_target_byte(before fi)=13 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=17, address_for_target_byte=0xb17eff2 *****
-Execution Time = 5.220000 
+randomness: 0.536613 0.767720
+Caught signal frostart_address=0x22604e00
+time_random=0.536613, space_random=0.767720, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=992734 us, waittime=992715 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 6
-randomness: 0.928641 0.754734
-start_address=0x8e044c0
-time_random=0.928641, space_random=0.754734, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3835287 us, waittime=3835267 us*****
-*****[fault_injection tool] mem_size*8*space_random=810389461.794816, fi_bit_point=810389461, fi_byte_point=101298682, value_of_target_byte(before fi)=17 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=37, address_for_target_byte=0xee9f6ba *****
-Execution Time = 4.130000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.607112 0.517950
+Caught signal frostart_address=0x22604e00
+time_random=0.607112, space_random=0.517950, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1123157 us, waittime=1123139 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 7
-randomness: 0.216780 0.016504
-start_address=0x8e044c0
-time_random=0.216780, space_random=0.016504, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=895301 us, waittime=895279 us*****
-*****[fault_injection tool] mem_size*8*space_random=17721035.063296, fi_bit_point=17721035, fi_byte_point=2215129, value_of_target_byte(before fi)=9 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x9021199 *****
-Execution Time = 5.220000 
+randomness: 0.683096 0.270785
+Caught signal frostart_address=0x22604e00
+time_random=0.683096, space_random=0.270785, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1263727 us, waittime=1263709 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.870000 
 
 Num of Iter: 8
-randomness: 0.413610 0.634901
-start_address=0x8e044c0
-time_random=0.413610, space_random=0.634901, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1708209 us, waittime=1708189 us*****
-*****[fault_injection tool] mem_size*8*space_random=681719757.799424, fi_bit_point=681719757, fi_byte_point=85214969, value_of_target_byte(before fi)=41 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=61, address_for_target_byte=0xdf48bb9 *****
-Execution Time = 4.130000 
+randomness: 0.245193 0.512616
+Caught signal frostart_address=0x22604e00
+time_random=0.245193, space_random=0.512616, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=453607 us, waittime=453586 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x107) [0x401598]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 9
-randomness: 0.106540 0.250902
-start_address=0x8e044c0
-time_random=0.106540, space_random=0.250902, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=440010 us, waittime=439987 us*****
-*****[fault_injection tool] mem_size*8*space_random=269403971.125248, fi_bit_point=269403971, fi_byte_point=33675496, value_of_target_byte(before fi)=1 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=9, address_for_target_byte=0xae21da8 *****
-Execution Time = 5.220000 
+randomness: 0.814997 0.760425
+Caught signal frostart_address=0x22604e00
+time_random=0.814997, space_random=0.760425, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1507744 us, waittime=1507727 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 10
-randomness: 0.810727 0.374658
-start_address=0x8e044c0
-time_random=0.810727, space_random=0.374658, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3348302 us, waittime=3348281 us*****
-*****[fault_injection tool] mem_size*8*space_random=402285964.296192, fi_bit_point=402285964, fi_byte_point=50285745, value_of_target_byte(before fi)=3b *****
-*****[fault_injection tool] value_of_target_byte(after fi)=2b, address_for_target_byte=0xbdf9171 *****
-Execution Time = 4.130000 
+randomness: 0.796617 0.366783
+Caught signal frostart_address=0x22604e00
+time_random=0.796617, space_random=0.366783, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1473741 us, waittime=1473720 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x113) [0x4015a4]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 11
-randomness: 0.593648 0.134532
-start_address=0x8e044c0
-time_random=0.593648, space_random=0.134532, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2451766 us, waittime=2451743 us*****
-*****[fault_injection tool] mem_size*8*space_random=144452635.066368, fi_bit_point=144452635, fi_byte_point=18056579, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=8, address_for_target_byte=0x9f3ca43 *****
-Execution Time = 5.210000 
+randomness: 0.869833 0.117166
+Caught signal frostart_address=0x22604e00
+time_random=0.869833, space_random=0.117166, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1609191 us, waittime=1609173 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 12
-randomness: 0.698415 0.105970
-start_address=0x8e044c0
-time_random=0.698415, space_random=0.105970, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2884453 us, waittime=2884433 us*****
-*****[fault_injection tool] mem_size*8*space_random=113784421.089280, fi_bit_point=113784421, fi_byte_point=14223052, value_of_target_byte(before fi)=73 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=53, address_for_target_byte=0x9b94b8c *****
-Execution Time = 4.140000 
+randomness: 0.936974 0.864128
+Caught signal frostart_address=0x22604e00
+time_random=0.936974, space_random=0.864128, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1733401 us, waittime=1733383 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x16c) [0x4015fd]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 13
-randomness: 0.985696 0.369687
-start_address=0x8e044c0
-time_random=0.985696, space_random=0.369687, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=4070924 us, waittime=4070899 us*****
-*****[fault_injection tool] mem_size*8*space_random=396948393.689088, fi_bit_point=396948393, fi_byte_point=49618549, value_of_target_byte(before fi)=ffffff9a *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffff98, address_for_target_byte=0xbd56335 *****
-Execution Time = 5.230000 
+randomness: 0.421911 0.471775
+Caught signal frostart_address=0x22604e00
+time_random=0.421911, space_random=0.471775, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=780535 us, waittime=780516 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 14
-randomness: 0.590851 0.342350
-start_address=0x8e044c0
-time_random=0.590851, space_random=0.342350, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2440214 us, waittime=2440193 us*****
-*****[fault_injection tool] mem_size*8*space_random=367595513.446400, fi_bit_point=367595513, fi_byte_point=45949439, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0xb9d66bf *****
-Execution Time = 4.130000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.492231 0.719480
+Caught signal frostart_address=0x22604e00
+time_random=0.492231, space_random=0.719480, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=910627 us, waittime=910609 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 15
-randomness: 0.374646 0.602063
+randomness: 0.558540 0.965747
+Caught signal frostart_address=0x22604e00
+time_random=0.558540, space_random=0.965747, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1033299 us, waittime=1033278 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
+
 Num of Iter: 16
-randomness: 0.178155 0.968486
-start_address=0x8e044c0
-time_random=0.178155, space_random=0.968486, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=735780 us, waittime=735761 us*****
-*****[fault_injection tool] mem_size*8*space_random=1039903924.158464, fi_bit_point=1039903924, fi_byte_point=129987990, value_of_target_byte(before fi)=15 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=5, address_for_target_byte=0x109fba56 *****
-Execution Time = 5.240000 
+randomness: 0.133373 0.218630
+Caught signal frostart_address=0x22604e00
+time_random=0.133373, space_random=0.218630, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=246740 us, waittime=246720 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 17
-randomness: 0.877521 0.088361
-start_address=0x8e044c0
-time_random=0.877521, space_random=0.088361, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3624161 us, waittime=3624141 us*****
-*****[fault_injection tool] mem_size*8*space_random=94876901.310464, fi_bit_point=94876901, fi_byte_point=11859612, value_of_target_byte(before fi)=5c *****
-*****[fault_injection tool] value_of_target_byte(after fi)=7c, address_for_target_byte=0x9953b5c *****
-Execution Time = 4.130000 
+randomness: 0.199240 0.462468
+Caught signal frostart_address=0x22604e00
+time_random=0.199240, space_random=0.462468, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=368594 us, waittime=368576 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 18
-randomness: 0.079523 0.213295
-start_address=0x8e044c0
-time_random=0.079523, space_random=0.213295, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=328429 us, waittime=328405 us*****
-*****[fault_injection tool] mem_size*8*space_random=229023762.350080, fi_bit_point=229023762, fi_byte_point=28627970, value_of_target_byte(before fi)=d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=9, address_for_target_byte=0xa9518c2 *****
-Execution Time = 5.240000 
+randomness: 0.273965 0.715651
+Caught signal frostart_address=0x22604e00
+time_random=0.273965, space_random=0.715651, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=506835 us, waittime=506815 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x113) [0x4015a4]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 19
-randomness: 0.275136 0.830670
-start_address=0x8e044c0
-time_random=0.275136, space_random=0.830670, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1136311 us, waittime=1136290 us*****
-*****[fault_injection tool] mem_size*8*space_random=891925120.942080, fi_bit_point=891925120, fi_byte_point=111490640, value_of_target_byte(before fi)=ffffffc7 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffc6, address_for_target_byte=0xf857b10 *****
-Execution Time = 4.130000 
+randomness: 0.840092 0.959703
+Caught signal frostart_address=0x22604e00
+time_random=0.840092, space_random=0.959703, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1554170 us, waittime=1554148 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 20
-randomness: 0.559435 0.090683
-start_address=0x8e044c0
-time_random=0.559435, space_random=0.090683, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2310466 us, waittime=2310443 us*****
-*****[fault_injection tool] mem_size*8*space_random=97370129.825792, fi_bit_point=97370129, fi_byte_point=12171266, value_of_target_byte(before fi)=11 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=13, address_for_target_byte=0x999fcc2 *****
-Execution Time = 5.230000 
+randomness: 0.825425 0.069368
+Caught signal frostart_address=0x22604e00
+time_random=0.825425, space_random=0.069368, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1527036 us, waittime=1527019 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 21
-randomness: 0.166657 0.565177
-start_address=0x8e044c0
-time_random=0.166657, space_random=0.565177, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=688293 us, waittime=688277 us*****
-*****[fault_injection tool] mem_size*8*space_random=606854182.862848, fi_bit_point=606854182, fi_byte_point=75856772, value_of_target_byte(before fi)=ffffffe4 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffa4, address_for_target_byte=0xd65c044 *****
-Execution Time = 5.120000 
+randomness: 0.477186 0.954761
+Caught signal frostart_address=0x22604e00
+time_random=0.477186, space_random=0.954761, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=882794 us, waittime=882773 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x117) [0x4015a8]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 22
-randomness: 0.277677 0.543688
-start_address=0x8e044c0
-time_random=0.277677, space_random=0.543688, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1146806 us, waittime=1146782 us*****
-*****[fault_injection tool] mem_size*8*space_random=583780544.806912, fi_bit_point=583780544, fi_byte_point=72972568, value_of_target_byte(before fi)=6d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=6c, address_for_target_byte=0xd39bdd8 *****
-Execution Time = 5.070000 
+randomness: 0.962856 0.564348
+Caught signal frostart_address=0x22604e00
+time_random=0.962856, space_random=0.564348, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1781283 us, waittime=1781266 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 23
-randomness: 0.387095 0.518674
-start_address=0x8e044c0
-time_random=0.387095, space_random=0.518674, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1598702 us, waittime=1598682 us*****
-*****[fault_injection tool] mem_size*8*space_random=556921966.821376, fi_bit_point=556921966, fi_byte_point=69615245, value_of_target_byte(before fi)=f *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4f, address_for_target_byte=0xd06834d *****
-Execution Time = 5.270000 
+randomness: 0.119617 0.452777
+Caught signal frostart_address=0x22604e00
+time_random=0.119617, space_random=0.452777, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=221291 us, waittime=221271 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 24
-randomness: 0.995938 0.993677
-start_address=0x8e044c0
-time_random=0.995938, space_random=0.993677, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=4113223 us, waittime=4113198 us*****
-*****[fault_injection tool] mem_size*8*space_random=1066952554.446848, fi_bit_point=1066952554, fi_byte_point=133369069, value_of_target_byte(before fi)=3a *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3e, address_for_target_byte=0x10d351ad *****
-Execution Time = 4.640000 
+randomness: 0.599218 0.058636
+Caught signal frostart_address=0x22604e00
+time_random=0.599218, space_random=0.058636, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1108553 us, waittime=1108535 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 25
-randomness: 0.693916 0.612660
-start_address=0x8e044c0
-time_random=0.693916, space_random=0.612660, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2865873 us, waittime=2865853 us*****
-*****[fault_injection tool] mem_size*8*space_random=657838665.891840, fi_bit_point=657838665, fi_byte_point=82229833, value_of_target_byte(before fi)=5b *****
-*****[fault_injection tool] value_of_target_byte(after fi)=59, address_for_target_byte=0xdc6ff09 *****
-Execution Time = 5.250000 
+randomness: 0.173023 0.809496
+Caught signal frostart_address=0x22604e00
+time_random=0.173023, space_random=0.809496, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=320092 us, waittime=320075 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 26
-randomness: 0.803857 0.590930
-start_address=0x8e044c0
-time_random=0.803857, space_random=0.590930, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3319929 us, waittime=3319906 us*****
-*****[fault_injection tool] mem_size*8*space_random=634506256.056320, fi_bit_point=634506256, fi_byte_point=79313282, value_of_target_byte(before fi)=d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=c, address_for_target_byte=0xd9a7e42 *****
-Execution Time = 4.630000 
+randomness: 0.739470 0.054716
+Caught signal frostart_address=0x22604e00
+time_random=0.739470, space_random=0.054716, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1368019 us, waittime=1367998 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 27
-randomness: 0.998834 0.707338
-start_address=0x8e044c0
-time_random=0.998834, space_random=0.707338, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=4125184 us, waittime=4125164 us*****
-*****[fault_injection tool] mem_size*8*space_random=759498394.304512, fi_bit_point=759498394, fi_byte_point=94937299, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xe88e593 *****
-Execution Time = 5.250000 
+randomness: 0.726289 0.665964
+Caught signal frostart_address=0x22604e00
+time_random=0.726289, space_random=0.665964, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1343634 us, waittime=1343617 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 28
-randomness: 0.106726 0.682206
-start_address=0x8e044c0
-time_random=0.106726, space_random=0.682206, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=440778 us, waittime=440755 us*****
-*****[fault_injection tool] mem_size*8*space_random=732513114.783744, fi_bit_point=732513114, fi_byte_point=91564139, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xe556d2b *****
-Execution Time = 4.640000 
+randomness: 0.301493 0.917005
+Caught signal frostart_address=0x22604e00
+time_random=0.301493, space_random=0.917005, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=557762 us, waittime=557741 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 29
-randomness: 0.811631 0.307626
-start_address=0x8e044c0
-time_random=0.811631, space_random=0.307626, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3352036 us, waittime=3352017 us*****
-*****[fault_injection tool] mem_size*8*space_random=330310902.349824, fi_bit_point=330310902, fi_byte_point=41288862, value_of_target_byte(before fi)=9 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=49, address_for_target_byte=0xb56495e *****
-Execution Time = 5.250000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.367374 0.661653
+Caught signal frostart_address=0x22604e00
+time_random=0.367374, space_random=0.661653, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=679641 us, waittime=679623 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 30
-randomness: 0.418984 0.781390
-start_address=0x8e044c0
-time_random=0.418984, space_random=0.781390, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1730403 us, waittime=1730380 us*****
-*****[fault_injection tool] mem_size*8*space_random=839011123.855360, fi_bit_point=839011123, fi_byte_point=104876390, value_of_target_byte(before fi)=12 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1a, address_for_target_byte=0xf208e26 *****
-Execution Time = 4.650000 
+randomness: 0.936822 0.411152
+Caught signal frostart_address=0x22604e00
+time_random=0.936822, space_random=0.411152, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1733120 us, waittime=1733103 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x16c) [0x4015fd]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 31
-randomness: 0.112053 0.397323
-start_address=0x8e044c0
-time_random=0.112053, space_random=0.397323, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=462778 us, waittime=462759 us*****
-*****[fault_injection tool] mem_size*8*space_random=426622322.737152, fi_bit_point=426622322, fi_byte_point=53327790, value_of_target_byte(before fi)=f *****
-*****[fault_injection tool] value_of_target_byte(after fi)=b, address_for_target_byte=0xc0dfc6e *****
-Execution Time = 5.230000 
+randomness: 0.508409 0.660638
+Caught signal frostart_address=0x22604e00
+time_random=0.508409, space_random=0.660638, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=940556 us, waittime=940534 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 32
-randomness: 0.222478 0.373955
-start_address=0x8e044c0
-time_random=0.222478, space_random=0.373955, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=918834 us, waittime=918811 us*****
-*****[fault_injection tool] mem_size*8*space_random=401531123.793920, fi_bit_point=401531123, fi_byte_point=50191390, value_of_target_byte(before fi)=10 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=18, address_for_target_byte=0xbde20de *****
-Execution Time = 4.630000 
+randomness: 0.490080 0.767297
+Caught signal frostart_address=0x22604e00
+time_random=0.490080, space_random=0.767297, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=906648 us, waittime=906630 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 33
-randomness: 0.831815 0.351333
-start_address=0x8e044c0
-time_random=0.831815, space_random=0.351333, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3435395 us, waittime=3435376 us*****
-*****[fault_injection tool] mem_size*8*space_random=377240936.251392, fi_bit_point=377240936, fi_byte_point=47155117, value_of_target_byte(before fi)=ffffffae *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffaf, address_for_target_byte=0xbafcc6d *****
-Execution Time = 5.250000 
+randomness: 0.055557 0.012123
+Caught signal frostart_address=0x22604e00
+time_random=0.055557, space_random=0.012123, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=102780 us, waittime=102762 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x9b) [0x40152c]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 34
-randomness: 0.022932 0.462680
-start_address=0x8e044c0
-time_random=0.022932, space_random=0.462680, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=94709 us, waittime=94687 us*****
-*****[fault_injection tool] mem_size*8*space_random=496798867.128320, fi_bit_point=496798867, fi_byte_point=62099858, value_of_target_byte(before fi)=b *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0xc93d652 *****
-Execution Time = 4.650000 
+randomness: 0.628854 0.261716
+Caught signal frostart_address=0x22604e00
+time_random=0.628854, space_random=0.261716, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1163379 us, waittime=1163359 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 35
-randomness: 0.229131 0.090657
-start_address=0x8e044c0
-time_random=0.229131, space_random=0.090657, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=946311 us, waittime=946291 us*****
-*****[fault_injection tool] mem_size*8*space_random=97342212.538368, fi_bit_point=97342212, fi_byte_point=12167776, value_of_target_byte(before fi)=32 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=22, address_for_target_byte=0x999ef20 *****
-Execution Time = 5.250000 
+randomness: 0.700304 0.512331
+Caught signal frostart_address=0x22604e00
+time_random=0.700304, space_random=0.512331, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1295562 us, waittime=1295544 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 36
-randomness: 0.337858 0.067658
-start_address=0x8e044c0
-time_random=0.337858, space_random=0.067658, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1395353 us, waittime=1395291 us*****
-*****[fault_injection tool] mem_size*8*space_random=72647224.328192, fi_bit_point=72647224, fi_byte_point=9080903, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x96ad507 *****
-Execution Time = 4.690000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.270021 0.259789
+Caught signal frostart_address=0x22604e00
+time_random=0.270021, space_random=0.259789, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=499538 us, waittime=499517 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 37
-randomness: 0.532480 0.683020
-start_address=0x8e044c0
-time_random=0.532480, space_random=0.683020, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2199142 us, waittime=2199123 us*****
-*****[fault_injection tool] mem_size*8*space_random=733387140.628480, fi_bit_point=733387140, fi_byte_point=91673392, value_of_target_byte(before fi)=2d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3d, address_for_target_byte=0xe5717f0 *****
-Execution Time = 5.250000 
+randomness: 0.751198 0.363903
+Caught signal frostart_address=0x22604e00
+time_random=0.751198, space_random=0.363903, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1389716 us, waittime=1389698 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 38
-randomness: 0.730729 0.802635
-start_address=0x8e044c0
-time_random=0.730729, space_random=0.802635, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3017910 us, waittime=3017888 us*****
-*****[fault_injection tool] mem_size*8*space_random=861822768.906240, fi_bit_point=861822768, fi_byte_point=107727846, value_of_target_byte(before fi)=e *****
-*****[fault_injection tool] value_of_target_byte(after fi)=f, address_for_target_byte=0xf4c10a6 *****
-Execution Time = 4.800000 
+randomness: 0.323334 0.115981
+Caught signal frostart_address=0x22604e00
+time_random=0.323334, space_random=0.115981, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=598167 us, waittime=598149 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 39
-randomness: 0.839584 0.778598
-start_address=0x8e044c0
-time_random=0.839584, space_random=0.778598, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3467481 us, waittime=3467456 us*****
-*****[fault_injection tool] mem_size*8*space_random=836013236.682752, fi_bit_point=836013236, fi_byte_point=104501654, value_of_target_byte(before fi)=d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1d, address_for_target_byte=0xf1ad656 *****
-Execution Time = 5.130000 
+randomness: 0.391500 0.362188
+Caught signal frostart_address=0x22604e00
+time_random=0.391500, space_random=0.362188, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=724275 us, waittime=724254 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 40
-randomness: 0.536973 0.396868
-start_address=0x8e044c0
-time_random=0.536973, space_random=0.396868, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2217698 us, waittime=2217676 us*****
-*****[fault_injection tool] mem_size*8*space_random=426133770.207232, fi_bit_point=426133770, fi_byte_point=53266721, value_of_target_byte(before fi)=39 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3d, address_for_target_byte=0xc0d0de1 *****
-Execution Time = 4.850000 
+randomness: 0.961396 0.108822
+Caught signal frostart_address=0x22604e00
+time_random=0.961396, space_random=0.108822, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1778582 us, waittime=1778565 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 41
-randomness: 0.234546 0.516453
-start_address=0x8e044c0
-time_random=0.234546, space_random=0.516453, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=968674 us, waittime=968654 us*****
-*****[fault_injection tool] mem_size*8*space_random=554537186.230272, fi_bit_point=554537186, fi_byte_point=69317148, value_of_target_byte(before fi)=6 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=2, address_for_target_byte=0xd01f6dc *****
-Execution Time = 5.040000 
+randomness: 0.532008 0.360245
+Caught signal frostart_address=0x22604e00
+time_random=0.532008, space_random=0.360245, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=984214 us, waittime=984194 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x113) [0x4015a4]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 42
-randomness: 0.429233 0.132006
-start_address=0x8e044c0
-time_random=0.429233, space_random=0.132006, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1772732 us, waittime=1772709 us*****
-*****[fault_injection tool] mem_size*8*space_random=141740363.218944, fi_bit_point=141740363, fi_byte_point=17717545, value_of_target_byte(before fi)=40 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=48, address_for_target_byte=0x9ee9de9 *****
-Execution Time = 4.880000 
+randomness: 0.603492 0.608376
+Caught signal frostart_address=0x22604e00
+time_random=0.603492, space_random=0.608376, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1116460 us, waittime=1116440 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 43
-randomness: 0.626279 0.751452
-start_address=0x8e044c0
-time_random=0.626279, space_random=0.751452, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2586532 us, waittime=2586512 us*****
-*****[fault_injection tool] mem_size*8*space_random=806865441.128448, fi_bit_point=806865441, fi_byte_point=100858180, value_of_target_byte(before fi)=ffffffb8 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffba, address_for_target_byte=0xee33e04 *****
-Execution Time = 5.060000 
+randomness: 0.585470 0.714356
+Caught signal frostart_address=0x22604e00
+time_random=0.585470, space_random=0.714356, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1083119 us, waittime=1083101 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 44
-randomness: 0.236955 0.227278
-start_address=0x8e044c0
-time_random=0.236955, space_random=0.227278, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=978624 us, waittime=978602 us*****
-*****[fault_injection tool] mem_size*8*space_random=244037894.275072, fi_bit_point=244037894, fi_byte_point=30504736, value_of_target_byte(before fi)=9 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=49, address_for_target_byte=0xab1bbe0 *****
-Execution Time = 4.870000 
+randomness: 0.152163 0.462438
+Caught signal frostart_address=0x22604e00
+time_random=0.152163, space_random=0.462438, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=281501 us, waittime=281479 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x117) [0x4015a8]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 45
-randomness: 0.934466 0.348005
-start_address=0x8e044c0
-time_random=0.934466, space_random=0.348005, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3859344 us, waittime=3859319 us*****
-*****[fault_injection tool] mem_size*8*space_random=373667523.461120, fi_bit_point=373667523, fi_byte_point=46708440, value_of_target_byte(before fi)=7f *****
-*****[fault_injection tool] value_of_target_byte(after fi)=77, address_for_target_byte=0xba8fb98 *****
-Execution Time = 5.060000 
+randomness: 0.218788 0.207254
+Caught signal frostart_address=0x22604e00
+time_random=0.218788, space_random=0.207254, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=404757 us, waittime=404724 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x107) [0x401598]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 46
-randomness: 0.133682 0.467607
-start_address=0x8e044c0
-time_random=0.133682, space_random=0.467607, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=552106 us, waittime=552082 us*****
-*****[fault_injection tool] mem_size*8*space_random=502089193.095168, fi_bit_point=502089193, fi_byte_point=62761149, value_of_target_byte(before fi)=ffffffd6 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0xc9ded7d *****
-Execution Time = 5.040000 
+randomness: 0.295492 0.959719
+Caught signal frostart_address=0x22604e00
+time_random=0.295492, space_random=0.959719, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=546660 us, waittime=546643 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x121) [0x4015b2]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 47
-randomness: 0.827466 0.084322
-start_address=0x8e044c0
-time_random=0.827466, space_random=0.084322, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3417434 us, waittime=3417412 us*****
-*****[fault_injection tool] mem_size*8*space_random=90540058.083328, fi_bit_point=90540058, fi_byte_point=11317507, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0x98cf5c3 *****
-Execution Time = 5.060000 
+randomness: 0.868079 0.210969
+Caught signal frostart_address=0x22604e00
+time_random=0.868079, space_random=0.210969, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1605946 us, waittime=1605925 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 48
-randomness: 0.435534 0.558997
-start_address=0x8e044c0
-time_random=0.435534, space_random=0.558997, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1798755 us, waittime=1798732 us*****
-*****[fault_injection tool] mem_size*8*space_random=600218458.390528, fi_bit_point=600218458, fi_byte_point=75027307, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xd59182b *****
-Execution Time = 4.860000 
+randomness: 0.933368 0.454239
+Caught signal frostart_address=0x22604e00
+time_random=0.933368, space_random=0.454239, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1726730 us, waittime=1726713 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x170) [0x401601]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.850000 
 
 Num of Iter: 49
-randomness: 0.135757 0.680525
-start_address=0x8e044c0
-time_random=0.135757, space_random=0.680525, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=560676 us, waittime=560656 us*****
-*****[fault_injection tool] mem_size*8*space_random=730708154.777600, fi_bit_point=730708154, fi_byte_point=91338519, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xe51fbd7 *****
-Execution Time = 5.060000 
+randomness: 0.416680 0.062423
+Caught signal frostart_address=0x22604e00
+time_random=0.416680, space_random=0.062423, exe_time=1.850000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=770858 us, waittime=770836 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.860000 
 
 Num of Iter: 50
-randomness: 0.750227 0.162082
-start_address=0x8e044c0
-time_random=0.750227, space_random=0.162082, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3098437 us, waittime=3098413 us*****
-*****[fault_injection tool] mem_size*8*space_random=174034222.317568, fi_bit_point=174034222, fi_byte_point=21754277, value_of_target_byte(before fi)=ffffff92 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd2, address_for_target_byte=0xa2c3665 *****
-Execution Time = 5.020000 
+randomness: 0.889749 0.201405
+Caught signal frostart_address=0x22604e00
+time_random=0.889749, space_random=0.201405, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1850677 us, waittime=1850658 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.890000 
 
 Num of Iter: 51
-randomness: 0.444465 0.276835
-start_address=0x8e044c0
-time_random=0.444465, space_random=0.276835, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1835640 us, waittime=1835618 us*****
-*****[fault_injection tool] mem_size*8*space_random=297249317.847040, fi_bit_point=297249317, fi_byte_point=37156164, value_of_target_byte(before fi)=ffffffc2 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffe2, address_for_target_byte=0xb173a04 *****
-Execution Time = 5.030000 
+randomness: 0.371417 0.306743
+Caught signal frostart_address=0x22604e00
+time_random=0.371417, space_random=0.306743, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=772547 us, waittime=772525 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.910000 
 
 Num of Iter: 52
-randomness: 0.633989 0.388109
-start_address=0x8e044c0
-time_random=0.633989, space_random=0.388109, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2618374 us, waittime=2618351 us*****
-*****[fault_injection tool] mem_size*8*space_random=416728865.570816, fi_bit_point=416728865, fi_byte_point=52091108, value_of_target_byte(before fi)=ffffffd5 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd7, address_for_target_byte=0xbfb1da4 *****
-Execution Time = 4.910000 
+randomness: 0.446255 0.059764
+Caught signal frostart_address=0x22604e00
+time_random=0.446255, space_random=0.059764, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=928210 us, waittime=928191 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x113) [0x4015a4]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.970000 
 
 Num of Iter: 53
-randomness: 0.837205 0.014036
-start_address=0x8e044c0
-time_random=0.837205, space_random=0.014036, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3457656 us, waittime=3457636 us*****
-*****[fault_injection tool] mem_size*8*space_random=15071040.241664, fi_bit_point=15071040, fi_byte_point=1883880, value_of_target_byte(before fi)=ffffffbf *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffbe, address_for_target_byte=0x8fd03a8 *****
-Execution Time = 4.720000 
+randomness: 0.017021 0.808242
+Caught signal frostart_address=0x22604e00
+time_random=0.017021, space_random=0.808242, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=35403 us, waittime=35381 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 1.990000 
 
 Num of Iter: 54
-randomness: 0.534842 0.631196
-start_address=0x8e044c0
-time_random=0.534842, space_random=0.631196, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2208897 us, waittime=2208881 us*****
-*****[fault_injection tool] mem_size*8*space_random=677741544.341504, fi_bit_point=677741544, fi_byte_point=84717693, value_of_target_byte(before fi)=ffffffef *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffee, address_for_target_byte=0xdecf53d *****
-Execution Time = 5.210000 
+randomness: 0.500293 0.414369
+Caught signal frostart_address=0x22604e00
+time_random=0.500293, space_random=0.414369, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1040609 us, waittime=1040588 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x10b) [0x40159c]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.010000 
 
 Num of Iter: 55
-randomness: 0.641631 0.105370
-start_address=0x8e044c0
-time_random=0.641631, space_random=0.105370, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2649936 us, waittime=2649911 us*****
-*****[fault_injection tool] mem_size*8*space_random=113140175.994880, fi_bit_point=113140175, fi_byte_point=14142521, value_of_target_byte(before fi)=ffffffe5 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=65, address_for_target_byte=0x9b810f9 *****
-Execution Time = 4.570000 
+randomness: 0.065402 0.660911
+Caught signal frostart_address=0x22604e00
+time_random=0.065402, space_random=0.660911, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=136036 us, waittime=136018 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.020000 
 
 Num of Iter: 56
-randomness: 0.928535 0.870187
-start_address=0x8e044c0
-time_random=0.928535, space_random=0.870187, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3834849 us, waittime=3834827 us*****
-*****[fault_injection tool] mem_size*8*space_random=934356176.601088, fi_bit_point=934356176, fi_byte_point=116794522, value_of_target_byte(before fi)=15 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=14, address_for_target_byte=0xfd6695a *****
-Execution Time = 4.940000 
+randomness: 0.046006 0.265330
+Caught signal frostart_address=0x22604e00
+time_random=0.046006, space_random=0.265330, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=95692 us, waittime=95671 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x9b) [0x40152c]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.020000 
 
 Num of Iter: 57
-randomness: 0.538209 0.845353
-start_address=0x8e044c0
-time_random=0.538209, space_random=0.845353, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2222803 us, waittime=2222784 us*****
-*****[fault_injection tool] mem_size*8*space_random=907690872.143872, fi_bit_point=907690872, fi_byte_point=113461359, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0xfa38d2f *****
-Execution Time = 5.310000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.119228 0.517025
+Caught signal frostart_address=0x22604e00
+time_random=0.119228, space_random=0.517025, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=247994 us, waittime=247975 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x9b) [0x40152c]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.020000 
 
 Num of Iter: 58
-randomness: 0.731111 0.460682
-start_address=0x8e044c0
-time_random=0.731111, space_random=0.460682, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3019488 us, waittime=3019466 us*****
-*****[fault_injection tool] mem_size*8*space_random=494653530.963968, fi_bit_point=494653530, fi_byte_point=61831691, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xc8fbecb *****
-Execution Time = 4.950000 
+randomness: 0.602721 0.624685
+Caught signal frostart_address=0x22604e00
+time_random=0.602721, space_random=0.624685, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1253659 us, waittime=1253638 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.040000 
 
 Num of Iter: 59
-randomness: 0.428950 0.081425
-start_address=0x8e044c0
-time_random=0.428950, space_random=0.081425, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1771563 us, waittime=1771543 us*****
-*****[fault_injection tool] mem_size*8*space_random=87429428.019200, fi_bit_point=87429428, fi_byte_point=10928678, value_of_target_byte(before fi)=13 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0x98706e6 *****
-Execution Time = 5.310000 
+randomness: 0.582372 0.227457
+Caught signal frostart_address=0x22604e00
+time_random=0.582372, space_random=0.227457, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1211333 us, waittime=1211311 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x121) [0x4015b2]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.040000 
 
 Num of Iter: 60
-randomness: 0.541946 0.058862
+randomness: 0.152372 0.476328
+Caught signal frostart_address=0x22604e00
+time_random=0.152372, space_random=0.476328, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=316933 us, waittime=316914 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.040000 
+
 Num of Iter: 61
-randomness: 0.843706 0.423683
-start_address=0x8e044c0
-time_random=0.843706, space_random=0.423683, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3484505 us, waittime=3484481 us*****
-*****[fault_injection tool] mem_size*8*space_random=454926157.217792, fi_bit_point=454926157, fi_byte_point=56865769, value_of_target_byte(before fi)=ffffff91 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb1, address_for_target_byte=0xc43f8a9 *****
-Execution Time = 5.320000 
+randomness: 0.637010 0.083769
+Caught signal frostart_address=0x22604e00
+time_random=0.637010, space_random=0.083769, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1324980 us, waittime=1324957 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.040000 
 
 Num of Iter: 62
-randomness: 0.454885 0.402872
-start_address=0x8e044c0
-time_random=0.454885, space_random=0.402872, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1878675 us, waittime=1878655 us*****
-*****[fault_injection tool] mem_size*8*space_random=432580516.118528, fi_bit_point=432580516, fi_byte_point=54072564, value_of_target_byte(before fi)=ffffffe6 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=fffffff6, address_for_target_byte=0xc1959b4 *****
-Execution Time = 5.190000 
+randomness: 0.704863 0.329463
+Caught signal frostart_address=0x22604e00
+time_random=0.704863, space_random=0.329463, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1466115 us, waittime=1466097 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.050000 
 
 Num of Iter: 63
-randomness: 0.150541 0.518420
-start_address=0x8e044c0
-time_random=0.150541, space_random=0.518420, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=621734 us, waittime=621711 us*****
-*****[fault_injection tool] mem_size*8*space_random=556649236.398080, fi_bit_point=556649236, fi_byte_point=69581154, value_of_target_byte(before fi)=19 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=9, address_for_target_byte=0xd05fe22 *****
-Execution Time = 5.350000 
+randomness: 0.273526 0.577296
+Caught signal frostart_address=0x22604e00
+time_random=0.273526, space_random=0.577296, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=568934 us, waittime=568916 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.060000 
 
 Num of Iter: 64
-randomness: 0.262362 0.997434
-start_address=0x8e044c0
-time_random=0.262362, space_random=0.997434, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1083555 us, waittime=1083535 us*****
-*****[fault_injection tool] mem_size*8*space_random=1070986602.479616, fi_bit_point=1070986602, fi_byte_point=133873325, value_of_target_byte(before fi)=ffffffb3 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb7, address_for_target_byte=0x10db036d *****
-Execution Time = 4.940000 
+randomness: 0.255908 0.182735
+Caught signal frostart_address=0x22604e00
+time_random=0.255908, space_random=0.182735, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=532288 us, waittime=532266 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.060000 
 
 Num of Iter: 65
-randomness: 0.958388 0.615495
-start_address=0x8e044c0
-time_random=0.958388, space_random=0.615495, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3958142 us, waittime=3958121 us*****
-*****[fault_injection tool] mem_size*8*space_random=660882723.962880, fi_bit_point=660882723, fi_byte_point=82610340, value_of_target_byte(before fi)=60 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=68, address_for_target_byte=0xdcccd64 *****
-Execution Time = 5.500000 
+randomness: 0.243513 0.795734
+Caught signal frostart_address=0x22604e00
+time_random=0.243513, space_random=0.795734, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=506507 us, waittime=506489 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.060000 
 
 Num of Iter: 66
-randomness: 0.653536 0.731557
-start_address=0x8e044c0
-time_random=0.653536, space_random=0.731557, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2699103 us, waittime=2699083 us*****
-*****[fault_injection tool] mem_size*8*space_random=785503347.539968, fi_bit_point=785503347, fi_byte_point=98187918, value_of_target_byte(before fi)=e *****
-*****[fault_injection tool] value_of_target_byte(after fi)=6, address_for_target_byte=0xeba7f4e *****
-Execution Time = 4.750000 
+randomness: 0.223988 0.898987
+Caught signal frostart_address=0x22604e00
+time_random=0.223988, space_random=0.898987, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=465895 us, waittime=465873 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.060000 
 
 Num of Iter: 67
-randomness: 0.853894 0.353694
-start_address=0x8e044c0
-time_random=0.853894, space_random=0.353694, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3526582 us, waittime=3526559 us*****
-*****[fault_injection tool] mem_size*8*space_random=379776040.697856, fi_bit_point=379776040, fi_byte_point=47472005, value_of_target_byte(before fi)=9 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=8, address_for_target_byte=0xbb4a245 *****
-Execution Time = 5.500000 
+randomness: 0.796111 0.649952
+Caught signal frostart_address=0x22604e00
+time_random=0.796111, space_random=0.649952, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1655910 us, waittime=1655892 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 68
-randomness: 0.460132 0.826736
+randomness: 0.278630 0.756113
+Caught signal frostart_address=0x22604e00
+time_random=0.278630, space_random=0.756113, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=579550 us, waittime=579532 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.060000 
+
 Num of Iter: 69
-randomness: 0.272688 0.701847
-start_address=0x8e044c0
-time_random=0.272688, space_random=0.701847, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1126201 us, waittime=1126178 us*****
-*****[fault_injection tool] mem_size*8*space_random=753602477.948928, fi_bit_point=753602477, fi_byte_point=94200309, value_of_target_byte(before fi)=ffffffdb *****
-*****[fault_injection tool] value_of_target_byte(after fi)=fffffffb, address_for_target_byte=0xe7da6b5 *****
-Execution Time = 4.670000 
+randomness: 0.850166 0.505065
+Caught signal frostart_address=0x22604e00
+time_random=0.850166, space_random=0.505065, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1768345 us, waittime=1768324 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x129) [0x4015ba]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 70
-randomness: 0.462665 0.314329
-start_address=0x8e044c0
-time_random=0.462665, space_random=0.314329, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1910806 us, waittime=1910783 us*****
-*****[fault_injection tool] mem_size*8*space_random=337508193.796096, fi_bit_point=337508193, fi_byte_point=42188524, value_of_target_byte(before fi)=ffffffb6 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb4, address_for_target_byte=0xb6403ac *****
-Execution Time = 5.490000 
+randomness: 0.833355 0.613606
+Caught signal frostart_address=0x22604e00
+time_random=0.833355, space_random=0.613606, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1733378 us, waittime=1733359 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 71
-randomness: 0.575394 0.294616
-start_address=0x8e044c0
-time_random=0.575394, space_random=0.294616, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2376377 us, waittime=2376357 us*****
-*****[fault_injection tool] mem_size*8*space_random=316341521.219584, fi_bit_point=316341521, fi_byte_point=39542690, value_of_target_byte(before fi)=16 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=14, address_for_target_byte=0xb3ba462 *****
-Execution Time = 4.670000 
+randomness: 0.312562 0.215113
+Caught signal frostart_address=0x22604e00
+time_random=0.312562, space_random=0.215113, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=650128 us, waittime=650107 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 72
-randomness: 0.269375 0.408851
-start_address=0x8e044c0
-time_random=0.269375, space_random=0.408851, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1112518 us, waittime=1112495 us*****
-*****[fault_injection tool] mem_size*8*space_random=439000418.484224, fi_bit_point=439000418, fi_byte_point=54875052, value_of_target_byte(before fi)=ffffffa6 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffa2, address_for_target_byte=0xc25986c *****
-Execution Time = 5.500000 
+randomness: 0.294010 0.820443
+Caught signal frostart_address=0x22604e00
+time_random=0.294010, space_random=0.820443, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=611540 us, waittime=611522 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.080000 
 
 Num of Iter: 73
-randomness: 0.882151 0.886479
-start_address=0x8e044c0
-time_random=0.882151, space_random=0.886479, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3643283 us, waittime=3643264 us*****
-*****[fault_injection tool] mem_size*8*space_random=951849578.397696, fi_bit_point=951849578, fi_byte_point=118981197, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xff7c70d *****
-Execution Time = 4.670000 
+randomness: 0.861995 0.068145
+Caught signal frostart_address=0x22604e00
+time_random=0.861995, space_random=0.068145, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1792949 us, waittime=1792931 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 74
-randomness: 0.163372 0.646016
-start_address=0x8e044c0
-time_random=0.163372, space_random=0.646016, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=674726 us, waittime=674701 us*****
-*****[fault_injection tool] mem_size*8*space_random=693654398.173184, fi_bit_point=693654398, fi_byte_point=86706799, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=40, address_for_target_byte=0xe0b4f2f *****
-Execution Time = 4.560000 
+randomness: 0.346633 0.176341
+Caught signal frostart_address=0x22604e00
+time_random=0.346633, space_random=0.176341, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=720996 us, waittime=720972 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 75
-randomness: 0.863299 0.767094
-start_address=0x8e044c0
-time_random=0.863299, space_random=0.767094, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3565424 us, waittime=3565404 us*****
-*****[fault_injection tool] mem_size*8*space_random=823660910.739456, fi_bit_point=823660910, fi_byte_point=102957613, value_of_target_byte(before fi)=ffffffec *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffac, address_for_target_byte=0xf0346ed *****
-Execution Time = 4.650000 
+randomness: 0.334561 0.787228
+Caught signal frostart_address=0x22604e00
+time_random=0.334561, space_random=0.787228, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=695886 us, waittime=695868 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 76
-randomness: 0.553623 0.379361
-start_address=0x8e044c0
-time_random=0.553623, space_random=0.379361, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2286462 us, waittime=2286439 us*****
-*****[fault_injection tool] mem_size*8*space_random=407335772.094464, fi_bit_point=407335772, fi_byte_point=50916971, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=10, address_for_target_byte=0xbe9332b *****
-Execution Time = 5.480000 
+randomness: 0.726341 0.249416
+Caught signal frostart_address=0x22604e00
+time_random=0.726341, space_random=0.249416, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1510789 us, waittime=1510769 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 77
-randomness: 0.671042 0.363217
-start_address=0x8e044c0
-time_random=0.671042, space_random=0.363217, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2771403 us, waittime=2771383 us*****
-*****[fault_injection tool] mem_size*8*space_random=390001284.087808, fi_bit_point=390001284, fi_byte_point=48750160, value_of_target_byte(before fi)=2f *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3f, address_for_target_byte=0xbc82310 *****
-Execution Time = 4.670000 
+randomness: 0.297196 0.997621
+Caught signal frostart_address=0x22604e00
+time_random=0.297196, space_random=0.997621, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=618167 us, waittime=618149 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 78
-randomness: 0.362008 0.974983
-start_address=0x8e044c0
-time_random=0.362008, space_random=0.974983, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1495093 us, waittime=1495069 us*****
-*****[fault_injection tool] mem_size*8*space_random=1046880024.788992, fi_bit_point=1046880024, fi_byte_point=130860003, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=1, address_for_target_byte=0x10ad08a3 *****
-Execution Time = 5.510000 
-Full_verify: number of keys out of sort: 2
+randomness: 0.780829 0.605829
+Caught signal frostart_address=0x22604e00
+time_random=0.780829, space_random=0.605829, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1624124 us, waittime=1624106 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x113) [0x4015a4]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 79
-randomness: 0.976403 0.457382
-start_address=0x8e044c0
-time_random=0.976403, space_random=0.457382, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=4032544 us, waittime=4032524 us*****
-*****[fault_injection tool] mem_size*8*space_random=491110182.944768, fi_bit_point=491110182, fi_byte_point=61388772, value_of_target_byte(before fi)=ffffff94 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0xc88fca4 *****
-Execution Time = 4.670000 
+randomness: 0.353296 0.355157
+Caught signal frostart_address=0x22604e00
+time_random=0.353296, space_random=0.355157, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=734855 us, waittime=734834 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x125) [0x4015b6]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 80
-randomness: 0.172825 0.075267
-start_address=0x8e044c0
-time_random=0.172825, space_random=0.075267, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=713767 us, waittime=713744 us*****
-*****[fault_injection tool] mem_size*8*space_random=80817325.867008, fi_bit_point=80817325, fi_byte_point=10102165, value_of_target_byte(before fi)=2a *****
-*****[fault_injection tool] value_of_target_byte(after fi)=a, address_for_target_byte=0x97a6a55 *****
-Execution Time = 5.500000 
+randomness: 0.337850 0.964068
+Caught signal frostart_address=0x22604e00
+time_random=0.337850, space_random=0.964068, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=702728 us, waittime=702709 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 81
-randomness: 0.780788 0.050297
-start_address=0x8e044c0
-time_random=0.780788, space_random=0.050297, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3224654 us, waittime=3224633 us*****
-*****[fault_injection tool] mem_size*8*space_random=54005992.521728, fi_bit_point=54005992, fi_byte_point=6750749, value_of_target_byte(before fi)=ffffff8d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffff8c, address_for_target_byte=0x94746dd *****
-Execution Time = 4.670000 
+randomness: 0.904463 0.709453
+Caught signal frostart_address=0x22604e00
+time_random=0.904463, space_random=0.709453, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1881283 us, waittime=1881263 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.080000 
 
 Num of Iter: 82
-randomness: 0.566993 0.811279
-start_address=0x8e044c0
-time_random=0.566993, space_random=0.811279, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2341681 us, waittime=2341661 us*****
-*****[fault_injection tool] mem_size*8*space_random=871104193.232896, fi_bit_point=871104193, fi_byte_point=108888024, value_of_target_byte(before fi)=ffffffa5 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffa7, address_for_target_byte=0xf5dc498 *****
-Execution Time = 4.610000 
+randomness: 0.885260 0.314673
+Caught signal frostart_address=0x22604e00
+time_random=0.885260, space_random=0.314673, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1841340 us, waittime=1841318 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x147) [0x4015d8]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 83
-randomness: 0.763150 0.930602
-start_address=0x8e044c0
-time_random=0.763150, space_random=0.930602, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3151809 us, waittime=3151785 us*****
-*****[fault_injection tool] mem_size*8*space_random=999226288.898048, fi_bit_point=999226288, fi_byte_point=124903286, value_of_target_byte(before fi)=18 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=19, address_for_target_byte=0x10522436 *****
-Execution Time = 4.530000 
+randomness: 0.456387 0.564012
+Caught signal frostart_address=0x22604e00
+time_random=0.456387, space_random=0.564012, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=949284 us, waittime=949265 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 84
-randomness: 0.958094 0.548035
-start_address=0x8e044c0
-time_random=0.958094, space_random=0.548035, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3956928 us, waittime=3956905 us*****
-*****[fault_injection tool] mem_size*8*space_random=588448100.515840, fi_bit_point=588448100, fi_byte_point=73556012, value_of_target_byte(before fi)=ffffffeb *****
-*****[fault_injection tool] value_of_target_byte(after fi)=fffffffb, address_for_target_byte=0xd42a4ec *****
-Execution Time = 5.350000 
+randomness: 0.939215 0.671227
+Caught signal frostart_address=0x22604e00
+time_random=0.939215, space_random=0.671227, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1953567 us, waittime=1953546 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x16c) [0x4015fd]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 85
-randomness: 0.568656 0.024171
-start_address=0x8e044c0
-time_random=0.568656, space_random=0.024171, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2348549 us, waittime=2348527 us*****
-*****[fault_injection tool] mem_size*8*space_random=25953413.627904, fi_bit_point=25953413, fi_byte_point=3244176, value_of_target_byte(before fi)=4d *****
-*****[fault_injection tool] value_of_target_byte(after fi)=6d, address_for_target_byte=0x911c550 *****
-Execution Time = 4.510000 
+randomness: 0.918371 0.774469
+Caught signal frostart_address=0x22604e00
+time_random=0.918371, space_random=0.774469, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1910211 us, waittime=1910193 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x174) [0x401605]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 86
-randomness: 0.856331 0.288559
-start_address=0x8e044c0
-time_random=0.856331, space_random=0.288559, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3536647 us, waittime=3536625 us*****
-*****[fault_injection tool] mem_size*8*space_random=309837866.991616, fi_bit_point=309837866, fi_byte_point=38729733, value_of_target_byte(before fi)=ffffffec *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffe8, address_for_target_byte=0xb2f3cc5 *****
-Execution Time = 5.380000 
+randomness: 0.990264 0.026445
+Caught signal frostart_address=0x22604e00
+time_random=0.990264, space_random=0.026445, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=2059749 us, waittime=2059730 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x19f) [0x401630]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 87
-randomness: 0.462629 0.261082
-start_address=0x8e044c0
-time_random=0.462629, space_random=0.261082, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1910657 us, waittime=1910637 us*****
-*****[fault_injection tool] mem_size*8*space_random=280334662.893568, fi_bit_point=280334662, fi_byte_point=35041832, value_of_target_byte(before fi)=ffffff86 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffc6, address_for_target_byte=0xaf6f6e8 *****
-Execution Time = 4.670000 
+randomness: 0.559154 0.771572
+Caught signal frostart_address=0x22604e00
+time_random=0.559154, space_random=0.771572, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1163040 us, waittime=1163019 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 88
-randomness: 0.159397 0.379632
-start_address=0x8e044c0
-time_random=0.159397, space_random=0.379632, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=658309 us, waittime=658286 us*****
-*****[fault_injection tool] mem_size*8*space_random=407626756.128768, fi_bit_point=407626756, fi_byte_point=50953344, value_of_target_byte(before fi)=67 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=77, address_for_target_byte=0xbe9c140 *****
-Execution Time = 5.380000 
+randomness: 0.044604 0.382595
+Caught signal frostart_address=0x22604e00
+time_random=0.044604, space_random=0.382595, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=92776 us, waittime=92758 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 89
-randomness: 0.772653 0.859036
-start_address=0x8e044c0
-time_random=0.772653, space_random=0.859036, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=3191056 us, waittime=3191036 us*****
-*****[fault_injection tool] mem_size*8*space_random=922382881.521664, fi_bit_point=922382881, fi_byte_point=115297860, value_of_target_byte(before fi)=ffffffbb *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb9, address_for_target_byte=0xfbf9304 *****
-Execution Time = 4.670000 
+randomness: 0.612709 0.128120
+Caught signal frostart_address=0x22604e00
+time_random=0.612709, space_random=0.128120, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1274434 us, waittime=1274414 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 90
-randomness: 0.553262 0.117540
-start_address=0x8e044c0
-time_random=0.553262, space_random=0.117540, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2284972 us, waittime=2284949 us*****
-*****[fault_injection tool] mem_size*8*space_random=126207613.992960, fi_bit_point=126207613, fi_byte_point=15775951, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=20, address_for_target_byte=0x9d0fd8f *****
-Execution Time = 5.390000 
+randomness: 0.597654 0.234800
+Caught signal frostart_address=0x22604e00
+time_random=0.597654, space_random=0.234800, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1243120 us, waittime=1243102 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 91
-randomness: 0.663902 0.593328
-start_address=0x8e044c0
-time_random=0.663902, space_random=0.593328, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2741915 us, waittime=2741895 us*****
-*****[fault_injection tool] mem_size*8*space_random=637081088.950272, fi_bit_point=637081088, fi_byte_point=79635136, value_of_target_byte(before fi)=6e *****
-*****[fault_injection tool] value_of_target_byte(after fi)=6f, address_for_target_byte=0xd9f6780 *****
-Execution Time = 4.440000 
+randomness: 0.660593 0.978348
+Caught signal frostart_address=0x22604e00
+time_random=0.660593, space_random=0.978348, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1374033 us, waittime=1374011 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 92
-randomness: 0.362086 0.214458
-start_address=0x8e044c0
-time_random=0.362086, space_random=0.214458, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1495415 us, waittime=1495393 us*****
-*****[fault_injection tool] mem_size*8*space_random=230272524.091392, fi_bit_point=230272524, fi_byte_point=28784065, value_of_target_byte(before fi)=57 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=47, address_for_target_byte=0xa977a81 *****
-Execution Time = 5.510000 
+randomness: 0.149845 0.089971
+Caught signal frostart_address=0x22604e00
+time_random=0.149845, space_random=0.089971, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=311677 us, waittime=311654 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x121) [0x4015b2]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 93
-randomness: 0.059315 0.332205
-start_address=0x8e044c0
-time_random=0.059315, space_random=0.332205, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=244970 us, waittime=244950 us*****
-*****[fault_injection tool] mem_size*8*space_random=356702402.641920, fi_bit_point=356702402, fi_byte_point=44587800, value_of_target_byte(before fi)=ffffffdb *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffdf, address_for_target_byte=0xb889fd8 *****
-Execution Time = 4.460000 
+randomness: 0.039686 0.551096
+Caught signal frostart_address=0x22604e00
+time_random=0.039686, space_random=0.551096, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=82546 us, waittime=82528 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 94
-randomness: 0.253998 0.948225
-start_address=0x8e044c0
-time_random=0.253998, space_random=0.948225, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1049011 us, waittime=1048989 us*****
-*****[fault_injection tool] mem_size*8*space_random=1018148841.062400, fi_bit_point=1018148841, fi_byte_point=127268605, value_of_target_byte(before fi)=50 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=52, address_for_target_byte=0x10763bbd *****
-Execution Time = 5.490000 
+randomness: 0.611971 0.300381
+Caught signal frostart_address=0x22604e00
+time_random=0.611971, space_random=0.300381, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1272899 us, waittime=1272878 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x129) [0x4015ba]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 95
-randomness: 0.368530 0.429937
-start_address=0x8e044c0
-time_random=0.368530, space_random=0.429937, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1522028 us, waittime=1522008 us*****
-*****[fault_injection tool] mem_size*8*space_random=461641338.585088, fi_bit_point=461641338, fi_byte_point=57705167, value_of_target_byte(before fi)=0 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=4, address_for_target_byte=0xc50c78f *****
-Execution Time = 4.480000 
+randomness: 0.598572 0.910790
+Caught signal frostart_address=0x22604e00
+time_random=0.598572, space_random=0.910790, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1245029 us, waittime=1245010 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 96
-randomness: 0.643723 0.682876
-start_address=0x8e044c0
-time_random=0.643723, space_random=0.682876, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=2658575 us, waittime=2658553 us*****
-*****[fault_injection tool] mem_size*8*space_random=733232521.805824, fi_bit_point=733232521, fi_byte_point=91654065, value_of_target_byte(before fi)=79 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=7b, address_for_target_byte=0xe56cc71 *****
-Execution Time = 5.510000 
+randomness: 0.666500 0.658581
+Caught signal frostart_address=0x22604e00
+time_random=0.666500, space_random=0.658581, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1386320 us, waittime=1386302 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 97
-randomness: 0.762216 0.166244
+randomness: 0.065175 0.624243
+Caught signal frostart_address=0x22604e00
+time_random=0.065175, space_random=0.624243, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=135564 us, waittime=135543 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x9b) [0x40152c]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.080000 
+
 Num of Iter: 98
-randomness: 0.975295 0.388133
-start_address=0x8e044c0
-time_random=0.975295, space_random=0.388133, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=4027968 us, waittime=4027945 us*****
-*****[fault_injection tool] mem_size*8*space_random=416754635.374592, fi_bit_point=416754635, fi_byte_point=52094329, value_of_target_byte(before fi)=ffffffbd *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffb5, address_for_target_byte=0xbfb2a39 *****
-Execution Time = 4.520000 
+randomness: 0.133877 0.371101
+Caught signal frostart_address=0x22604e00
+time_random=0.133877, space_random=0.371101, exe_time=2.080000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=278464 us, waittime=278446 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000
 
 Num of Iter: 99
-randomness: 0.172371 0.507948
-start_address=0x8e044c0
-time_random=0.172371, space_random=0.507948, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=711892 us, waittime=711870 us*****
-*****[fault_injection tool] mem_size*8*space_random=545405012.017152, fi_bit_point=545405012, fi_byte_point=68175626, value_of_target_byte(before fi)=13 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=3, address_for_target_byte=0xcf08bca *****
-Execution Time = 5.490000 
+randomness: 0.065770 0.503172
+Caught signal frostart_address=0x22604e00
+time_random=0.065770, space_random=0.503172, exe_time=2.070000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=136143 us, waittime=136124 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0xa8) [0x401539]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.070000 
 
 Num of Iter: 100
-randomness: 0.284530 0.985384
-start_address=0x8e044c0
-time_random=0.284530, space_random=0.985384, exe_time=4.130000 seconds, mem_size=134217728 bytes
-*****[fault_injection tool] start_addr=0x8e044c0, mem_size=134217728 bytes, tigger_time=1175108 us, waittime=1175088 us*****
-*****[fault_injection tool] mem_size*8*space_random=1058048013.500416, fi_bit_point=1058048013, fi_byte_point=132256001, value_of_target_byte(before fi)=fffffff1 *****
-*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd1, address_for_target_byte=0x10c255c1 *****
-Execution Time = 4.420000 
-
+randomness: 0.635658 0.250373
+Caught signal frostart_address=0x22604e00
+time_random=0.635658, space_random=0.250373, exe_time=2.070000 seconds, mem_size=536870912 bytes
+*****[fault_injection tool] start_addr=0x22604e00, mem_size=536870912 bytes, tigger_time=1315812 us, waittime=1315789 us*****
+*****[fault_injection tool] mem_size*8*space_random=0.000000, fi_bit_point=0, fi_byte_point=0, value_of_target_byte(before fi)=ffffffd5 *****
+*****[fault_injection tool] value_of_target_byte(after fi)=ffffffd4, address_for_target_byte=0x22604e00 *****
+[bt] Execution path:
+[bt] ./is(show_stackframe+0x1f) [0x401999]
+[bt] ./is(sig_func+0x36) [0x401a2e]
+[bt] /lib64/libc.so.6() [0x3eaee329a0]
+[bt] ./is(rank+0x11e) [0x4015af]
+[bt] ./is(main+0x195) [0x40188d]
+[bt] /lib64/libc.so.6(__libc_start_main+0xfd) [0x3eaee1ed1d]
+[bt] ./is() [0x401209]
+Execution Time = 2.090000 
