@@ -1,4 +1,4 @@
-fileID = fopen('sample_data.txt');
+fileID = fopen('MG.dat');
 C = textscan(fileID,'%f32 %f32 %f32','delimiter',' ');
 fclose(fileID);
 
@@ -9,12 +9,12 @@ out_label = C{3};
 x = [time_rand spac_rand];
 [class,type] = dbscan(x,5,[]);
 
-plots(x,type);
-xlabel('Time Randness','fontsize',18);
-ylabel('Space Randness','fontsize',18);
-title('Clustering')
+%plots(x,type);
+%xlabel('Time Randness','fontsize',18);
+%ylabel('Space Randness','fontsize',18);
+%title('Clustering')
 
-figure,
+%figure,
 
 plots(x,out_label');
 xlabel('Time Randness','fontsize',18);

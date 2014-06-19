@@ -34,6 +34,7 @@ switch nargin
         NumOfCenters=NumOfClusters;
         NumOfPointsInCluster=zeros(NumOfClusters,1);
         for i=1:NumOfDataPoints
+            [i label(i)]
             centers(label(i),:)=centers(label(i),:)+data(i,:);
             NumOfPointsInCluster(label(i))=NumOfPointsInCluster(label(i))+1;
         end
