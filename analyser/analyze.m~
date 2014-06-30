@@ -1,4 +1,4 @@
-fileID = fopen('MG_Diff.dat');
+fileID = fopen('MG.dat');
 C = textscan(fileID,'%f32 %f32 %f32','delimiter',' ');
 fclose(fileID);
 
@@ -7,8 +7,8 @@ spac_rand = C{2};
 out_label = C{3};
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
+out_label
+[ x_min, x_max, y_min, y_max ] = bounds( time_rand, spac_rand, label )
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

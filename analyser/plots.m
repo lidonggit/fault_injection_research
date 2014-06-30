@@ -16,11 +16,11 @@
 %
 
 
-function [] = plots(data,label,centers,colors)
+function [] = plots(data,label)
 %Checking inputs
 switch nargin
     case 1 %Not enough inputs
-        error('Clustering data is required to plot clusters. Usage: display(data,label,centers,colors)')
+        error('Clustering data is required to plot clusters. Usage: display(data,label)')
     case 2 %Need to calculate cluster centers and color scheme
         [NumOfDataPoints,Dimensions]=size(data);
         if Dimensions~=2 && Dimensions~=3 %Check ability to plot
@@ -34,71 +34,36 @@ switch nargin
         NumOfCenters=NumOfClusters;
         NumOfPointsInCluster=zeros(NumOfClusters,1);
         for i=1:NumOfDataPoints
-            [i label(i)]
             centers(label(i),:)=centers(label(i),:)+data(i,:);
             NumOfPointsInCluster(label(i))=NumOfPointsInCluster(label(i))+1;
         end
         for i=1:NumOfClusters
             centers(i,:)=centers(i,:)/NumOfPointsInCluster(i);
         end
-        colors=hsv(NumOfClusters);        
-    case 3 %Need to calculate color scheme        
-        [NumOfDataPoints,Dimensions]=size(data);
-        if Dimensions~=2 && Dimensions~=3 %Check ability to plot
-            error('It is only possible to plot in 2 or 3 dimensions.')
-        end
-        if length(label)~=NumOfDataPoints %Check that each data point is assigned to a cluster
-            error('The number of data points in Data must be equal to the number of indices in IDX.')
-        end
-        NumOfClusters=max(label);
-        [NumOfCenters,Dims]=size(centers);
-        if Dims~=Dimensions
-            error('The number of dimensions in data should be equal to the number of dimensions in centers')
-        end
-        if NumOfCenters<NumOfClusters %Check that each cluster has a center
-            error('The number of cluster centers is smaller than the number of clusters.')
-        elseif NumOfCenters>NumOfClusters %Check that each cluster has a center
-            disp('There are more centers than clusters, all will be plotted')
-        end
-        colors=hsv(NumOfCenters);
-    case 4 %All data is given just need to check consistency        
-        [NumOfDataPoints,Dimensions]=size(data);
-        if Dimensions~=2 && Dimensions~=3 %Check ability to plot
-            error('It is only possible to plot in 2 or 3 dimensions.')
-        end
-        if length(label)~=NumOfDataPoints %Check that each data point is assigned to a cluster
-            error('The number of data points in Data must be equal to the number of indices in label.')
-        end
-        NumOfClusters=max(label);
-        [NumOfCenters,Dims]=size(centers);
-        if Dims~=Dimensions
-            error('The number of dimensions in Data should be equal to the number of dimensions in centers')
-        end
-        if NumOfCenters<NumOfClusters %Check that each cluster has a center
-            error('The number of cluster centers is smaller than the number of clusters.')
-        elseif NumOfCenters>NumOfClusters %Check that each cluster has a center
-            disp('There are more centers than clusters, all will be plotted')
-        end
-        [NumOfColors,RGB]=size(colors);
-        if RGB~=3 || NumOfColors<NumOfCenters
-            error('Colors should have at least the same number of rows as number of clusters and 3 columns')
-        end            
+        colors='ykgb';
+        marker='*.od';
 end
 %Data is ready. Now plotting
 if Dimensions==2
+    [ x_min, x_max, y_min, y_max ] = bounds( data(:,1), data(:,2), label );
     for i=1:NumOfDataPoints %plot data points    
-        plot(data(i,1),data(i,2),'.','Color',colors(label(i),:))
+        plot(data(i,1),data(i,2),marker(label(i)),'Color',colors(label(i)))
         hold on
     end
     for i=1:NumOfCenters %plot the centers
-        plot(centers(i,1),centers(i,2),'s','Color',colors(i,:))
+        plot(centers(i,1),centers(i,2),'s','Color',colors(i))
+        hold on
     end
+    line([x_min x_min],[0 1]); hold on
+    line([x_max x_max],[0 1]); hold on
+    line([0 1],[y_min y_min]); hold on
+    line([0 1],[y_max y_max]);
 else
     for i=1:NumOfDataPoints %plot data points 
-        plot3(data(i,1),data(i,2),data(i,3),'.','Color',colors(label(i),:)) 
+        plot3(data(i,1),data(i,2),data(i,3),marker(label(i)),'Color',colors(label(i))) 
         hold on
     end
     for i=1:NumOfCenters %plot the centers
-        plot3(centers(i,1),centers(i,2),centers(i,3),'s','Color',colors(i,:))
+        plot3(centers(i,1),centers(i,2),centers(i,3),'s','Color',colors(i))
     end
 end
