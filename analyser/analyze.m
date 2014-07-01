@@ -1,4 +1,4 @@
-fileID = fopen('MG_Diff.dat');
+fileID = fopen('CG_x.dat');
 C = textscan(fileID,'%f32 %f32 %f32','delimiter',' ');
 fclose(fileID);
 
