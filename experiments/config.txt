@@ -1,0 +1,27 @@
+CG
+
+data structure: x (Ax=b)
+source file: cg_x.f
+Number of executions: 1000
+Injection Loc: main loop (line 327 in cg_x.f)
+
+IS
+
+data structure: key_array
+source file: is.c
+Number of executions: 100
+Injection Loc: main loop (line 808 in is.c)
+
+MG
+
+data structure: u
+source file: mg.f
+Number of executions: 1000
+Injection Loc: one iteration (line 299 in mg.f)
+
+FT
+
+data structure: xnt
+source file: appft.f
+Number of executions: 1000
+Injection Loc: main loop (line 98 in appft.f)
