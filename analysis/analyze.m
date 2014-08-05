@@ -10,10 +10,10 @@ spac_rand = C{2};
 out_label = C{3};
 
 len = size(out_label,1);
-class_label = ones(1,1000);
+class_label = ones(1,len);
 
 for i = 1 : len
-    if strcmp(out_label(i),'SUCCES')
+    if strcmp(out_label(i),'SUCCES') || strcmp(out_label(i),'succes')
         class_label(i) = 1;
     else
         class_label(i) = 2;

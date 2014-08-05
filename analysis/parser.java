@@ -72,22 +72,22 @@ public class parser {
 					lineSc.close();
 				}
 				/* Get the execution time of whole application */
-				if(oneLine.startsWith("Execution Time")) {
+				if(oneLine.startsWith("Execution Time")||oneLine.startsWith("Time in seconds")) {
 					Scanner lineSc = new Scanner(oneLine).useDelimiter("\\s+");
 					while(lineSc.hasNext()) {
 						oneItem = lineSc.next();
-						if(oneItem.equals("Time:")) {
+						if(oneItem.equals("Time:")||oneItem.equals("=")) {
 							exTime.addElement(lineSc.nextDouble());
 						}
 					}
 					lineSc.close();
 				}
 				/* Get the verification result of the application */
-				if(oneLine.startsWith("VERIFICATION")) {
+				if(oneLine.startsWith("VERIFICATION")||oneLine.startsWith("Verification")) {
 					Scanner lineSc = new Scanner(oneLine).useDelimiter("\\s+");
 					while(lineSc.hasNext()) {
 						oneItem = lineSc.next();
-						if(oneItem.equals("VERIFICATION")) {
+						if(oneItem.equals("VERIFICATION")||oneItem.equals("FT")) {
 							verify.addElement(lineSc.next());
 						}
 					}
