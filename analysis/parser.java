@@ -8,12 +8,15 @@ public class parser {
 	private static String fileName_log = "";
 	private static String fileName_trace = "";
 	private static String fileName_out = "";
+	private static Vector<Double> timeRand = new Vector<Double>();
 	private static Vector<Double> spacRand = new Vector<Double>();
+	private static double orig_exec_time;
 	private static Vector<Double> stTime = new Vector<Double>();
 	private static Vector<Double> btTime = new Vector<Double>();
 	private static Vector<Double> exTime = new Vector<Double>();
 	private static Vector<String> verify = new Vector<String>();
 	private static Vector<String> lineNum = new Vector<String>();
+	private static double perf_fault_threshold = 0.1;
 	
     public static void main (String[] args) {
     	
@@ -43,9 +46,20 @@ public class parser {
 					while(lineSc.hasNext()) {
 						oneItem = lineSc.next();
 						if(oneItem.equals("randomness:")) {
-							lineSc.next();
+							timeRand.addElement(lineSc.nextDouble());
 							spacRand.addElement(lineSc.nextDouble());
 						}
+					}
+					lineSc.close();
+				}
+				/* Get the execution time without faults */
+				if(oneLine.startsWith("[FI] exec_time=")) {
+					Scanner lineSc = new Scanner(oneLine).useDelimiter("=|,");
+					while(lineSc.hasNext()) {
+						oneItem = lineSc.next();
+						oneItem = lineSc.next();
+						orig_exec_time = Double.parseDouble(oneItem);
+						break;
 					}
 					lineSc.close();
 				}
@@ -114,12 +128,19 @@ public class parser {
 			sc1.close();
 			
 			/* Write the results to a file */
-			
+	
 			BufferedWriter out=new BufferedWriter(new FileWriter(fileName_out));
+			out.write("Time_Random Time_Random_Adjust Space_Random Result Performance_Result Line_Number" + "\n");
 			for(int i=0; i<spacRand.size(); i++) {
-	        	double timeRand = stTime.elementAt(i) / (exTime.elementAt(i)*1000000-btTime.elementAt(i));
-	        	out.write(df.format(timeRand)+" "+df.format(spacRand.elementAt(i))+" "+
-	        			  verify.elementAt(i).substring(0,6) + " " + lineNum.elementAt(i) + "\n");
+				String performance_fault = "PSUCC";
+				if(Math.abs(exTime.elementAt(i)-orig_exec_time)/orig_exec_time>perf_fault_threshold) {
+					performance_fault = "PFAIL";
+				}
+	        	double timeRand_adjust = stTime.elementAt(i) / (exTime.elementAt(i)*1000000-btTime.elementAt(i));
+//	        	System.out.println(df.format(timeRand.elementAt(i))+" "+df.format(timeRand_adjust)+" "+df.format(spacRand.elementAt(i))+" "+
+//	        			  verify.elementAt(i).substring(0,6) + " " + lineNum.elementAt(i) + "\n");
+	        	out.write(df.format(timeRand.elementAt(i))+" "+df.format(timeRand_adjust)+" "+df.format(spacRand.elementAt(i))+" "+
+	        			  verify.elementAt(i).substring(0,6) + " " + performance_fault + " " + lineNum.elementAt(i) +"\n");
 			}
 			out.close();
 			

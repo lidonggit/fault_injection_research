@@ -1,999 +1,1000 @@
-0.1638 0.3668 failed fft3d.f:126
-0.2302 0.6451 succes fft3d.f:48
-0.8654 0.0613 succes fft3d.f:81
-0.9039 0.8459 succes fft3d.f:49
-0.3327 0.8366 succes fft3d.f:2
-0.2415 0.3342 succes fft3d.f:49
-0.3663 0.2452 succes fft3d.f:45
-0.6682 0.1017 succes fft3d.f:81
-0.1747 0.7361 succes fft3d.f:82
-0.2315 0.0139 succes fft3d.f:49
-0.6311 0.0066 succes fft3d.f:81
-0.2076 0.7909 succes ()
-0.2560 0.5660 succes fft3d.f:166
-0.6571 0.0627 succes fft3d.f:49
-0.6377 0.6959 succes fft3d.f:79
-0.6676 0.4693 failed fft3d.f:46
-0.6022 0.4680 succes fft3d.f:49
-0.1727 0.2433 failed fft3d.f:2
-0.7773 0.1631 succes fft3d.f:48
-0.6277 0.0153 succes fft3d.f:49
-0.7811 0.9310 succes fft3d.f:82
-0.3369 0.7148 succes fft3d.f:49
-0.1542 0.5595 succes fft3d.f:49
-0.8089 0.9832 succes fft3d.f:82
-0.3758 0.2594 succes fft3d.f:46
-0.4465 0.0396 succes fft3d.f:47
-0.5934 0.9560 succes fft3d.f:166
-0.6267 0.2304 succes fft3d.f:81
-0.9533 0.0865 succes fft3d.f:49
-0.0389 0.8629 succes fft3d.f:82
-0.1030 0.6393 succes fft3d.f:49
-0.5840 0.2763 succes fft3d.f:49
-0.7427 0.6937 succes fft3d.f:49
-0.3911 0.1130 succes fft3d.f:81
-0.9560 0.3906 succes fft3d.f:55
-0.0307 0.1722 succes fft3d.f:81
-0.6755 0.5877 succes fft3d.f:82
-0.2432 0.3657 succes fft3d.f:2
-0.3144 0.6446 succes fft3d.f:2
-0.3766 0.4195 succes fft3d.f:45
-0.4489 0.6963 succes fft3d.f:2
-0.0147 0.4738 succes fft3d.f:2
-0.0806 0.7547 succes fft3d.f:2
-0.4801 0.2470 succes fft3d.f:81
-0.1314 0.1678 succes fft3d.f:82
-0.6920 0.9399 succes fft3d.f:166
-0.2672 0.7249 succes fft3d.f:82
-0.3246 0.9952 succes fft3d.f:2
-0.4843 0.4184 succes fft3d.f:49
-0.0484 0.6917 succes fft3d.f:166
-0.1165 0.9714 succes fft3d.f:49
-0.6850 0.7499 succes fft3d.f:82
-0.8342 0.6672 succes fft3d.f:49
-0.4051 0.4478 succes ()
-0.4678 0.2198 succes fft3d.f:57
-0.6251 0.6412 succes fft3d.f:82
-0.6837 0.4154 succes fft3d.f:49
-0.3399 0.8328 succes fft3d.f:49
-0.9126 0.6177 succes fft3d.f:2
-0.9742 0.3936 failed fft3d.f:2
-0.6331 0.8093 succes fft3d.f:82
-0.2901 0.2332 succes fft3d.f:49
-0.3511 0.5063 succes ()
-0.5059 0.4246 succes ()
-0.5769 0.2060 succes fft3d.f:48
-0.2247 0.6217 succes fft3d.f:126
-0.2954 0.3999 succes fft3d.f:49
-0.8622 0.6784 succes fft3d.f:49
-0.5132 0.0975 succes fft3d.f:81
-0.5826 0.3734 succes fft3d.f:2
-0.7233 0.7873 succes fft3d.f:44
-0.3030 0.0690 succes fft3d.f:82
-0.9554 0.4920 succes fft3d.f:48
-0.5168 0.2642 succes fft3d.f:77
-0.0930 0.0453 succes fft3d.f:159
-0.7371 0.4646 succes fft3d.f:2
-0.3062 0.7380 succes ()
-0.8714 0.5163 succes fft3d.f:81
-0.4446 0.7966 succes fft3d.f:2
-0.5088 0.0719 succes fft3d.f:49
-0.1680 0.9936 succes fft3d.f:49
-0.7235 0.2635 succes fft3d.f:49
-0.3014 0.5482 succes ()
-0.4538 0.9674 succes fft3d.f:166
-0.5161 0.7414 failed fft3d.f:49
-0.6694 0.6593 failed fft3d.f:2
-0.7259 0.9361 succes fft3d.f:82
-0.3120 0.7180 succes fft3d.f:48
-0.8642 0.9885 succes fft3d.f:82
-0.0264 0.9100 failed fft3d.f:49
-0.6794 0.8295 succes fft3d.f:2
-0.2399 0.1020 succes fft3d.f:49
-0.8975 0.5266 succes fft3d.f:46
-0.4691 0.3072 succes fft3d.f:79
-0.0339 0.0808 succes fft3d.f:49
-0.6891 0.0040 succes fft3d.f:49
-0.7430 0.2792 succes fft3d.f:2
-0.3211 0.5571 succes fft3d.f:82
-0.8807 0.3302 succes fft3d.f:46
-0.4585 0.1155 failed fft3d.f:120
-0.5232 0.3888 failed fft3d.f:48
-0.5843 0.1610 succes fft3d.f:48
-0.1558 0.4416 succes fft3d.f:48
-0.7237 0.2233 failed fft3d.f:2
-0.3804 0.6390 succes fft3d.f:2
-0.0351 0.0601 succes fft3d.f:2
-0.1011 0.3374 succes fft3d.f:160
-0.6582 0.1112 failed fft3d.f:126
-0.7275 0.3910 succes fft3d.f:2
-0.3026 0.1718 succes fft3d.f:160
-0.3651 0.9471 succes fft3d.f:49
-0.9279 0.7240 succes fft3d.f:49
-0.5827 0.1394 succes fft3d.f:82
-0.6508 0.9205 succes fft3d.f:82
-0.2181 0.1948 failed fft3d.f:49
-0.7797 0.4739 succes fft3d.f:81
-0.3533 0.2511 succes fft3d.f:2
-0.0099 0.1692 succes fft3d.f:44
-0.0767 0.9472 succes fft3d.f:2
-0.6315 0.2245 succes fft3d.f:49
-0.7075 0.5016 succes fft3d.f:2
-0.7719 0.2779 succes fft3d.f:82
-0.8369 0.0578 succes fft3d.f:2
-0.4951 0.9779 succes fft3d.f:48
-0.5620 0.2515 failed fft3d.f:47
-0.1334 0.0311 succes fft3d.f:82
-0.7816 0.9517 succes fft3d.f:81
-0.8457 0.7251 succes fft3d.f:81
-0.4126 0.5068 failed fft3d.f:2
-0.4870 0.2833 succes fft3d.f:49
-0.0533 0.0605 succes fft3d.f:81
-0.7011 0.4808 succes fft3d.f:165
-0.2661 0.2499 failed fft3d.f:82
-0.8304 0.5317 succes fft3d.f:49
-0.9838 0.9515 succes fft3d.f:45
-0.5574 0.2252 succes fft3d.f:49
-0.1313 0.5088 failed fft3d.f:49
-0.6931 0.7862 succes fft3d.f:48
-0.3453 0.7036 succes fft3d.f:160
-0.8961 0.9784 succes fft3d.f:49
-0.9797 0.2576 succes fft3d.f:82
-0.5481 0.5370 succes fft3d.f:48
-0.6068 0.3090 succes fft3d.f:48
-0.2686 0.2301 failed fft3d.f:46
-0.3342 0.0088 succes fft3d.f:49
-0.8977 0.2857 succes fft3d.f:49
-0.9693 0.5667 succes fft3d.f:49
-0.6153 0.9796 succes fft3d.f:49
-0.1901 0.2614 succes fft3d.f:49
-0.7582 0.5393 succes fft3d.f:48
-0.8166 0.3127 failed fft3d.f:2
-0.4784 0.7310 succes fft3d.f:47
-0.1313 0.6511 succes fft3d.f:82
-0.6944 0.9278 succes fft3d.f:48
-0.7572 0.2037 succes fft3d.f:126
-0.9088 0.1229 failed fft3d.f:120
-0.9845 0.9049 succes fft3d.f:82
-0.5532 0.1847 succes fft3d.f:2
-0.1162 0.9553 succes fft3d.f:126
-0.2665 0.3729 failed fft3d.f:81
-0.8358 0.1544 succes fft3d.f:82
-0.4040 0.4301 succes fft3d.f:82
-0.0595 0.8505 succes ()
-0.1245 0.1260 succes fft3d.f:94
-0.6896 0.9030 succes fft3d.f:82
-0.2596 0.6816 succes fft3d.f:120
-0.8996 0.1028 succes fft3d.f:2
-0.9829 0.8811 succes fft3d.f:49
-0.6318 0.7975 succes fft3d.f:49
-0.6990 0.5787 succes fft3d.f:82
-0.2679 0.3513 failed fft3d.f:49
-0.8321 0.6299 succes fft3d.f:49
-0.4919 0.5508 succes fft3d.f:49
-0.1459 0.9702 succes fft3d.f:46
-0.7022 0.2458 succes fft3d.f:81
-0.2757 0.0221 succes fft3d.f:82
-0.3451 0.8034 succes fft3d.f:46
-0.4028 0.0718 succes fft3d.f:79
-0.0683 0.9995 succes fft3d.f:125
-0.1340 0.7761 succes fft3d.f:82
-0.1988 0.5541 succes fft3d.f:82
-0.7588 0.8276 succes fft3d.f:2
-0.3321 0.6075 succes fft3d.f:49
-0.8945 0.8860 succes fft3d.f:166
-0.4614 0.6591 succes fft3d.f:2
-0.5313 0.4395 succes fft3d.f:48
-0.6038 0.2155 succes fft3d.f:49
-0.2486 0.6319 succes fft3d.f:48
-0.8198 0.9129 failed fft3d.f:2
-0.8801 0.6883 succes fft3d.f:49
-0.4540 0.4687 succes fft3d.f:45
-0.1086 0.3859 succes ()
-0.1762 0.1644 failed fft3d.f:49
-0.8209 0.0806 failed fft3d.f:2
-0.8972 0.8594 succes fft3d.f:160
-0.5480 0.7787 succes fft3d.f:166
-0.2055 0.2008 succes fft3d.f:81
-0.7691 0.4767 succes fft3d.f:2
-0.9170 0.8892 succes fft3d.f:2
-0.9956 0.6735 succes fft3d.f:49
-0.6431 0.0914 succes fft3d.f:82
-0.7007 0.3681 failed fft3d.f:48
-0.7779 0.6427 succes fft3d.f:48
-0.9315 0.5615 succes fft3d.f:82
-0.1465 0.2614 succes fft3d.f:159
-0.0516 0.2588 succes ()
-0.2015 0.1762 succes ()
-0.2604 0.9492 succes fft3d.f:120
-0.8264 0.2281 succes fft3d.f:82
-0.3969 0.5057 succes fft3d.f:49
-0.9607 0.7834 succes fft3d.f:82
-0.5327 0.5587 succes fft3d.f:46
-0.6816 0.4809 succes fft3d.f:49
-0.2549 0.7593 succes fft3d.f:160
-0.8077 0.0280 succes fft3d.f:49
-0.4743 0.4530 failed fft3d.f:49
-0.0384 0.2269 succes fft3d.f:82
-0.1084 0.5078 succes ()
-0.6700 0.2828 succes fft3d.f:49
-0.3251 0.7001 succes fft3d.f:2
-0.3944 0.4812 succes fft3d.f:166
-0.9562 0.7560 succes fft3d.f:2
-0.1163 0.6767 succes fft3d.f:48
-0.6775 0.4550 succes fft3d.f:82
-0.3329 0.8725 succes fft3d.f:82
-0.9006 0.6498 succes fft3d.f:81
-0.9679 0.4303 failed fft3d.f:82
-0.1247 0.3468 failed fft3d.f:81
-0.1871 0.6218 succes fft3d.f:49
-0.2567 0.4003 succes ()
-0.3232 0.1796 succes fft3d.f:45
-0.9732 0.5976 succes fft3d.f:78
-0.5430 0.3768 succes fft3d.f:48
-0.2012 0.2982 succes fft3d.f:48
-0.7620 0.5733 succes fft3d.f:2
-0.8347 0.3494 succes fft3d.f:82
-0.4888 0.2710 succes fft3d.f:166
-0.0535 0.0448 succes fft3d.f:45
-0.2087 0.4660 succes ()
-0.2766 0.2448 succes fft3d.f:126
-0.3374 0.5176 succes fft3d.f:82
-0.4929 0.4381 succes fft3d.f:78
-0.5562 0.7127 succes ()
-0.1272 0.9922 failed fft3d.f:45
-0.7839 0.9167 succes fft3d.f:46
-0.3491 0.6908 succes fft3d.f:2
-0.5032 0.1098 succes fft3d.f:48
-0.0702 0.3859 failed fft3d.f:48
-0.2207 0.3037 failed fft3d.f:120
-0.7854 0.5805 succes fft3d.f:49
-0.3571 0.8610 succes ()
-0.9220 0.1349 failed fft3d.f:2
-0.0754 0.5527 succes fft3d.f:2
-0.1470 0.3340 succes fft3d.f:48
-0.2072 0.6079 succes ()
-0.7762 0.8929 succes fft3d.f:2
-0.8418 0.1633 succes fft3d.f:81
-0.4971 0.0847 succes fft3d.f:166
-0.5648 0.3629 succes fft3d.f:48
-0.1347 0.6399 succes fft3d.f:48
-0.7841 0.0593 succes fft3d.f:2
-0.3550 0.8350 succes fft3d.f:81
-0.5057 0.2523 succes fft3d.f:120
-0.0749 0.0315 failed fft3d.f:45
-0.7270 0.4471 succes fft3d.f:2
-0.7970 0.7311 succes fft3d.f:82
-0.9358 0.6447 succes fft3d.f:48
-0.5151 0.9239 succes fft3d.f:82
-0.5798 0.7081 succes fft3d.f:49
-0.6434 0.9779 succes fft3d.f:82
-0.7140 0.7584 failed fft3d.f:82
-0.2800 0.0327 succes fft3d.f:81
-0.8460 0.3134 succes fft3d.f:49
-0.9203 0.0885 succes fft3d.f:82
-0.5691 0.0107 succes fft3d.f:82
-0.1417 0.2904 succes fft3d.f:160
-0.1996 0.5593 succes fft3d.f:49
-0.8583 0.4800 succes fft3d.f:126
-0.4260 0.2639 failed fft3d.f:82
-0.0777 0.6766 failed fft3d.f:82
-0.6434 0.9545 succes fft3d.f:160
-0.2132 0.2310 failed fft3d.f:81
-0.8607 0.1466 succes fft3d.f:49
-0.0209 0.0698 succes fft3d.f:48
-0.5816 0.3502 succes fft3d.f:81
-0.1569 0.6275 failed fft3d.f:81
-0.3074 0.5439 succes ()
-0.3688 0.8186 succes fft3d.f:120
-0.4417 0.0993 succes fft3d.f:82
-0.5936 0.0198 succes fft3d.f:166
-0.1591 0.2929 succes ()
-0.2291 0.5741 failed fft3d.f:49
-0.2964 0.8514 succes fft3d.f:160
-0.9453 0.7685 succes fft3d.f:160
-0.5157 0.5470 failed fft3d.f:2
-0.0847 0.3254 succes fft3d.f:48
-0.1556 0.1066 succes fft3d.f:81
-0.8040 0.5225 succes ()
-0.3729 0.2986 succes fft3d.f:2
-0.0263 0.7195 succes fft3d.f:2
-0.5890 0.9942 succes fft3d.f:160
-0.2471 0.9133 succes fft3d.f:160
-0.9003 0.3348 succes fft3d.f:82
-0.4609 0.1047 succes fft3d.f:120
-0.0353 0.3882 succes fft3d.f:49
-0.1854 0.8057 succes fft3d.f:47
-0.7569 0.5849 succes fft3d.f:49
-0.4076 0.0025 succes ()
-0.9710 0.7798 failed fft3d.f:56
-0.5362 0.5550 succes fft3d.f:2
-0.1992 0.4794 succes fft3d.f:2
-0.7588 0.2536 failed fft3d.f:81
-0.9128 0.1748 succes fft3d.f:82
-0.9818 0.4506 succes fft3d.f:2
-0.0479 0.2255 succes fft3d.f:166
-0.2030 0.1475 succes fft3d.f:82
-0.7648 0.4227 failed fft3d.f:57
-0.3371 0.7018 succes fft3d.f:48
-0.8869 0.4773 succes fft3d.f:2
-0.9566 0.7536 succes fft3d.f:81
-0.9472 0.8953 succes fft3d.f:160
-0.1049 0.3100 succes fft3d.f:166
-0.1743 0.0893 failed fft3d.f:47
-0.2335 0.3619 succes fft3d.f:49
-0.3880 0.2787 succes fft3d.f:165
-0.4588 0.5636 failed fft3d.f:126
-0.1095 0.9775 succes ()
-0.1790 0.2578 succes fft3d.f:82
-0.7446 0.5364 succes fft3d.f:48
-0.3112 0.3113 failed fft3d.f:82
-0.8707 0.0906 succes fft3d.f:81
-0.9416 0.8662 succes fft3d.f:81
-0.0995 0.7867 succes fft3d.f:166
-0.1661 0.0617 succes fft3d.f:49
-0.2304 0.8370 succes fft3d.f:49
-0.3872 0.7597 succes fft3d.f:2
-0.5387 0.6792 succes fft3d.f:48
-0.6053 0.9566 succes fft3d.f:49
-0.1746 0.2337 succes fft3d.f:48
-0.7347 0.5080 succes fft3d.f:82
-0.8039 0.7859 succes fft3d.f:126
-0.4607 0.7057 succes fft3d.f:126
-0.0282 0.9821 failed fft3d.f:49
-0.1887 0.4070 succes fft3d.f:82
-0.8328 0.8223 succes fft3d.f:46
-0.8908 0.5959 succes fft3d.f:48
-0.4734 0.3803 failed fft3d.f:120
-0.5257 0.1497 succes fft3d.f:2
-0.1082 0.4364 succes ()
-0.6708 0.7091 succes fft3d.f:120
-0.8215 0.1274 failed fft3d.f:44
-0.8873 0.4087 succes fft3d.f:81
-0.5445 0.3247 succes fft3d.f:82
-0.6062 0.0989 succes fft3d.f:126
-0.1791 0.3779 succes fft3d.f:2
-0.7408 0.1537 succes fft3d.f:166
-0.8969 0.0774 succes fft3d.f:166
-0.4674 0.8548 failed fft3d.f:49
-0.0380 0.1337 succes fft3d.f:2
-0.6817 0.5489 succes fft3d.f:82
-0.2552 0.8253 succes fft3d.f:45
-0.4104 0.7467 succes fft3d.f:46
-0.9780 0.0221 succes fft3d.f:81
-0.6212 0.9390 succes fft3d.f:126
-0.6983 0.7223 succes fft3d.f:81
-0.2600 0.9928 succes fft3d.f:2
-0.9115 0.9144 succes fft3d.f:49
-0.4813 0.1945 succes fft3d.f:49
-0.1348 0.6112 succes fft3d.f:166
-0.2045 0.8910 succes fft3d.f:81
-0.7627 0.6633 succes fft3d.f:126
-0.3363 0.4446 succes fft3d.f:2
-0.4929 0.8646 succes fft3d.f:49
-0.0583 0.1398 succes ()
-0.7063 0.5578 succes fft3d.f:126
-0.7851 0.3403 succes fft3d.f:82
-0.9313 0.2533 succes fft3d.f:82
-0.4995 0.5357 succes fft3d.f:82
-0.6523 0.9542 succes fft3d.f:49
-0.2124 0.7246 succes fft3d.f:49
-0.2871 0.0063 succes fft3d.f:2
-0.3549 0.7871 succes ()
-0.5092 0.7066 succes fft3d.f:82
-0.5686 0.9795 failed fft3d.f:82
-0.2273 0.3987 failed fft3d.f:48
-0.7905 0.1813 succes fft3d.f:160
-0.3569 0.9540 succes fft3d.f:82
-0.4244 0.2278 failed fft3d.f:42
-0.9991 0.5114 succes fft3d.f:48
-0.6497 0.4270 succes fft3d.f:82
-0.2164 0.7044 succes fft3d.f:49
-0.2803 0.9812 succes fft3d.f:49
-0.9259 0.9010 succes fft3d.f:2
-0.4171 0.0375 succes fft3d.f:81
-0.5684 0.4556 succes fft3d.f:120
-0.1375 0.7365 succes fft3d.f:2
-0.2044 0.5110 succes fft3d.f:47
-0.7713 0.2892 failed fft3d.f:120
-0.4220 0.2060 failed fft3d.f:77
-0.9863 0.9868 succes fft3d.f:166
-0.6434 0.9023 succes fft3d.f:82
-0.7071 0.1845 succes fft3d.f:56
-0.2796 0.9576 succes fft3d.f:78
-0.8520 0.2393 succes ()
-0.4983 0.1527 succes fft3d.f:166
-0.1536 0.5738 succes fft3d.f:94
-0.2202 0.8508 succes fft3d.f:2
-0.7781 0.6228 succes fft3d.f:49
-0.8445 0.9077 succes fft3d.f:48
-0.9226 0.6802 succes fft3d.f:82
-0.0722 0.5982 succes fft3d.f:81
-0.6478 0.8874 succes fft3d.f:49
-0.2954 0.7993 succes fft3d.f:2
-0.8590 0.5769 succes fft3d.f:47
-0.9234 0.3517 failed fft3d.f:82
-0.0821 0.2708 succes fft3d.f:82
-0.1534 0.5526 succes fft3d.f:2
-0.7133 0.3256 succes fft3d.f:120
-0.3694 0.7442 failed fft3d.f:48
-0.9371 0.5240 succes fft3d.f:166
-0.5900 0.4392 succes fft3d.f:82
-0.2422 0.3580 succes fft3d.f:2
-0.3157 0.6431 succes fft3d.f:82
-0.3763 0.4142 succes fft3d.f:82
-0.0332 0.8342 succes fft3d.f:46
-0.0998 0.6136 succes fft3d.f:49
-0.2520 0.0305 succes fft3d.f:160
-0.3203 0.3082 succes fft3d.f:82
-0.9696 0.2281 succes fft3d.f:49
-0.0410 0.5051 succes fft3d.f:82
-0.1939 0.9235 succes fft3d.f:49
-0.2604 0.2010 succes fft3d.f:120
-0.8268 0.9801 succes fft3d.f:2
-0.4777 0.3969 succes fft3d.f:49
-0.0508 0.6751 succes fft3d.f:160
-0.1146 0.4502 succes fft3d.f:126
-0.6793 0.2287 succes fft3d.f:82
-0.8356 0.1526 succes fft3d.f:82
-0.4025 0.4276 succes fft3d.f:48
-0.4647 0.6998 succes fft3d.f:82
-0.0397 0.4827 succes fft3d.f:49
-0.6913 0.8991 succes fft3d.f:49
-0.2547 0.6758 succes fft3d.f:49
-0.4104 0.5970 succes fft3d.f:82
-0.4750 0.3702 failed fft3d.f:48
-0.6238 0.2886 failed fft3d.f:2
-0.6964 0.5724 succes fft3d.f:160
-0.2661 0.3483 succes fft3d.f:45
-0.8316 0.6251 succes fft3d.f:2
-0.4010 0.4014 succes fft3d.f:165
-0.5548 0.3231 succes ()
-0.6095 0.0947 failed fft3d.f:48
-0.2700 0.5133 succes fft3d.f:81
-0.3428 0.2984 succes fft3d.f:2
-0.4018 0.0717 succes fft3d.f:48
-0.4764 0.8478 failed fft3d.f:49
-0.1280 0.2663 succes fft3d.f:81
-0.6908 0.5438 succes fft3d.f:82
-0.7604 0.8242 succes fft3d.f:2
-0.4184 0.2454 failed fft3d.f:48
-0.0733 0.6647 failed fft3d.f:45
-0.1354 0.4364 succes fft3d.f:82
-0.7028 0.2200 succes ()
-0.3574 0.1375 succes fft3d.f:49
-0.4213 0.4115 succes fft3d.f:49
-0.9856 0.1874 succes fft3d.f:82
-0.1425 0.6069 succes fft3d.f:166
-0.2122 0.3870 succes fft3d.f:2
-0.2738 0.1581 succes fft3d.f:48
-0.8453 0.9439 succes fft3d.f:94
-0.4973 0.3608 succes fft3d.f:82
-0.5738 0.1429 succes fft3d.f:82
-0.7199 0.5598 failed fft3d.f:81
-0.2825 0.8300 succes fft3d.f:48
-0.4369 0.7514 failed fft3d.f:2
-0.5023 0.5297 succes fft3d.f:81
-0.0770 0.3082 failed fft3d.f:48
-0.2246 0.7219 succes fft3d.f:48
-0.8850 0.1436 succes fft3d.f:49
-0.5407 0.5651 succes fft3d.f:48
-0.1034 0.8426 succes fft3d.f:81
-0.1692 0.6210 failed fft3d.f:81
-0.7368 0.3990 succes fft3d.f:82
-0.3009 0.1732 succes fft3d.f:166
-0.9561 0.5966 succes fft3d.f:81
-0.5258 0.8709 succes fft3d.f:49
-0.1788 0.2919 failed fft3d.f:82
-0.7443 0.0682 succes fft3d.f:82
-0.8935 0.9839 succes fft3d.f:49
-0.9594 0.2636 succes fft3d.f:49
-0.1224 0.6837 failed fft3d.f:2
-0.2679 0.0985 succes fft3d.f:82
-0.3379 0.8780 succes fft3d.f:81
-0.8989 0.1532 succes fft3d.f:2
-0.9710 0.9338 succes fft3d.f:49
-0.0401 0.7090 succes fft3d.f:49
-0.6878 0.6277 succes fft3d.f:2
-0.7548 0.4078 succes ()
-0.8214 0.6818 succes fft3d.f:120
-0.8958 0.4639 succes fft3d.f:166
-0.9517 0.2359 succes ()
-0.6139 0.6567 failed fft3d.f:81
-0.1814 0.9342 succes fft3d.f:49
-0.7533 0.7092 succes ()
-0.4040 0.1299 succes ()
-0.5536 0.5496 succes ()
-0.1230 0.3270 failed fft3d.f:49
-0.2790 0.2500 failed fft3d.f:49
-0.8489 0.0275 succes fft3d.f:2
-0.9921 0.4413 succes fft3d.f:46
-0.0636 0.2200 failed fft3d.f:46
-0.2223 0.6443 succes fft3d.f:2
-0.2850 0.4164 succes fft3d.f:82
-0.9347 0.8371 succes fft3d.f:82
-0.0100 0.6173 succes fft3d.f:2
-0.0717 0.3892 succes fft3d.f:2
-0.1370 0.1664 succes fft3d.f:82
-0.7885 0.5841 succes fft3d.f:166
-0.3629 0.8674 succes fft3d.f:48
-0.4304 0.1446 succes fft3d.f:82
-0.0820 0.5614 succes fft3d.f:48
-0.1460 0.8374 succes fft3d.f:49
-0.3018 0.2583 succes fft3d.f:160
-0.8647 0.5341 failed fft3d.f:2
-0.9289 0.8109 succes fft3d.f:81
-0.4996 0.5884 succes fft3d.f:165
-0.6532 0.5063 succes ()
-0.7168 0.7877 succes fft3d.f:49
-0.7906 0.0598 succes fft3d.f:166
-0.4416 0.4785 succes fft3d.f:166
-0.5097 0.7598 succes fft3d.f:82
-0.0789 0.5383 failed fft3d.f:81
-0.2346 0.9609 succes fft3d.f:49
-0.7948 0.7303 succes fft3d.f:45
-0.3675 0.0123 failed fft3d.f:81
-0.5271 0.4370 succes fft3d.f:78
-0.5859 0.7038 succes fft3d.f:46
-0.2352 0.6246 succes fft3d.f:2
-0.3084 0.9028 succes ()
-0.8740 0.1824 succes fft3d.f:82
-0.9318 0.9545 succes fft3d.f:2
-0.5929 0.8783 succes fft3d.f:82
-0.6638 0.6555 succes fft3d.f:49
-0.8114 0.0741 succes fft3d.f:2
-0.8763 0.3522 succes fft3d.f:82
-0.0385 0.7738 succes fft3d.f:45
-0.5920 0.0455 succes fft3d.f:2
-0.0843 0.1848 succes fft3d.f:82
-0.2359 0.6026 succes fft3d.f:82
-0.7959 0.3763 succes fft3d.f:166
-0.8675 0.1579 succes fft3d.f:2
-0.0236 0.5748 succes fft3d.f:48
-0.5874 0.8518 succes fft3d.f:49
-0.7430 0.2753 succes fft3d.f:159
-0.7989 0.5464 succes fft3d.f:82
-0.8738 0.8302 succes fft3d.f:81
-0.9330 0.1012 succes fft3d.f:2
-0.5098 0.3788 succes fft3d.f:2
-0.5745 0.1579 failed fft3d.f:49
-0.2292 0.0747 succes fft3d.f:2
-0.2981 0.3560 succes fft3d.f:82
-0.9469 0.7734 succes fft3d.f:166
-0.0184 0.5502 succes fft3d.f:48
-0.6712 0.9723 succes fft3d.f:2
-0.2357 0.7450 succes fft3d.f:82
-0.8062 0.5228 succes fft3d.f:49
-0.3730 0.8020 succes fft3d.f:2
-0.5244 0.7199 succes fft3d.f:126
-0.5924 0.9979 succes fft3d.f:49
-0.7401 0.9153 succes fft3d.f:2
-0.8081 0.1932 succes fft3d.f:120
-0.8809 0.4755 succes fft3d.f:48
-0.0331 0.8891 failed fft3d.f:81
-0.6014 0.6701 succes fft3d.f:49
-0.2606 0.0918 failed fft3d.f:45
-0.3199 0.3619 succes fft3d.f:2
-0.4775 0.2863 succes fft3d.f:82
-0.0441 0.0601 succes fft3d.f:160
-0.6880 0.9745 succes fft3d.f:49
-0.2644 0.7575 succes fft3d.f:81
-0.3257 0.5322 succes fft3d.f:82
-0.9725 0.9502 succes fft3d.f:48
-0.9614 0.0886 failed fft3d.f:49
-0.6145 0.5063 succes fft3d.f:48
-0.1831 0.2854 succes fft3d.f:49
-0.7528 0.0626 succes ()
-0.4022 0.9841 succes ()
-0.9722 0.7626 succes fft3d.f:2
-0.5256 0.0291 succes fft3d.f:82
-0.1083 0.8166 succes ()
-0.1709 0.0886 succes fft3d.f:49
-0.2450 0.3735 succes fft3d.f:2
-0.3976 0.7909 succes fft3d.f:2
-0.4582 0.5647 succes fft3d.f:82
-0.1160 0.9865 succes fft3d.f:120
-0.6802 0.2626 succes fft3d.f:49
-0.2489 0.0396 succes fft3d.f:81
-0.9019 0.9602 succes ()
-0.9664 0.2339 succes fft3d.f:82
-0.1228 0.6550 failed fft3d.f:48
-0.1902 0.9321 succes fft3d.f:49
-0.8384 0.3469 succes fft3d.f:82
-0.4039 0.6273 succes fft3d.f:120
-0.4776 0.9076 succes fft3d.f:82
-0.1305 0.8238 succes fft3d.f:82
-0.6912 0.6004 succes fft3d.f:166
-0.8494 0.5204 succes fft3d.f:49
-0.9033 0.2978 failed fft3d.f:49
-0.9821 0.0770 succes fft3d.f:81
-0.6345 0.4950 succes fft3d.f:81
-0.2043 0.2715 succes fft3d.f:47
-0.7671 0.5470 failed fft3d.f:49
-0.4300 0.9709 failed fft3d.f:48
-0.4884 0.7439 succes fft3d.f:48
-0.6424 0.6634 succes fft3d.f:2
-0.2155 0.4406 succes fft3d.f:48
-0.3654 0.8593 succes fft3d.f:120
-0.9218 0.1389 succes fft3d.f:49
-0.4210 0.2791 succes fft3d.f:49
-0.5666 0.6931 failed fft3d.f:82
-0.6286 0.9687 succes fft3d.f:82
-0.2912 0.3933 succes fft3d.f:48
-0.3498 0.6625 succes fft3d.f:82
-0.9223 0.4443 succes fft3d.f:49
-0.0803 0.8651 succes fft3d.f:48
-0.1430 0.6397 succes fft3d.f:82
-0.7906 0.5613 succes fft3d.f:82
-0.3651 0.3375 succes fft3d.f:2
-0.4297 0.1167 succes fft3d.f:82
-0.5883 0.0371 succes fft3d.f:49
-0.1505 0.8078 succes fft3d.f:81
-0.3063 0.2300 succes ()
-0.8668 0.5070 failed fft3d.f:48
-0.0251 0.9256 succes fft3d.f:82
-0.0943 0.7037 succes fft3d.f:82
-0.2490 0.6256 succes fft3d.f:159
-0.3137 0.3995 failed fft3d.f:48
-0.8715 0.6752 succes fft3d.f:82
-0.0335 0.0959 succes fft3d.f:49
-0.1039 0.8750 succes fft3d.f:49
-0.0793 0.0086 succes fft3d.f:2
-0.1462 0.2858 succes fft3d.f:78
-0.2120 0.5605 succes fft3d.f:2
-0.3614 0.9776 succes fft3d.f:49
-0.4359 0.7614 succes fft3d.f:48
-0.0924 0.6836 succes fft3d.f:160
-0.6498 0.4513 succes fft3d.f:2
-0.2206 0.7339 succes fft3d.f:48
-0.2948 0.5145 succes fft3d.f:48
-0.4412 0.4306 succes fft3d.f:2
-0.5033 0.7039 succes fft3d.f:82
-0.5663 0.9836 failed fft3d.f:2
-0.6423 0.2635 succes fft3d.f:82
-0.7048 0.0347 succes fft3d.f:49
-0.2857 0.3251 succes fft3d.f:49
-0.8389 0.5916 succes fft3d.f:49
-0.9922 0.0146 succes fft3d.f:81
-0.0656 0.2897 failed fft3d.f:120
-0.7139 0.7082 failed fft3d.f:46
-0.7925 0.9920 succes fft3d.f:160
-0.3481 0.2606 succes fft3d.f:81
-0.5062 0.6842 succes fft3d.f:82
-0.5718 0.9602 failed fft3d.f:49
-0.1417 0.2394 succes fft3d.f:160
-0.2916 0.6570 succes fft3d.f:166
-0.7720 0.2949 failed fft3d.f:45
-0.4269 0.7132 succes fft3d.f:2
-0.9869 0.9911 succes fft3d.f:49
-0.5570 0.7645 succes fft3d.f:82
-0.6250 0.5447 succes fft3d.f:2
-0.2861 0.4673 succes fft3d.f:49
-0.8337 0.7383 succes fft3d.f:160
-0.4134 0.0164 succes fft3d.f:82
-0.9679 0.7988 succes fft3d.f:82
-0.0465 0.0701 succes fft3d.f:160
-0.1174 0.3512 failed fft3d.f:56
-0.6779 0.6280 succes fft3d.f:82
-0.2524 0.4046 succes ()
-0.8079 0.6816 succes fft3d.f:2
-0.9466 0.0980 succes fft3d.f:120
-0.9503 0.2386 succes fft3d.f:82
-0.5122 0.5125 succes fft3d.f:82
-0.1735 0.4335 failed fft3d.f:45
-0.2429 0.7143 succes fft3d.f:48
-0.8836 0.1267 succes fft3d.f:82
-0.9600 0.9056 succes fft3d.f:82
-0.6035 0.8268 succes fft3d.f:120
-0.1795 0.1032 succes fft3d.f:82
-0.7445 0.8783 succes fft3d.f:49
-0.3977 0.7965 succes fft3d.f:82
-0.4587 0.0761 succes fft3d.f:81
-0.5338 0.3548 succes fft3d.f:45
-0.1890 0.2729 succes fft3d.f:2
-0.2527 0.0514 succes fft3d.f:49
-0.8209 0.8251 succes fft3d.f:81
-0.4809 0.2485 succes fft3d.f:49
-0.6305 0.6717 succes fft3d.f:82
-0.1967 0.9438 succes fft3d.f:82
-0.7592 0.2189 succes fft3d.f:126
-0.9146 0.6408 succes fft3d.f:49
-0.4797 0.4133 succes fft3d.f:2
-0.1351 0.8353 succes fft3d.f:49
-0.6979 0.6115 succes fft3d.f:46
-0.2736 0.3933 failed fft3d.f:81
-0.8419 0.6697 succes fft3d.f:48
-0.4040 0.4447 succes fft3d.f:82
-0.5569 0.3662 succes fft3d.f:120
-0.6228 0.1433 succes fft3d.f:48
-0.6974 0.4200 succes fft3d.f:160
-0.3451 0.3366 succes fft3d.f:48
-0.9085 0.6177 succes fft3d.f:81
-0.5654 0.0338 failed fft3d.f:82
-0.6318 0.8127 succes fft3d.f:81
-0.1988 0.5865 succes fft3d.f:160
-0.2666 0.8660 succes fft3d.f:126
-0.9174 0.7874 succes fft3d.f:2
-0.9836 0.5637 succes fft3d.f:49
-0.6389 0.9810 succes fft3d.f:82
-0.7053 0.7603 succes fft3d.f:48
-0.2773 0.0368 succes fft3d.f:2
-0.9276 0.4554 succes fft3d.f:49
-0.9919 0.7326 succes fft3d.f:49
-0.1488 0.1515 succes fft3d.f:82
-0.6282 0.2842 succes fft3d.f:82
-0.2884 0.7094 succes fft3d.f:78
-0.8519 0.4863 succes ()
-0.5014 0.9031 succes fft3d.f:48
-0.5697 0.1811 succes fft3d.f:2
-0.7244 0.0995 succes fft3d.f:49
-0.7857 0.3734 succes fft3d.f:79
-0.9388 0.2944 succes fft3d.f:166
-0.5059 0.0709 succes ()
-0.0771 0.8514 failed fft3d.f:126
-0.4703 0.8417 succes fft3d.f:48
-0.0438 0.6247 succes fft3d.f:166
-0.1929 0.5416 succes fft3d.f:49
-0.2624 0.3171 succes fft3d.f:126
-0.4142 0.7391 succes fft3d.f:2
-0.9678 0.5082 succes fft3d.f:49
-0.5470 0.2923 succes fft3d.f:49
-0.1136 0.0711 failed fft3d.f:49
-0.1835 0.3480 succes fft3d.f:49
-0.7330 0.1226 succes fft3d.f:82
-0.3102 0.8983 succes fft3d.f:126
-0.3815 0.1793 succes fft3d.f:49
-0.0320 0.5926 succes fft3d.f:2
-0.5955 0.3729 succes fft3d.f:2
-0.6695 0.6576 succes fft3d.f:48
-0.7326 0.4277 succes fft3d.f:82
-0.3003 0.7056 succes fft3d.f:82
-0.4510 0.1248 succes fft3d.f:159
-0.5244 0.4052 succes fft3d.f:2
-0.5877 0.1786 succes fft3d.f:81
-0.7421 0.1009 succes fft3d.f:45
-0.3107 0.3763 failed fft3d.f:82
-0.9625 0.2985 succes fft3d.f:48
-0.0331 0.5735 succes fft3d.f:82
-0.6818 0.9900 succes fft3d.f:49
-0.7502 0.2705 succes fft3d.f:166
-0.8964 0.1886 succes fft3d.f:82
-0.9708 0.9697 succes fft3d.f:2
-0.5393 0.2442 succes fft3d.f:166
-0.1941 0.6638 succes fft3d.f:82
-0.7584 0.4426 succes fft3d.f:82
-0.4112 0.3579 succes fft3d.f:2
-0.9750 0.6336 failed fft3d.f:81
-0.0469 0.9116 succes fft3d.f:160
-0.1123 0.6891 succes fft3d.f:46
-0.6853 0.4714 succes fft3d.f:78
-0.3324 0.8840 succes fft3d.f:82
-0.9051 0.1697 succes fft3d.f:2
-0.5597 0.0866 failed fft3d.f:2
-0.6235 0.3604 succes fft3d.f:45
-0.2834 0.2867 succes fft3d.f:82
-0.3430 0.0541 succes fft3d.f:48
-0.4923 0.9726 succes fft3d.f:160
-0.6513 0.8970 succes fft3d.f:166
-0.2219 0.6766 failed fft3d.f:48
-0.3681 0.5911 succes fft3d.f:126
-0.4393 0.8700 succes fft3d.f:82
-0.0039 0.6440 succes fft3d.f:49
-0.0737 0.9240 failed fft3d.f:49
-0.7246 0.3437 failed fft3d.f:48
-0.2917 0.6189 succes fft3d.f:81
-0.8606 0.9022 succes fft3d.f:2
-0.5100 0.8165 succes fft3d.f:48
-0.5815 0.5973 succes fft3d.f:46
-0.7365 0.5172 succes fft3d.f:82
-0.7948 0.2854 succes fft3d.f:160
-0.4544 0.7106 succes ()
-0.5233 0.4906 succes fft3d.f:49
-0.1763 0.9069 succes fft3d.f:82
-0.7402 0.6820 succes fft3d.f:82
-0.8092 0.4638 succes fft3d.f:2
-0.4571 0.8780 succes ()
-0.0349 0.1593 succes fft3d.f:82
-0.0983 0.4351 succes fft3d.f:82
-0.7448 0.8529 succes fft3d.f:160
-0.8102 0.1292 succes fft3d.f:81
-0.8857 0.4116 succes fft3d.f:79
-0.9466 0.1845 succes fft3d.f:82
-0.1021 0.1028 succes fft3d.f:166
-0.0834 0.7377 failed fft3d.f:82
-0.2319 0.6560 succes fft3d.f:33
-0.7940 0.4325 succes fft3d.f:46
-0.8703 0.2165 succes fft3d.f:49
-0.9302 0.4884 succes fft3d.f:2
-0.5881 0.4098 succes fft3d.f:82
-0.6579 0.6891 succes fft3d.f:46
-0.2282 0.4647 succes fft3d.f:48
-0.2912 0.7393 succes fft3d.f:81
-0.4445 0.6593 succes fft3d.f:82
-0.5113 0.9369 succes fft3d.f:45
-0.0811 0.2174 succes fft3d.f:82
-0.7337 0.6364 succes fft3d.f:82
-0.8003 0.9151 succes fft3d.f:46
-0.4530 0.8301 succes fft3d.f:46
-0.0224 0.6079 failed fft3d.f:49
-0.5866 0.8860 succes fft3d.f:82
-0.2427 0.8051 succes fft3d.f:160
-0.8039 0.5817 succes ()
-0.3784 0.8633 failed fft3d.f:49
-0.9407 0.6341 succes fft3d.f:82
-0.5061 0.9144 succes ()
-0.6587 0.8321 succes fft3d.f:57
-0.6464 0.4722 succes fft3d.f:49
-0.2929 0.3849 succes fft3d.f:166
-0.8568 0.6638 succes fft3d.f:48
-0.4314 0.9411 succes fft3d.f:49
-0.0883 0.3612 succes fft3d.f:48
-0.1552 0.6417 succes fft3d.f:82
-0.2193 0.4168 failed fft3d.f:120
-0.3703 0.3333 succes fft3d.f:47
-0.4400 0.1150 succes fft3d.f:2
-0.0047 0.8878 succes fft3d.f:81
-0.1618 0.3110 succes fft3d.f:48
-0.7270 0.0898 succes fft3d.f:48
-0.7964 0.8609 succes fft3d.f:49
-0.4465 0.2845 succes fft3d.f:81
-0.0160 0.0591 succes fft3d.f:120
-0.0803 0.8365 failed fft3d.f:48
-0.6352 0.6106 succes fft3d.f:82
-0.2133 0.8917 succes fft3d.f:82
-0.7749 0.6680 succes fft3d.f:49
-0.3445 0.9433 succes fft3d.f:48
-0.0033 0.3661 succes ()
-0.0688 0.1412 failed fft3d.f:2
-0.2227 0.5620 succes fft3d.f:48
-0.2891 0.8372 succes fft3d.f:166
-0.4438 0.7601 succes fft3d.f:81
-0.5115 0.0367 succes fft3d.f:120
-0.6619 0.4549 succes fft3d.f:49
-0.2296 0.7292 succes fft3d.f:46
-0.7902 0.0095 succes fft3d.f:166
-0.8580 0.7860 succes fft3d.f:81
-0.4295 0.5631 succes fft3d.f:82
-0.5845 0.4851 succes fft3d.f:82
-0.1570 0.2627 succes ()
-0.7158 0.0347 succes fft3d.f:2
-0.8691 0.4596 succes fft3d.f:2
-0.4363 0.7357 succes fft3d.f:79
-0.0061 0.0114 succes fft3d.f:82
-0.0777 0.7923 failed fft3d.f:82
-0.6383 0.5681 succes fft3d.f:2
-0.2093 0.3451 succes fft3d.f:2
-0.3572 0.2611 succes ()
-0.4312 0.5432 succes fft3d.f:81
-0.0806 0.4561 succes fft3d.f:46
-0.1477 0.7354 succes fft3d.f:33
-0.8033 0.1561 succes fft3d.f:82
-0.3667 0.4326 succes fft3d.f:2
-0.9233 0.2088 succes fft3d.f:2
-0.9945 0.4845 succes fft3d.f:49
-0.1609 0.4099 succes fft3d.f:2
-0.7230 0.6833 succes fft3d.f:2
-0.3749 0.1025 failed fft3d.f:49
-0.4437 0.3793 succes fft3d.f:78
-0.6022 0.3031 succes fft3d.f:2
-0.1679 0.5787 failed fft3d.f:120
-0.2266 0.3522 failed fft3d.f:49
-0.2918 0.1285 succes fft3d.f:48
-0.3646 0.9110 succes fft3d.f:49
-0.9319 0.1889 succes fft3d.f:48
-0.0004 0.9643 succes ()
-0.0658 0.2391 failed fft3d.f:78
-0.6337 0.5205 succes fft3d.f:79
-0.7868 0.9380 succes fft3d.f:49
-0.8490 0.7136 succes fft3d.f:82
-0.4184 0.4912 succes fft3d.f:120
-0.0743 0.4110 failed fft3d.f:2
-0.1438 0.1897 succes fft3d.f:49
-0.2117 0.4695 succes fft3d.f:2
-0.3618 0.8836 succes fft3d.f:82
-0.5184 0.8061 succes fft3d.f:57
-0.5824 0.5819 succes fft3d.f:2
-0.1531 0.8600 succes fft3d.f:48
-0.3102 0.2813 succes fft3d.f:78
-0.4573 0.6971 succes fft3d.f:49
-0.5245 0.4738 failed fft3d.f:120
-0.6783 0.8931 succes fft3d.f:48
-0.2383 0.1648 succes fft3d.f:82
-0.3996 0.0909 succes fft3d.f:48
-0.9544 0.3699 succes fft3d.f:49
-0.0319 0.6424 succes fft3d.f:49
-0.1838 0.5601 succes fft3d.f:2
-0.7409 0.8415 succes fft3d.f:159
-0.2310 0.4724 succes fft3d.f:82
-0.8835 0.8926 succes fft3d.f:2
-0.9524 0.1761 succes ()
-0.1060 0.0897 succes fft3d.f:49
-0.6726 0.8685 failed fft3d.f:82
-0.7334 0.6421 succes fft3d.f:82
-0.8757 0.0623 succes fft3d.f:82
-0.3706 0.1993 failed fft3d.f:126
-0.4450 0.4824 succes fft3d.f:160
-0.0155 0.7615 failed fft3d.f:2
-0.1585 0.1724 succes fft3d.f:46
-0.1444 0.8115 succes fft3d.f:2
-0.7089 0.5875 succes fft3d.f:2
-0.8434 0.0042 succes ()
-0.3392 0.1417 succes fft3d.f:2
-0.9132 0.9225 succes fft3d.f:2
-0.0653 0.8403 succes fft3d.f:81
-0.1302 0.1145 succes fft3d.f:46
-0.7880 0.0380 succes fft3d.f:45
-0.3465 0.3088 succes fft3d.f:48
-0.0055 0.2306 succes fft3d.f:2
-0.0743 0.5108 succes fft3d.f:82
-0.1361 0.7835 succes fft3d.f:49
-0.2935 0.2056 succes fft3d.f:49
-0.3581 0.9847 succes fft3d.f:48
-0.5144 0.4040 succes fft3d.f:82
-0.5678 0.6773 succes fft3d.f:46
-0.6428 0.4537 succes fft3d.f:160
-0.2166 0.2354 failed fft3d.f:82
-0.2777 0.5074 failed fft3d.f:48
-0.9282 0.9251 succes fft3d.f:82
-0.0033 0.7081 succes ()
-0.1559 0.6265 succes fft3d.f:82
-0.7169 0.9031 succes fft3d.f:81
-0.3708 0.8195 succes fft3d.f:49
-0.4372 0.0962 succes fft3d.f:47
-0.0136 0.3806 succes fft3d.f:82
-0.5694 0.6505 failed fft3d.f:49
-0.7227 0.0699 succes fft3d.f:126
-0.2991 0.8550 succes fft3d.f:48
-0.8569 0.6265 succes fft3d.f:2
-0.5228 0.0507 succes fft3d.f:2
-0.0818 0.8224 failed fft3d.f:82
-0.7304 0.7398 succes fft3d.f:82
-0.3069 0.0236 succes ()
-0.3698 0.7991 succes fft3d.f:120
-0.0243 0.7161 succes fft3d.f:49
-0.0933 0.9964 succes fft3d.f:49
-0.2517 0.9192 succes fft3d.f:82
-0.3154 0.1946 failed fft3d.f:48
-0.9524 0.1133 succes fft3d.f:82
-0.4398 0.7411 succes fft3d.f:47
-0.0980 0.6615 succes fft3d.f:45
-0.6727 0.9467 failed fft3d.f:49
-0.8169 0.3635 succes fft3d.f:81
-0.8814 0.1363 succes fft3d.f:79
-0.4528 0.4150 succes fft3d.f:48
-0.1096 0.8362 succes ()
-0.1772 0.6147 succes fft3d.f:82
-0.7326 0.3848 succes fft3d.f:49
-0.8160 0.6711 failed fft3d.f:120
-0.9539 0.0843 succes fft3d.f:2
-0.5233 0.3632 succes fft3d.f:82
-0.0970 0.1409 succes fft3d.f:160
-0.1617 0.4161 succes fft3d.f:82
-0.8099 0.8383 succes fft3d.f:120
-0.3801 0.1110 succes fft3d.f:2
-0.9474 0.3939 succes fft3d.f:48
-0.5188 0.1729 failed fft3d.f:94
-0.6712 0.5903 succes fft3d.f:2
-0.7372 0.3639 succes fft3d.f:166
-0.7985 0.1386 succes fft3d.f:166
-0.3702 0.4197 failed fft3d.f:120
-0.9310 0.1965 succes fft3d.f:81
-0.0090 0.9766 succes fft3d.f:48
-0.0745 0.2542 succes fft3d.f:82
-0.7191 0.1691 succes fft3d.f:126
-0.2880 0.9477 succes fft3d.f:160
-0.8580 0.2269 failed fft3d.f:49
-0.4227 0.0005 failed fft3d.f:2
-0.5798 0.4221 succes fft3d.f:81
-0.1460 0.6972 succes fft3d.f:2
-0.7967 0.1167 succes fft3d.f:2
-0.3702 0.4000 succes fft3d.f:2
-0.0232 0.8143 succes fft3d.f:48
-0.0925 0.0953 succes fft3d.f:166
-0.1573 0.3708 succes fft3d.f:2
-0.2181 0.1437 failed fft3d.f:2
-0.8667 0.0687 succes fft3d.f:48
-0.9431 0.8416 succes fft3d.f:79
-0.5110 0.1222 failed fft3d.f:82
-0.6696 0.5424 failed fft3d.f:126
-0.2296 0.8159 failed fft3d.f:82
+Time_Random Time_Random_Adjust Space_Random Result Performance_Result Line_Number
+0.1648 0.1638 0.3668 failed PSUCC fft3d.f:126
+0.2300 0.2302 0.6451 succes PSUCC fft3d.f:48
+0.8815 0.8654 0.0613 succes PSUCC fft3d.f:81
+0.9574 0.9039 0.8459 succes PSUCC fft3d.f:49
+0.3453 0.3327 0.8366 succes PSUCC fft3d.f:2
+0.2416 0.2415 0.3342 succes PSUCC fft3d.f:49
+0.3876 0.3663 0.2452 succes PSUCC fft3d.f:45
+0.6990 0.6682 0.1017 succes PSUCC fft3d.f:81
+0.1759 0.1747 0.7361 succes PSUCC fft3d.f:82
+0.2443 0.2315 0.0139 succes PSUCC fft3d.f:49
+0.6347 0.6311 0.0066 succes PSUCC fft3d.f:81
+0.2097 0.2076 0.7909 succes PSUCC ()
+0.2725 0.2560 0.5660 succes PSUCC fft3d.f:166
+0.6688 0.6571 0.0627 succes PSUCC fft3d.f:49
+0.6461 0.6377 0.6959 succes PSUCC fft3d.f:79
+0.7101 0.6676 0.4693 failed PSUCC fft3d.f:46
+0.6052 0.6022 0.4680 succes PSUCC fft3d.f:49
+0.1733 0.1727 0.2433 failed PSUCC fft3d.f:2
+0.8259 0.7773 0.1631 succes PSUCC fft3d.f:48
+0.6308 0.6277 0.0153 succes PSUCC fft3d.f:49
+0.7845 0.7811 0.9310 succes PSUCC fft3d.f:82
+0.3569 0.3369 0.7148 succes PSUCC fft3d.f:49
+0.1552 0.1542 0.5595 succes PSUCC fft3d.f:49
+0.8132 0.8089 0.9832 succes PSUCC fft3d.f:82
+0.3787 0.3758 0.2594 succes PSUCC fft3d.f:46
+0.4476 0.4465 0.0396 succes PSUCC fft3d.f:47
+0.5999 0.5934 0.9560 succes PSUCC fft3d.f:166
+0.6633 0.6267 0.2304 succes PSUCC fft3d.f:81
+0.9715 0.9533 0.0865 succes PSUCC fft3d.f:49
+0.0392 0.0389 0.8629 succes PSUCC fft3d.f:82
+0.1042 0.1030 0.6393 succes PSUCC fft3d.f:49
+0.5872 0.5840 0.2763 succes PSUCC fft3d.f:49
+0.7393 0.7427 0.6937 succes PSUCC fft3d.f:49
+0.3930 0.3911 0.1130 succes PSUCC fft3d.f:81
+0.9603 0.9560 0.3906 succes PSUCC fft3d.f:55
+0.0307 0.0307 0.1722 succes PSUCC fft3d.f:81
+0.6801 0.6755 0.5877 succes PSUCC fft3d.f:82
+0.2480 0.2432 0.3657 succes PSUCC fft3d.f:2
+0.3166 0.3144 0.6446 succes PSUCC fft3d.f:2
+0.3812 0.3766 0.4195 succes PSUCC fft3d.f:45
+0.4481 0.4489 0.6963 succes PSUCC fft3d.f:2
+0.0147 0.0147 0.4738 succes PSUCC fft3d.f:2
+0.0851 0.0806 0.7547 succes PSUCC fft3d.f:2
+0.4779 0.4801 0.2470 succes PSUCC fft3d.f:81
+0.1313 0.1314 0.1678 succes PSUCC fft3d.f:82
+0.6919 0.6920 0.9399 succes PSUCC fft3d.f:166
+0.2684 0.2672 0.7249 succes PSUCC fft3d.f:82
+0.3269 0.3246 0.9952 succes PSUCC fft3d.f:2
+0.4864 0.4843 0.4184 succes PSUCC fft3d.f:49
+0.0487 0.0484 0.6917 succes PSUCC fft3d.f:166
+0.1175 0.1165 0.9714 succes PSUCC fft3d.f:49
+0.6844 0.6850 0.7499 succes PSUCC fft3d.f:82
+0.8379 0.8342 0.6672 succes PSUCC fft3d.f:49
+0.4081 0.4051 0.4478 succes PSUCC ()
+0.4699 0.4678 0.2198 succes PSUCC fft3d.f:57
+0.6278 0.6251 0.6412 succes PSUCC fft3d.f:82
+0.6898 0.6837 0.4154 succes PSUCC fft3d.f:49
+0.3407 0.3399 0.8328 succes PSUCC fft3d.f:49
+0.9165 0.9126 0.6177 succes PSUCC fft3d.f:2
+0.9806 0.9742 0.3936 failed PSUCC fft3d.f:2
+0.6315 0.6331 0.8093 succes PSUCC fft3d.f:82
+0.2912 0.2901 0.2332 succes PSUCC fft3d.f:49
+0.3510 0.3511 0.5063 succes PSUCC ()
+0.5077 0.5059 0.4246 succes PSUCC ()
+0.5781 0.5769 0.2060 succes PSUCC fft3d.f:48
+0.2263 0.2247 0.6217 succes PSUCC fft3d.f:126
+0.2964 0.2954 0.3999 succes PSUCC fft3d.f:49
+0.8632 0.8622 0.6784 succes PSUCC fft3d.f:49
+0.5177 0.5132 0.0975 succes PSUCC fft3d.f:81
+0.5835 0.5826 0.3734 succes PSUCC fft3d.f:2
+0.7298 0.7233 0.7873 succes PSUCC fft3d.f:44
+0.3036 0.3030 0.0690 succes PSUCC fft3d.f:82
+0.9611 0.9554 0.4920 succes PSUCC fft3d.f:48
+0.5194 0.5168 0.2642 succes PSUCC fft3d.f:77
+0.0935 0.0930 0.0453 succes PSUCC fft3d.f:159
+0.7462 0.7371 0.4646 succes PSUCC fft3d.f:2
+0.3082 0.3062 0.7380 succes PSUCC ()
+0.8774 0.8714 0.5163 succes PSUCC fft3d.f:81
+0.4471 0.4446 0.7966 succes PSUCC fft3d.f:2
+0.5123 0.5088 0.0719 succes PSUCC fft3d.f:49
+0.1688 0.1680 0.9936 succes PSUCC fft3d.f:49
+0.7274 0.7235 0.2635 succes PSUCC fft3d.f:49
+0.3014 0.3014 0.5482 succes PSUCC ()
+0.4560 0.4538 0.9674 succes PSUCC fft3d.f:166
+0.5199 0.5161 0.7414 failed PSUCC fft3d.f:49
+0.6708 0.6694 0.6593 failed PSUCC fft3d.f:2
+0.7376 0.7259 0.9361 succes PSUCC fft3d.f:82
+0.3114 0.3120 0.7180 succes PSUCC fft3d.f:48
+0.8695 0.8642 0.9885 succes PSUCC fft3d.f:82
+0.0263 0.0264 0.9100 failed PSUCC fft3d.f:49
+0.6821 0.6794 0.8295 succes PSUCC fft3d.f:2
+0.2410 0.2399 0.1020 succes PSUCC fft3d.f:49
+0.9009 0.8975 0.5266 succes PSUCC fft3d.f:46
+0.4723 0.4691 0.3072 succes PSUCC fft3d.f:79
+0.0339 0.0339 0.0808 succes PSUCC fft3d.f:49
+0.6937 0.6891 0.0040 succes PSUCC fft3d.f:49
+0.7576 0.7430 0.2792 succes PSUCC fft3d.f:2
+0.3229 0.3211 0.5571 succes PSUCC fft3d.f:82
+0.8876 0.8807 0.3302 succes PSUCC fft3d.f:46
+0.4624 0.4585 0.1155 failed PSUCC fft3d.f:120
+0.5271 0.5232 0.3888 failed PSUCC fft3d.f:48
+0.5861 0.5843 0.1610 succes PSUCC fft3d.f:48
+0.1568 0.1558 0.4416 succes PSUCC fft3d.f:48
+0.7279 0.7237 0.2233 failed PSUCC fft3d.f:2
+0.3790 0.3804 0.6390 succes PSUCC fft3d.f:2
+0.0352 0.0351 0.0601 succes PSUCC fft3d.f:2
+0.1008 0.1011 0.3374 succes PSUCC fft3d.f:160
+0.6647 0.6582 0.1112 failed PSUCC fft3d.f:126
+0.7343 0.7275 0.3910 succes PSUCC fft3d.f:2
+0.3047 0.3026 0.1718 succes PSUCC fft3d.f:160
+0.3673 0.3651 0.9471 succes PSUCC fft3d.f:49
+0.9340 0.9279 0.7240 succes PSUCC fft3d.f:49
+0.5860 0.5827 0.1394 succes PSUCC fft3d.f:82
+0.6563 0.6508 0.9205 succes PSUCC fft3d.f:82
+0.2197 0.2181 0.1948 failed PSUCC fft3d.f:49
+0.7907 0.7797 0.4739 succes PSUCC fft3d.f:81
+0.3546 0.3533 0.2511 succes PSUCC fft3d.f:2
+0.0098 0.0099 0.1692 succes PSUCC fft3d.f:44
+0.0770 0.0767 0.9472 succes PSUCC fft3d.f:2
+0.6433 0.6315 0.2245 succes PSUCC fft3d.f:49
+0.7082 0.7075 0.5016 succes PSUCC fft3d.f:2
+0.7759 0.7719 0.2779 succes PSUCC fft3d.f:82
+0.8450 0.8369 0.0578 succes PSUCC fft3d.f:2
+0.4997 0.4951 0.9779 succes PSUCC fft3d.f:48
+0.5622 0.5620 0.2515 failed PSUCC fft3d.f:47
+0.1336 0.1334 0.0311 succes PSUCC fft3d.f:82
+0.7873 0.7816 0.9517 succes PSUCC fft3d.f:81
+0.8492 0.8457 0.7251 succes PSUCC fft3d.f:81
+0.4200 0.4126 0.5068 failed PSUCC fft3d.f:2
+0.4893 0.4870 0.2833 succes PSUCC fft3d.f:49
+0.0534 0.0533 0.0605 succes PSUCC fft3d.f:81
+0.7070 0.7011 0.4808 succes PSUCC fft3d.f:165
+0.2675 0.2661 0.2499 failed PSUCC fft3d.f:82
+0.8383 0.8304 0.5317 succes PSUCC fft3d.f:49
+0.9932 0.9838 0.9515 succes PSUCC fft3d.f:45
+0.5554 0.5574 0.2252 succes PSUCC fft3d.f:49
+0.1315 0.1313 0.5088 failed PSUCC fft3d.f:49
+0.6962 0.6931 0.7862 succes PSUCC fft3d.f:48
+0.3467 0.3453 0.7036 succes PSUCC fft3d.f:160
+0.9135 0.8961 0.9784 succes PSUCC fft3d.f:49
+0.9821 0.9797 0.2576 succes PSUCC fft3d.f:82
+0.5509 0.5481 0.5370 succes PSUCC fft3d.f:48
+0.6122 0.6068 0.3090 succes PSUCC fft3d.f:48
+0.2692 0.2686 0.2301 failed PSUCC fft3d.f:46
+0.3365 0.3342 0.0088 succes PSUCC fft3d.f:49
+0.9018 0.8977 0.2857 succes PSUCC fft3d.f:49
+0.9746 0.9693 0.5667 succes PSUCC fft3d.f:49
+0.6200 0.6153 0.9796 succes PSUCC fft3d.f:49
+0.1918 0.1901 0.2614 succes PSUCC fft3d.f:49
+0.7599 0.7582 0.5393 succes PSUCC fft3d.f:48
+0.8221 0.8166 0.3127 failed PSUCC fft3d.f:2
+0.4765 0.4784 0.7310 succes PSUCC fft3d.f:47
+0.1313 0.1313 0.6511 succes PSUCC fft3d.f:82
+0.6974 0.6944 0.9278 succes PSUCC fft3d.f:48
+0.7627 0.7572 0.2037 succes PSUCC fft3d.f:126
+0.9164 0.9088 0.1229 failed PSUCC fft3d.f:120
+0.9879 0.9845 0.9049 succes PSUCC fft3d.f:82
+0.5569 0.5532 0.1847 succes PSUCC fft3d.f:2
+0.1168 0.1162 0.9553 succes PSUCC fft3d.f:126
+0.2697 0.2665 0.3729 failed PSUCC fft3d.f:81
+0.8405 0.8358 0.1544 succes PSUCC fft3d.f:82
+0.4052 0.4040 0.4301 succes PSUCC fft3d.f:82
+0.0598 0.0595 0.8505 succes PSUCC ()
+0.1256 0.1245 0.1260 succes PSUCC fft3d.f:94
+0.6932 0.6896 0.9030 succes PSUCC fft3d.f:82
+0.2589 0.2596 0.6816 succes PSUCC fft3d.f:120
+0.9164 0.8996 0.1028 succes PSUCC fft3d.f:2
+0.9851 0.9829 0.8811 succes PSUCC fft3d.f:49
+0.6357 0.6318 0.7975 succes PSUCC fft3d.f:49
+0.7048 0.6990 0.5787 succes PSUCC fft3d.f:82
+0.2689 0.2679 0.3513 failed PSUCC fft3d.f:49
+0.8346 0.8321 0.6299 succes PSUCC fft3d.f:49
+0.4933 0.4919 0.5508 succes PSUCC fft3d.f:49
+0.1470 0.1459 0.9702 succes PSUCC fft3d.f:46
+0.7110 0.7022 0.2458 succes PSUCC fft3d.f:81
+0.2780 0.2757 0.0221 succes PSUCC fft3d.f:82
+0.3464 0.3451 0.8034 succes PSUCC fft3d.f:46
+0.4050 0.4028 0.0718 succes PSUCC fft3d.f:79
+0.0687 0.0683 0.9995 succes PSUCC fft3d.f:125
+0.1346 0.1340 0.7761 succes PSUCC fft3d.f:82
+0.2002 0.1988 0.5541 succes PSUCC fft3d.f:82
+0.7650 0.7588 0.8276 succes PSUCC fft3d.f:2
+0.3349 0.3321 0.6075 succes PSUCC fft3d.f:49
+0.9004 0.8945 0.8860 succes PSUCC fft3d.f:166
+0.4653 0.4614 0.6591 succes PSUCC fft3d.f:2
+0.5348 0.5313 0.4395 succes PSUCC fft3d.f:48
+0.6013 0.6038 0.2155 succes PSUCC fft3d.f:49
+0.2510 0.2486 0.6319 succes PSUCC fft3d.f:48
+0.8224 0.8198 0.9129 failed PSUCC fft3d.f:2
+0.8887 0.8801 0.6883 succes PSUCC fft3d.f:49
+0.4553 0.4540 0.4687 succes PSUCC fft3d.f:45
+0.1093 0.1086 0.3859 succes PSUCC ()
+0.1766 0.1762 0.1644 failed PSUCC fft3d.f:49
+0.8265 0.8209 0.0806 failed PSUCC fft3d.f:2
+0.8964 0.8972 0.8594 succes PSUCC fft3d.f:160
+0.5497 0.5480 0.7787 succes PSUCC fft3d.f:166
+0.2064 0.2055 0.2008 succes PSUCC fft3d.f:81
+0.7717 0.7691 0.4767 succes PSUCC fft3d.f:2
+0.9194 0.9170 0.8892 succes PSUCC fft3d.f:2
+0.9925 0.9956 0.6735 succes PSUCC fft3d.f:49
+0.6450 0.6431 0.0914 succes PSUCC fft3d.f:82
+0.7125 0.7007 0.3681 failed PSUCC fft3d.f:48
+0.7767 0.7779 0.6427 succes PSUCC fft3d.f:48
+0.9301 0.9315 0.5615 succes PSUCC fft3d.f:82
+0.1550 0.1465 0.2614 succes PSUCC fft3d.f:159
+0.0512 0.0516 0.2588 succes PSUCC ()
+0.2012 0.2015 0.1762 succes PSUCC ()
+0.2654 0.2604 0.9492 succes PSUCC fft3d.f:120
+0.8331 0.8264 0.2281 succes PSUCC fft3d.f:82
+0.4010 0.3969 0.5057 succes PSUCC fft3d.f:49
+0.9671 0.9607 0.7834 succes PSUCC fft3d.f:82
+0.5325 0.5327 0.5587 succes PSUCC fft3d.f:46
+0.6905 0.6816 0.4809 succes PSUCC fft3d.f:49
+0.2563 0.2549 0.7593 succes PSUCC fft3d.f:160
+0.8148 0.8077 0.0280 succes PSUCC fft3d.f:49
+0.4759 0.4743 0.4530 failed PSUCC fft3d.f:49
+0.0387 0.0384 0.2269 succes PSUCC fft3d.f:82
+0.1088 0.1084 0.5078 succes PSUCC ()
+0.6746 0.6700 0.2828 succes PSUCC fft3d.f:49
+0.3263 0.3251 0.7001 succes PSUCC fft3d.f:2
+0.3960 0.3944 0.4812 succes PSUCC fft3d.f:166
+0.9631 0.9562 0.7560 succes PSUCC fft3d.f:2
+0.1161 0.1163 0.6767 succes PSUCC fft3d.f:48
+0.6819 0.6775 0.4550 succes PSUCC fft3d.f:82
+0.3359 0.3329 0.8725 succes PSUCC fft3d.f:82
+0.9030 0.9006 0.6498 succes PSUCC fft3d.f:81
+0.9726 0.9679 0.4303 failed PSUCC fft3d.f:82
+0.1255 0.1247 0.3468 failed PSUCC fft3d.f:81
+0.1885 0.1871 0.6218 succes PSUCC fft3d.f:49
+0.2575 0.2567 0.4003 succes PSUCC ()
+0.3251 0.3232 0.1796 succes PSUCC fft3d.f:45
+0.9777 0.9732 0.5976 succes PSUCC fft3d.f:78
+0.5464 0.5430 0.3768 succes PSUCC fft3d.f:48
+0.2031 0.2012 0.2982 succes PSUCC fft3d.f:48
+0.7674 0.7620 0.5733 succes PSUCC fft3d.f:2
+0.8325 0.8347 0.3494 succes PSUCC fft3d.f:82
+0.4905 0.4888 0.2710 succes PSUCC fft3d.f:166
+0.0536 0.0535 0.0448 succes PSUCC fft3d.f:45
+0.2100 0.2087 0.4660 succes PSUCC ()
+0.2777 0.2766 0.2448 succes PSUCC fft3d.f:126
+0.3394 0.3374 0.5176 succes PSUCC fft3d.f:82
+0.4962 0.4929 0.4381 succes PSUCC fft3d.f:78
+0.5588 0.5562 0.7127 succes PSUCC ()
+0.1275 0.1272 0.9922 failed PSUCC fft3d.f:45
+0.7880 0.7839 0.9167 succes PSUCC fft3d.f:46
+0.3508 0.3491 0.6908 succes PSUCC fft3d.f:2
+0.5057 0.5032 0.1098 succes PSUCC fft3d.f:48
+0.0706 0.0702 0.3859 failed PSUCC fft3d.f:48
+0.2220 0.2207 0.3037 failed PSUCC fft3d.f:120
+0.7900 0.7854 0.5805 succes PSUCC fft3d.f:49
+0.3591 0.3571 0.8610 succes PSUCC ()
+0.9233 0.9220 0.1349 failed PSUCC fft3d.f:2
+0.0759 0.0754 0.5527 succes PSUCC fft3d.f:2
+0.1481 0.1470 0.3340 succes PSUCC fft3d.f:48
+0.2086 0.2072 0.6079 succes PSUCC ()
+0.7829 0.7762 0.8929 succes PSUCC fft3d.f:2
+0.8432 0.8418 0.1633 succes PSUCC fft3d.f:81
+0.4996 0.4971 0.0847 succes PSUCC fft3d.f:166
+0.5686 0.5648 0.3629 succes PSUCC fft3d.f:48
+0.1356 0.1347 0.6399 succes PSUCC fft3d.f:48
+0.7884 0.7841 0.0593 succes PSUCC fft3d.f:2
+0.3538 0.3550 0.8350 succes PSUCC fft3d.f:81
+0.5062 0.5057 0.2523 succes PSUCC fft3d.f:120
+0.0749 0.0749 0.0315 failed PSUCC fft3d.f:45
+0.7260 0.7270 0.4471 succes PSUCC fft3d.f:2
+0.7990 0.7970 0.7311 succes PSUCC fft3d.f:82
+0.9455 0.9358 0.6447 succes PSUCC fft3d.f:48
+0.5158 0.5151 0.9239 succes PSUCC fft3d.f:82
+0.5896 0.5798 0.7081 succes PSUCC fft3d.f:49
+0.6488 0.6434 0.9779 succes PSUCC fft3d.f:82
+0.7187 0.7140 0.7584 failed PSUCC fft3d.f:82
+0.2833 0.2800 0.0327 succes PSUCC fft3d.f:81
+0.8528 0.8460 0.3134 succes PSUCC fft3d.f:49
+0.9179 0.9203 0.0885 succes PSUCC fft3d.f:82
+0.5752 0.5691 0.0107 succes PSUCC fft3d.f:82
+0.1423 0.1417 0.2904 succes PSUCC fft3d.f:160
+0.2007 0.1996 0.5593 succes PSUCC fft3d.f:49
+0.8585 0.8583 0.4800 succes PSUCC fft3d.f:126
+0.4299 0.4260 0.2639 failed PSUCC fft3d.f:82
+0.0780 0.0777 0.6766 failed PSUCC fft3d.f:82
+0.6455 0.6434 0.9545 succes PSUCC fft3d.f:160
+0.2129 0.2132 0.2310 failed PSUCC fft3d.f:81
+0.8639 0.8607 0.1466 succes PSUCC fft3d.f:49
+0.0209 0.0209 0.0698 succes PSUCC fft3d.f:48
+0.5891 0.5816 0.3502 succes PSUCC fft3d.f:81
+0.1560 0.1569 0.6275 failed PSUCC fft3d.f:81
+0.3084 0.3074 0.5439 succes PSUCC ()
+0.3717 0.3688 0.8186 succes PSUCC fft3d.f:120
+0.4421 0.4417 0.0993 succes PSUCC fft3d.f:82
+0.5968 0.5936 0.0198 succes PSUCC fft3d.f:166
+0.1605 0.1591 0.2929 succes PSUCC ()
+0.2301 0.2291 0.5741 failed PSUCC fft3d.f:49
+0.2987 0.2964 0.8514 succes PSUCC fft3d.f:160
+0.9497 0.9453 0.7685 succes PSUCC fft3d.f:160
+0.5189 0.5157 0.5470 failed PSUCC fft3d.f:2
+0.0851 0.0847 0.3254 succes PSUCC fft3d.f:48
+0.1560 0.1556 0.1066 succes PSUCC fft3d.f:81
+0.8074 0.8040 0.5225 succes PSUCC ()
+0.3736 0.3729 0.2986 succes PSUCC fft3d.f:2
+0.0264 0.0263 0.7195 succes PSUCC fft3d.f:2
+0.5937 0.5890 0.9942 succes PSUCC fft3d.f:160
+0.2461 0.2471 0.9133 succes PSUCC fft3d.f:160
+0.9038 0.9003 0.3348 succes PSUCC fft3d.f:82
+0.4622 0.4609 0.1047 succes PSUCC fft3d.f:120
+0.0354 0.0353 0.3882 succes PSUCC fft3d.f:49
+0.1871 0.1854 0.8057 succes PSUCC fft3d.f:47
+0.7567 0.7569 0.5849 succes PSUCC fft3d.f:49
+0.4094 0.4076 0.0025 succes PSUCC ()
+0.9755 0.9710 0.7798 failed PSUCC fft3d.f:56
+0.5400 0.5362 0.5550 succes PSUCC fft3d.f:2
+0.1999 0.1992 0.4794 succes PSUCC fft3d.f:2
+0.7634 0.7588 0.2536 failed PSUCC fft3d.f:81
+0.9191 0.9128 0.1748 succes PSUCC fft3d.f:82
+0.9846 0.9818 0.4506 succes PSUCC fft3d.f:2
+0.0480 0.0479 0.2255 succes PSUCC fft3d.f:166
+0.2049 0.2030 0.1475 succes PSUCC fft3d.f:82
+0.7700 0.7648 0.4227 failed PSUCC fft3d.f:57
+0.3395 0.3371 0.7018 succes PSUCC fft3d.f:48
+0.9041 0.8869 0.4773 succes PSUCC fft3d.f:2
+0.9693 0.9566 0.7536 succes PSUCC fft3d.f:81
+0.9538 0.9472 0.8953 succes PSUCC fft3d.f:160
+0.1054 0.1049 0.3100 succes PSUCC fft3d.f:166
+0.1748 0.1743 0.0893 failed PSUCC fft3d.f:47
+0.2351 0.2335 0.3619 succes PSUCC fft3d.f:49
+0.3877 0.3880 0.2787 succes PSUCC fft3d.f:165
+0.4628 0.4588 0.5636 failed PSUCC fft3d.f:126
+0.1103 0.1095 0.9775 succes PSUCC ()
+0.1802 0.1790 0.2578 succes PSUCC fft3d.f:82
+0.7475 0.7446 0.5364 succes PSUCC fft3d.f:48
+0.3128 0.3112 0.3113 failed PSUCC fft3d.f:82
+0.8815 0.8707 0.0906 succes PSUCC fft3d.f:81
+0.9472 0.9416 0.8662 succes PSUCC fft3d.f:81
+0.1002 0.0995 0.7867 succes PSUCC fft3d.f:166
+0.1667 0.1661 0.0617 succes PSUCC fft3d.f:49
+0.2309 0.2304 0.8370 succes PSUCC fft3d.f:49
+0.3879 0.3872 0.7597 succes PSUCC fft3d.f:2
+0.5418 0.5387 0.6792 succes PSUCC fft3d.f:48
+0.6103 0.6053 0.9566 succes PSUCC fft3d.f:49
+0.1757 0.1746 0.2337 succes PSUCC fft3d.f:48
+0.7388 0.7347 0.5080 succes PSUCC fft3d.f:82
+0.8063 0.8039 0.7859 succes PSUCC fft3d.f:126
+0.4624 0.4607 0.7057 succes PSUCC fft3d.f:126
+0.0283 0.0282 0.9821 failed PSUCC fft3d.f:49
+0.1880 0.1887 0.4070 succes PSUCC fft3d.f:82
+0.8374 0.8328 0.8223 succes PSUCC fft3d.f:46
+0.9009 0.8908 0.5959 succes PSUCC fft3d.f:48
+0.4758 0.4734 0.3803 failed PSUCC fft3d.f:120
+0.5341 0.5257 0.1497 succes PSUCC fft3d.f:2
+0.1085 0.1082 0.4364 succes PSUCC ()
+0.6734 0.6708 0.7091 succes PSUCC fft3d.f:120
+0.8251 0.8215 0.1274 failed PSUCC fft3d.f:44
+0.8955 0.8873 0.4087 succes PSUCC fft3d.f:81
+0.5476 0.5445 0.3247 succes PSUCC fft3d.f:82
+0.6102 0.6062 0.0989 succes PSUCC fft3d.f:126
+0.1796 0.1791 0.3779 succes PSUCC fft3d.f:2
+0.7443 0.7408 0.1537 succes PSUCC fft3d.f:166
+0.9028 0.8969 0.0774 succes PSUCC fft3d.f:166
+0.4697 0.4674 0.8548 failed PSUCC fft3d.f:49
+0.0382 0.0380 0.1337 succes PSUCC fft3d.f:2
+0.6870 0.6817 0.5489 succes PSUCC fft3d.f:82
+0.2542 0.2552 0.8253 succes PSUCC fft3d.f:45
+0.4092 0.4104 0.7467 succes PSUCC fft3d.f:46
+0.9770 0.9780 0.0221 succes PSUCC fft3d.f:81
+0.6262 0.6212 0.9390 succes PSUCC fft3d.f:126
+0.6987 0.6983 0.7223 succes PSUCC fft3d.f:81
+0.2607 0.2600 0.9928 succes PSUCC fft3d.f:2
+0.9169 0.9115 0.9144 succes PSUCC fft3d.f:49
+0.4845 0.4813 0.1945 succes PSUCC fft3d.f:49
+0.1363 0.1348 0.6112 succes PSUCC fft3d.f:166
+0.2067 0.2045 0.8910 succes PSUCC fft3d.f:81
+0.7692 0.7627 0.6633 succes PSUCC fft3d.f:126
+0.3371 0.3363 0.4446 succes PSUCC fft3d.f:2
+0.4933 0.4929 0.8646 succes PSUCC fft3d.f:49
+0.0585 0.0583 0.1398 succes PSUCC ()
+0.7118 0.7063 0.5578 succes PSUCC fft3d.f:126
+0.7827 0.7851 0.3403 succes PSUCC fft3d.f:82
+0.9312 0.9313 0.2533 succes PSUCC fft3d.f:82
+0.5033 0.4995 0.5357 succes PSUCC fft3d.f:82
+0.6573 0.6523 0.9542 succes PSUCC fft3d.f:49
+0.2148 0.2124 0.7246 succes PSUCC fft3d.f:49
+0.2886 0.2871 0.0063 succes PSUCC fft3d.f:2
+0.3567 0.3549 0.7871 succes PSUCC ()
+0.5124 0.5092 0.7066 succes PSUCC fft3d.f:82
+0.5737 0.5686 0.9795 failed PSUCC fft3d.f:82
+0.2281 0.2273 0.3987 failed PSUCC fft3d.f:48
+0.8008 0.7905 0.1813 succes PSUCC fft3d.f:160
+0.3612 0.3569 0.9540 succes PSUCC fft3d.f:82
+0.4259 0.4244 0.2278 failed PSUCC fft3d.f:42
+0.9989 0.9991 0.5114 succes PSUCC fft3d.f:48
+0.6507 0.6497 0.4270 succes PSUCC fft3d.f:82
+0.2172 0.2164 0.7044 succes PSUCC fft3d.f:49
+0.2827 0.2803 0.9812 succes PSUCC fft3d.f:49
+0.9365 0.9259 0.9010 succes PSUCC fft3d.f:2
+0.4186 0.4171 0.0375 succes PSUCC fft3d.f:81
+0.5708 0.5684 0.4556 succes PSUCC fft3d.f:120
+0.1403 0.1375 0.7365 succes PSUCC fft3d.f:2
+0.2050 0.2044 0.5110 succes PSUCC fft3d.f:47
+0.7738 0.7713 0.2892 failed PSUCC fft3d.f:120
+0.4240 0.4220 0.2060 failed PSUCC fft3d.f:77
+0.9963 0.9863 0.9868 succes PSUCC fft3d.f:166
+0.6451 0.6434 0.9023 succes PSUCC fft3d.f:82
+0.7142 0.7071 0.1845 succes PSUCC fft3d.f:56
+0.2798 0.2796 0.9576 succes PSUCC fft3d.f:78
+0.8517 0.8520 0.2393 succes PSUCC ()
+0.4976 0.4983 0.1527 succes PSUCC fft3d.f:166
+0.1549 0.1536 0.5738 succes PSUCC fft3d.f:94
+0.2211 0.2202 0.8508 succes PSUCC fft3d.f:2
+0.7826 0.7781 0.6228 succes PSUCC fft3d.f:49
+0.8575 0.8445 0.9077 succes PSUCC fft3d.f:48
+0.9215 0.9226 0.6802 succes PSUCC fft3d.f:82
+0.0726 0.0722 0.5982 succes PSUCC fft3d.f:81
+0.6512 0.6478 0.8874 succes PSUCC fft3d.f:49
+0.2970 0.2954 0.7993 succes PSUCC fft3d.f:2
+0.8637 0.8590 0.5769 succes PSUCC fft3d.f:47
+0.9286 0.9234 0.3517 failed PSUCC fft3d.f:82
+0.0826 0.0821 0.2708 succes PSUCC fft3d.f:82
+0.1536 0.1534 0.5526 succes PSUCC fft3d.f:2
+0.7168 0.7133 0.3256 succes PSUCC fft3d.f:120
+0.3711 0.3694 0.7442 failed PSUCC fft3d.f:48
+0.9392 0.9371 0.5240 succes PSUCC fft3d.f:166
+0.5894 0.5900 0.4392 succes PSUCC fft3d.f:82
+0.2432 0.2422 0.3580 succes PSUCC fft3d.f:2
+0.3177 0.3157 0.6431 succes PSUCC fft3d.f:82
+0.3782 0.3763 0.4142 succes PSUCC fft3d.f:82
+0.0332 0.0332 0.8342 succes PSUCC fft3d.f:46
+0.1002 0.0998 0.6136 succes PSUCC fft3d.f:49
+0.2527 0.2520 0.0305 succes PSUCC fft3d.f:160
+0.3216 0.3203 0.3082 succes PSUCC fft3d.f:82
+0.9741 0.9696 0.2281 succes PSUCC fft3d.f:49
+0.0413 0.0410 0.5051 succes PSUCC fft3d.f:82
+0.1954 0.1939 0.9235 succes PSUCC fft3d.f:49
+0.2608 0.2604 0.2010 succes PSUCC fft3d.f:120
+0.8315 0.8268 0.9801 succes PSUCC fft3d.f:2
+0.4820 0.4777 0.3969 succes PSUCC fft3d.f:49
+0.0510 0.0508 0.6751 succes PSUCC fft3d.f:160
+0.1150 0.1146 0.4502 succes PSUCC fft3d.f:126
+0.6818 0.6793 0.2287 succes PSUCC fft3d.f:82
+0.8415 0.8356 0.1526 succes PSUCC fft3d.f:82
+0.4057 0.4025 0.4276 succes PSUCC fft3d.f:48
+0.4675 0.4647 0.6998 succes PSUCC fft3d.f:82
+0.0397 0.0397 0.4827 succes PSUCC fft3d.f:49
+0.6915 0.6913 0.8991 succes PSUCC fft3d.f:49
+0.2561 0.2547 0.6758 succes PSUCC fft3d.f:49
+0.4119 0.4104 0.5970 succes PSUCC fft3d.f:82
+0.4778 0.4750 0.3702 failed PSUCC fft3d.f:48
+0.6291 0.6238 0.2886 failed PSUCC fft3d.f:2
+0.7022 0.6964 0.5724 succes PSUCC fft3d.f:160
+0.2676 0.2661 0.3483 succes PSUCC fft3d.f:45
+0.8332 0.8316 0.6251 succes PSUCC fft3d.f:2
+0.3998 0.4010 0.4014 succes PSUCC fft3d.f:165
+0.5571 0.5548 0.3231 succes PSUCC ()
+0.6169 0.6095 0.0947 failed PSUCC fft3d.f:48
+0.2710 0.2700 0.5133 succes PSUCC fft3d.f:81
+0.3465 0.3428 0.2984 succes PSUCC fft3d.f:2
+0.4057 0.4018 0.0717 succes PSUCC fft3d.f:48
+0.4750 0.4764 0.8478 failed PSUCC fft3d.f:49
+0.1280 0.1280 0.2663 succes PSUCC fft3d.f:81
+0.6930 0.6908 0.5438 succes PSUCC fft3d.f:82
+0.7641 0.7604 0.8242 succes PSUCC fft3d.f:2
+0.4192 0.4184 0.2454 failed PSUCC fft3d.f:48
+0.0731 0.0733 0.6647 failed PSUCC fft3d.f:45
+0.1358 0.1354 0.4364 succes PSUCC fft3d.f:82
+0.7084 0.7028 0.2200 succes PSUCC ()
+0.3614 0.3574 0.1375 succes PSUCC fft3d.f:49
+0.4236 0.4213 0.4115 succes PSUCC fft3d.f:49
+0.9911 0.9856 0.1874 succes PSUCC fft3d.f:82
+0.1437 0.1425 0.6069 succes PSUCC fft3d.f:166
+0.2137 0.2122 0.3870 succes PSUCC fft3d.f:2
+0.2747 0.2738 0.1581 succes PSUCC fft3d.f:48
+0.8487 0.8453 0.9439 succes PSUCC fft3d.f:94
+0.5004 0.4973 0.3608 succes PSUCC fft3d.f:82
+0.5731 0.5738 0.1429 succes PSUCC fft3d.f:82
+0.7235 0.7199 0.5598 failed PSUCC fft3d.f:81
+0.2838 0.2825 0.8300 succes PSUCC fft3d.f:48
+0.4397 0.4369 0.7514 failed PSUCC fft3d.f:2
+0.5076 0.5023 0.5297 succes PSUCC fft3d.f:81
+0.0771 0.0770 0.3082 failed PSUCC fft3d.f:48
+0.2241 0.2246 0.7219 succes PSUCC fft3d.f:48
+0.8816 0.8850 0.1436 succes PSUCC fft3d.f:49
+0.5382 0.5407 0.5651 succes PSUCC fft3d.f:48
+0.1037 0.1034 0.8426 succes PSUCC fft3d.f:81
+0.1721 0.1692 0.6210 failed PSUCC fft3d.f:81
+0.7402 0.7368 0.3990 succes PSUCC fft3d.f:82
+0.3028 0.3009 0.1732 succes PSUCC fft3d.f:166
+0.9611 0.9561 0.5966 succes PSUCC fft3d.f:81
+0.5247 0.5258 0.8709 succes PSUCC fft3d.f:49
+0.1797 0.1788 0.2919 failed PSUCC fft3d.f:82
+0.7480 0.7443 0.0682 succes PSUCC fft3d.f:82
+0.8984 0.8935 0.9839 succes PSUCC fft3d.f:49
+0.9647 0.9594 0.2636 succes PSUCC fft3d.f:49
+0.1216 0.1224 0.6837 failed PSUCC fft3d.f:2
+0.2697 0.2679 0.0985 succes PSUCC fft3d.f:82
+0.3399 0.3379 0.8780 succes PSUCC fft3d.f:81
+0.9058 0.8989 0.1532 succes PSUCC fft3d.f:2
+0.9752 0.9710 0.9338 succes PSUCC fft3d.f:49
+0.0402 0.0401 0.7090 succes PSUCC fft3d.f:49
+0.6931 0.6878 0.6277 succes PSUCC fft3d.f:2
+0.7619 0.7548 0.4078 succes PSUCC ()
+0.8257 0.8214 0.6818 succes PSUCC fft3d.f:120
+0.8991 0.8958 0.4639 succes PSUCC fft3d.f:166
+0.9601 0.9517 0.2359 succes PSUCC ()
+0.6149 0.6139 0.6567 failed PSUCC fft3d.f:81
+0.1826 0.1814 0.9342 succes PSUCC fft3d.f:49
+0.7475 0.7533 0.7092 succes PSUCC ()
+0.4021 0.4040 0.1299 succes PSUCC ()
+0.5559 0.5536 0.5496 succes PSUCC ()
+0.1234 0.1230 0.3270 failed PSUCC fft3d.f:49
+0.2806 0.2790 0.2500 failed PSUCC fft3d.f:49
+0.8481 0.8489 0.0275 succes PSUCC fft3d.f:2
+0.9961 0.9921 0.4413 succes PSUCC fft3d.f:46
+0.0638 0.0636 0.2200 failed PSUCC fft3d.f:46
+0.2234 0.2223 0.6443 succes PSUCC fft3d.f:2
+0.2861 0.2850 0.4164 succes PSUCC fft3d.f:82
+0.9415 0.9347 0.8371 succes PSUCC fft3d.f:82
+0.0100 0.0100 0.6173 succes PSUCC fft3d.f:2
+0.0721 0.0717 0.3892 succes PSUCC fft3d.f:2
+0.1379 0.1370 0.1664 succes PSUCC fft3d.f:82
+0.7918 0.7885 0.5841 succes PSUCC fft3d.f:166
+0.3653 0.3629 0.8674 succes PSUCC fft3d.f:48
+0.4308 0.4304 0.1446 succes PSUCC fft3d.f:82
+0.0823 0.0820 0.5614 succes PSUCC fft3d.f:48
+0.1472 0.1460 0.8374 succes PSUCC fft3d.f:49
+0.3029 0.3018 0.2583 succes PSUCC fft3d.f:160
+0.8705 0.8647 0.5341 failed PSUCC fft3d.f:2
+0.9341 0.9289 0.8109 succes PSUCC fft3d.f:81
+0.5025 0.4996 0.5884 succes PSUCC fft3d.f:165
+0.6562 0.6532 0.5063 succes PSUCC ()
+0.7254 0.7168 0.7877 succes PSUCC fft3d.f:49
+0.7880 0.7906 0.0598 succes PSUCC fft3d.f:166
+0.4426 0.4416 0.4785 succes PSUCC fft3d.f:166
+0.5119 0.5097 0.7598 succes PSUCC fft3d.f:82
+0.0791 0.0789 0.5383 failed PSUCC fft3d.f:81
+0.2367 0.2346 0.9609 succes PSUCC fft3d.f:49
+0.7962 0.7948 0.7303 succes PSUCC fft3d.f:45
+0.3688 0.3675 0.0123 failed PSUCC fft3d.f:81
+0.5283 0.5271 0.4370 succes PSUCC fft3d.f:78
+0.5827 0.5859 0.7038 succes PSUCC fft3d.f:46
+0.2395 0.2352 0.6246 succes PSUCC fft3d.f:2
+0.3089 0.3084 0.9028 succes PSUCC ()
+0.8763 0.8740 0.1824 succes PSUCC fft3d.f:82
+0.9379 0.9318 0.9545 succes PSUCC fft3d.f:2
+0.5968 0.5929 0.8783 succes PSUCC fft3d.f:82
+0.6625 0.6638 0.6555 succes PSUCC fft3d.f:49
+0.8144 0.8114 0.0741 succes PSUCC fft3d.f:2
+0.8848 0.8763 0.3522 succes PSUCC fft3d.f:82
+0.0387 0.0385 0.7738 succes PSUCC fft3d.f:45
+0.6009 0.5920 0.0455 succes PSUCC fft3d.f:2
+0.0847 0.0843 0.1848 succes PSUCC fft3d.f:82
+0.2372 0.2359 0.6026 succes PSUCC fft3d.f:82
+0.8008 0.7959 0.3763 succes PSUCC fft3d.f:166
+0.8713 0.8675 0.1579 succes PSUCC fft3d.f:2
+0.0236 0.0236 0.5748 succes PSUCC fft3d.f:48
+0.5895 0.5874 0.8518 succes PSUCC fft3d.f:49
+0.7490 0.7430 0.2753 succes PSUCC fft3d.f:159
+0.8085 0.7989 0.5464 succes PSUCC fft3d.f:82
+0.8821 0.8738 0.8302 succes PSUCC fft3d.f:81
+0.9434 0.9330 0.1012 succes PSUCC fft3d.f:2
+0.5093 0.5098 0.3788 succes PSUCC fft3d.f:2
+0.5773 0.5745 0.1579 failed PSUCC fft3d.f:49
+0.2306 0.2292 0.0747 succes PSUCC fft3d.f:2
+0.2988 0.2981 0.3560 succes PSUCC fft3d.f:82
+0.9524 0.9469 0.7734 succes PSUCC fft3d.f:166
+0.0184 0.0184 0.5502 succes PSUCC fft3d.f:48
+0.6750 0.6712 0.9723 succes PSUCC fft3d.f:2
+0.2378 0.2357 0.7450 succes PSUCC fft3d.f:82
+0.8058 0.8062 0.5228 succes PSUCC fft3d.f:49
+0.3753 0.3730 0.8020 succes PSUCC fft3d.f:2
+0.5275 0.5244 0.7199 succes PSUCC fft3d.f:126
+0.5932 0.5924 0.9979 succes PSUCC fft3d.f:49
+0.7485 0.7401 0.9153 succes PSUCC fft3d.f:2
+0.8138 0.8081 0.1932 succes PSUCC fft3d.f:120
+0.8847 0.8809 0.4755 succes PSUCC fft3d.f:48
+0.0331 0.0331 0.8891 failed PSUCC fft3d.f:81
+0.6036 0.6014 0.6701 succes PSUCC fft3d.f:49
+0.2616 0.2606 0.0918 failed PSUCC fft3d.f:45
+0.3215 0.3199 0.3619 succes PSUCC fft3d.f:2
+0.4790 0.4775 0.2863 succes PSUCC fft3d.f:82
+0.0443 0.0441 0.0601 succes PSUCC fft3d.f:160
+0.6920 0.6880 0.9745 succes PSUCC fft3d.f:49
+0.2657 0.2644 0.7575 succes PSUCC fft3d.f:81
+0.3289 0.3257 0.5322 succes PSUCC fft3d.f:82
+0.9807 0.9725 0.9502 succes PSUCC fft3d.f:48
+0.9654 0.9614 0.0886 failed PSUCC fft3d.f:49
+0.6183 0.6145 0.5063 succes PSUCC fft3d.f:48
+0.1839 0.1831 0.2854 succes PSUCC fft3d.f:49
+0.7540 0.7528 0.0626 succes PSUCC ()
+0.4096 0.4022 0.9841 succes PSUCC ()
+0.9759 0.9722 0.7626 succes PSUCC fft3d.f:2
+0.5335 0.5256 0.0291 succes PSUCC fft3d.f:82
+0.1090 0.1083 0.8166 succes PSUCC ()
+0.1718 0.1709 0.0886 succes PSUCC fft3d.f:49
+0.2455 0.2450 0.3735 succes PSUCC fft3d.f:2
+0.3999 0.3976 0.7909 succes PSUCC fft3d.f:2
+0.4603 0.4582 0.5647 succes PSUCC fft3d.f:82
+0.1165 0.1160 0.9865 succes PSUCC fft3d.f:120
+0.6842 0.6802 0.2626 succes PSUCC fft3d.f:49
+0.2497 0.2489 0.0396 succes PSUCC fft3d.f:81
+0.9055 0.9019 0.9602 succes PSUCC ()
+0.9691 0.9664 0.2339 succes PSUCC fft3d.f:82
+0.1234 0.1228 0.6550 failed PSUCC fft3d.f:48
+0.1908 0.1902 0.9321 succes PSUCC fft3d.f:49
+0.8421 0.8384 0.3469 succes PSUCC fft3d.f:82
+0.4101 0.4039 0.6273 succes PSUCC fft3d.f:120
+0.4807 0.4776 0.9076 succes PSUCC fft3d.f:82
+0.1305 0.1305 0.8238 succes PSUCC fft3d.f:82
+0.6954 0.6912 0.6004 succes PSUCC fft3d.f:166
+0.8519 0.8494 0.5204 succes PSUCC fft3d.f:49
+0.9185 0.9033 0.2978 failed PSUCC fft3d.f:49
+0.9862 0.9821 0.0770 succes PSUCC fft3d.f:81
+0.6398 0.6345 0.4950 succes PSUCC fft3d.f:81
+0.2048 0.2043 0.2715 succes PSUCC fft3d.f:47
+0.7722 0.7671 0.5470 failed PSUCC fft3d.f:49
+0.4313 0.4300 0.9709 failed PSUCC fft3d.f:48
+0.4919 0.4884 0.7439 succes PSUCC fft3d.f:48
+0.6470 0.6424 0.6634 succes PSUCC fft3d.f:2
+0.2145 0.2155 0.4406 succes PSUCC fft3d.f:48
+0.3675 0.3654 0.8593 succes PSUCC fft3d.f:120
+0.9370 0.9218 0.1389 succes PSUCC fft3d.f:49
+0.4210 0.4210 0.2791 succes PSUCC fft3d.f:49
+0.5698 0.5666 0.6931 failed PSUCC fft3d.f:82
+0.6327 0.6286 0.9687 succes PSUCC fft3d.f:82
+0.2937 0.2912 0.3933 succes PSUCC fft3d.f:48
+0.3522 0.3498 0.6625 succes PSUCC fft3d.f:82
+0.9244 0.9223 0.4443 succes PSUCC fft3d.f:49
+0.0806 0.0803 0.8651 succes PSUCC fft3d.f:48
+0.1439 0.1430 0.6397 succes PSUCC fft3d.f:82
+0.8017 0.7906 0.5613 succes PSUCC fft3d.f:82
+0.3659 0.3651 0.3375 succes PSUCC fft3d.f:2
+0.4327 0.4297 0.1167 succes PSUCC fft3d.f:82
+0.5894 0.5883 0.0371 succes PSUCC fft3d.f:49
+0.1511 0.1505 0.8078 succes PSUCC fft3d.f:81
+0.3077 0.3063 0.2300 succes PSUCC ()
+0.8717 0.8668 0.5070 failed PSUCC fft3d.f:48
+0.0252 0.0251 0.9256 succes PSUCC fft3d.f:82
+0.0942 0.0943 0.7037 succes PSUCC fft3d.f:82
+0.2509 0.2490 0.6256 succes PSUCC fft3d.f:159
+0.3146 0.3137 0.3995 failed PSUCC fft3d.f:48
+0.8784 0.8715 0.6752 succes PSUCC fft3d.f:82
+0.0336 0.0335 0.0959 succes PSUCC fft3d.f:49
+0.1054 0.1039 0.8750 succes PSUCC fft3d.f:49
+0.0801 0.0793 0.0086 succes PSUCC fft3d.f:2
+0.1481 0.1462 0.2858 succes PSUCC fft3d.f:78
+0.2127 0.2120 0.5605 succes PSUCC fft3d.f:2
+0.3635 0.3614 0.9776 succes PSUCC fft3d.f:49
+0.4376 0.4359 0.7614 succes PSUCC fft3d.f:48
+0.0939 0.0924 0.6836 succes PSUCC fft3d.f:160
+0.6518 0.6498 0.4513 succes PSUCC fft3d.f:2
+0.2225 0.2206 0.7339 succes PSUCC fft3d.f:48
+0.2948 0.2948 0.5145 succes PSUCC fft3d.f:48
+0.4451 0.4412 0.4306 succes PSUCC fft3d.f:2
+0.5068 0.5033 0.7039 succes PSUCC fft3d.f:82
+0.5770 0.5663 0.9836 failed PSUCC fft3d.f:2
+0.6475 0.6423 0.2635 succes PSUCC fft3d.f:82
+0.7071 0.7048 0.0347 succes PSUCC fft3d.f:49
+0.2866 0.2857 0.3251 succes PSUCC fft3d.f:49
+0.8420 0.8389 0.5916 succes PSUCC fft3d.f:49
+0.9999 0.9922 0.0146 succes PSUCC fft3d.f:81
+0.0658 0.0656 0.2897 failed PSUCC fft3d.f:120
+0.7182 0.7139 0.7082 failed PSUCC fft3d.f:46
+0.7924 0.7925 0.9920 succes PSUCC fft3d.f:160
+0.3507 0.3481 0.2606 succes PSUCC fft3d.f:81
+0.5076 0.5062 0.6842 succes PSUCC fft3d.f:82
+0.5741 0.5718 0.9602 failed PSUCC fft3d.f:49
+0.1431 0.1417 0.2394 succes PSUCC fft3d.f:160
+0.2959 0.2916 0.6570 succes PSUCC fft3d.f:166
+0.7772 0.7720 0.2949 failed PSUCC fft3d.f:45
+0.4292 0.4269 0.7132 succes PSUCC fft3d.f:2
+0.9980 0.9869 0.9911 succes PSUCC fft3d.f:49
+0.5602 0.5570 0.7645 succes PSUCC fft3d.f:82
+0.6281 0.6250 0.5447 succes PSUCC fft3d.f:2
+0.2885 0.2861 0.4673 succes PSUCC fft3d.f:49
+0.8474 0.8337 0.7383 succes PSUCC fft3d.f:160
+0.4173 0.4134 0.0164 succes PSUCC fft3d.f:82
+0.9856 0.9679 0.7988 succes PSUCC fft3d.f:82
+0.0468 0.0465 0.0701 succes PSUCC fft3d.f:160
+0.1181 0.1174 0.3512 failed PSUCC fft3d.f:56
+0.6849 0.6779 0.6280 succes PSUCC fft3d.f:82
+0.2518 0.2524 0.4046 succes PSUCC ()
+0.8162 0.8079 0.6816 succes PSUCC fft3d.f:2
+0.9696 0.9466 0.0980 succes PSUCC fft3d.f:120
+0.9548 0.9503 0.2386 succes PSUCC fft3d.f:82
+0.5161 0.5122 0.5125 succes PSUCC fft3d.f:82
+0.1731 0.1735 0.4335 failed PSUCC fft3d.f:45
+0.2444 0.2429 0.7143 succes PSUCC fft3d.f:48
+0.8897 0.8836 0.1267 succes PSUCC fft3d.f:82
+0.9589 0.9600 0.9056 succes PSUCC fft3d.f:82
+0.6132 0.6035 0.8268 succes PSUCC fft3d.f:120
+0.1806 0.1795 0.1032 succes PSUCC fft3d.f:82
+0.7462 0.7445 0.8783 succes PSUCC fft3d.f:49
+0.3978 0.3977 0.7965 succes PSUCC fft3d.f:82
+0.4660 0.4587 0.0761 succes PSUCC fft3d.f:81
+0.5350 0.5338 0.3548 succes PSUCC fft3d.f:45
+0.1901 0.1890 0.2729 succes PSUCC fft3d.f:2
+0.2551 0.2527 0.0514 succes PSUCC fft3d.f:49
+0.8196 0.8209 0.8251 succes PSUCC fft3d.f:81
+0.4789 0.4809 0.2485 succes PSUCC fft3d.f:49
+0.6374 0.6305 0.6717 succes PSUCC fft3d.f:82
+0.1962 0.1967 0.9438 succes PSUCC fft3d.f:82
+0.7634 0.7592 0.2189 succes PSUCC fft3d.f:126
+0.9189 0.9146 0.6408 succes PSUCC fft3d.f:49
+0.4824 0.4797 0.4133 succes PSUCC fft3d.f:2
+0.1374 0.1351 0.8353 succes PSUCC fft3d.f:49
+0.7035 0.6979 0.6115 succes PSUCC fft3d.f:46
+0.2750 0.2736 0.3933 failed PSUCC fft3d.f:81
+0.8405 0.8419 0.6697 succes PSUCC fft3d.f:48
+0.4060 0.4040 0.4447 succes PSUCC fft3d.f:82
+0.5616 0.5569 0.3662 succes PSUCC fft3d.f:120
+0.6275 0.6228 0.1433 succes PSUCC fft3d.f:48
+0.6945 0.6974 0.4200 succes PSUCC fft3d.f:160
+0.3461 0.3451 0.3366 succes PSUCC fft3d.f:48
+0.9155 0.9085 0.6177 succes PSUCC fft3d.f:81
+0.5679 0.5654 0.0338 failed PSUCC fft3d.f:82
+0.6360 0.6318 0.8127 succes PSUCC fft3d.f:81
+0.1995 0.1988 0.5865 succes PSUCC fft3d.f:160
+0.2677 0.2666 0.8660 succes PSUCC fft3d.f:126
+0.9226 0.9174 0.7874 succes PSUCC fft3d.f:2
+0.9905 0.9836 0.5637 succes PSUCC fft3d.f:49
+0.6414 0.6389 0.9810 succes PSUCC fft3d.f:82
+0.7102 0.7053 0.7603 succes PSUCC fft3d.f:48
+0.2765 0.2773 0.0368 succes PSUCC fft3d.f:2
+0.9289 0.9276 0.4554 succes PSUCC fft3d.f:49
+0.9991 0.9919 0.7326 succes PSUCC fft3d.f:49
+0.1512 0.1488 0.1515 succes PSUCC fft3d.f:82
+0.6267 0.6282 0.2842 succes PSUCC fft3d.f:82
+0.2875 0.2884 0.7094 succes PSUCC fft3d.f:78
+0.8525 0.8519 0.4863 succes PSUCC ()
+0.5042 0.5014 0.9031 succes PSUCC fft3d.f:48
+0.5728 0.5697 0.1811 succes PSUCC fft3d.f:2
+0.7244 0.7244 0.0995 succes PSUCC fft3d.f:49
+0.7900 0.7857 0.3734 succes PSUCC fft3d.f:79
+0.9456 0.9388 0.2944 succes PSUCC fft3d.f:166
+0.5096 0.5059 0.0709 succes PSUCC ()
+0.0809 0.0771 0.8514 failed PSUCC fft3d.f:126
+0.4706 0.4703 0.8417 succes PSUCC fft3d.f:48
+0.0440 0.0438 0.6247 succes PSUCC fft3d.f:166
+0.1931 0.1929 0.5416 succes PSUCC fft3d.f:49
+0.2611 0.2624 0.3171 succes PSUCC fft3d.f:126
+0.4165 0.4142 0.7391 succes PSUCC fft3d.f:2
+0.9742 0.9678 0.5082 succes PSUCC fft3d.f:49
+0.5492 0.5470 0.2923 succes PSUCC fft3d.f:49
+0.1155 0.1136 0.0711 failed PSUCC fft3d.f:49
+0.1841 0.1835 0.3480 succes PSUCC fft3d.f:49
+0.7466 0.7330 0.1226 succes PSUCC fft3d.f:82
+0.3113 0.3102 0.8983 succes PSUCC fft3d.f:126
+0.3841 0.3815 0.1793 succes PSUCC fft3d.f:49
+0.0320 0.0320 0.5926 succes PSUCC fft3d.f:2
+0.6008 0.5955 0.3729 succes PSUCC fft3d.f:2
+0.6751 0.6695 0.6576 succes PSUCC fft3d.f:48
+0.7350 0.7326 0.4277 succes PSUCC fft3d.f:82
+0.3018 0.3003 0.7056 succes PSUCC fft3d.f:82
+0.4558 0.4510 0.1248 succes PSUCC fft3d.f:159
+0.5260 0.5244 0.4052 succes PSUCC fft3d.f:2
+0.5901 0.5877 0.1786 succes PSUCC fft3d.f:81
+0.7469 0.7421 0.1009 succes PSUCC fft3d.f:45
+0.3104 0.3107 0.3763 failed PSUCC fft3d.f:82
+0.9670 0.9625 0.2985 succes PSUCC fft3d.f:48
+0.0332 0.0331 0.5735 succes PSUCC fft3d.f:82
+0.6844 0.6818 0.9900 succes PSUCC fft3d.f:49
+0.7537 0.7502 0.2705 succes PSUCC fft3d.f:166
+0.9071 0.8964 0.1886 succes PSUCC fft3d.f:82
+0.9750 0.9708 0.9697 succes PSUCC fft3d.f:2
+0.5417 0.5393 0.2442 succes PSUCC fft3d.f:166
+0.1950 0.1941 0.6638 succes PSUCC fft3d.f:82
+0.7630 0.7584 0.4426 succes PSUCC fft3d.f:82
+0.4142 0.4112 0.3579 succes PSUCC fft3d.f:2
+0.9793 0.9750 0.6336 failed PSUCC fft3d.f:81
+0.0476 0.0469 0.9116 succes PSUCC fft3d.f:160
+0.1128 0.1123 0.6891 succes PSUCC fft3d.f:46
+0.6854 0.6853 0.4714 succes PSUCC fft3d.f:78
+0.3333 0.3324 0.8840 succes PSUCC fft3d.f:82
+0.9077 0.9051 0.1697 succes PSUCC fft3d.f:2
+0.5582 0.5597 0.0866 failed PSUCC fft3d.f:2
+0.6232 0.6235 0.3604 succes PSUCC fft3d.f:45
+0.2845 0.2834 0.2867 succes PSUCC fft3d.f:82
+0.3416 0.3430 0.0541 succes PSUCC fft3d.f:48
+0.4947 0.4923 0.9726 succes PSUCC fft3d.f:160
+0.6548 0.6513 0.8970 succes PSUCC fft3d.f:166
+0.2219 0.2219 0.6766 failed PSUCC fft3d.f:48
+0.3715 0.3681 0.5911 succes PSUCC fft3d.f:126
+0.4412 0.4393 0.8700 succes PSUCC fft3d.f:82
+0.0039 0.0039 0.6440 succes PSUCC fft3d.f:49
+0.0741 0.0737 0.9240 failed PSUCC fft3d.f:49
+0.7277 0.7246 0.3437 failed PSUCC fft3d.f:48
+0.2930 0.2917 0.6189 succes PSUCC fft3d.f:81
+0.8643 0.8606 0.9022 succes PSUCC fft3d.f:2
+0.5129 0.5100 0.8165 succes PSUCC fft3d.f:48
+0.5844 0.5815 0.5973 succes PSUCC fft3d.f:46
+0.7381 0.7365 0.5172 succes PSUCC fft3d.f:82
+0.7972 0.7948 0.2854 succes PSUCC fft3d.f:160
+0.4576 0.4544 0.7106 succes PSUCC ()
+0.5267 0.5233 0.4906 succes PSUCC fft3d.f:49
+0.1770 0.1763 0.9069 succes PSUCC fft3d.f:82
+0.7427 0.7402 0.6820 succes PSUCC fft3d.f:82
+0.8137 0.8092 0.4638 succes PSUCC fft3d.f:2
+0.4624 0.4571 0.8780 succes PSUCC ()
+0.0351 0.0349 0.1593 succes PSUCC fft3d.f:82
+0.0988 0.0983 0.4351 succes PSUCC fft3d.f:82
+0.7503 0.7448 0.8529 succes PSUCC fft3d.f:160
+0.8157 0.8102 0.1292 succes PSUCC fft3d.f:81
+0.8883 0.8857 0.4116 succes PSUCC fft3d.f:79
+0.9503 0.9466 0.1845 succes PSUCC fft3d.f:82
+0.1042 0.1021 0.1028 succes PSUCC fft3d.f:166
+0.0836 0.0834 0.7377 failed PSUCC fft3d.f:82
+0.2359 0.2319 0.6560 succes PSUCC fft3d.f:33
+0.8033 0.7940 0.4325 succes PSUCC fft3d.f:46
+0.8751 0.8703 0.2165 succes PSUCC fft3d.f:49
+0.9381 0.9302 0.4884 succes PSUCC fft3d.f:2
+0.5936 0.5881 0.4098 succes PSUCC fft3d.f:82
+0.6616 0.6579 0.6891 succes PSUCC fft3d.f:46
+0.2274 0.2282 0.4647 succes PSUCC fft3d.f:48
+0.2904 0.2912 0.7393 succes PSUCC fft3d.f:81
+0.4473 0.4445 0.6593 succes PSUCC fft3d.f:82
+0.5143 0.5113 0.9369 succes PSUCC fft3d.f:45
+0.0811 0.0811 0.2174 succes PSUCC fft3d.f:82
+0.7369 0.7337 0.6364 succes PSUCC fft3d.f:82
+0.8049 0.8003 0.9151 succes PSUCC fft3d.f:46
+0.4554 0.4530 0.8301 succes PSUCC fft3d.f:46
+0.0224 0.0224 0.6079 failed PSUCC fft3d.f:49
+0.5901 0.5866 0.8860 succes PSUCC fft3d.f:82
+0.2449 0.2427 0.8051 succes PSUCC fft3d.f:160
+0.8098 0.8039 0.5817 succes PSUCC ()
+0.3809 0.3784 0.8633 failed PSUCC fft3d.f:49
+0.9418 0.9407 0.6341 succes PSUCC fft3d.f:82
+0.5104 0.5061 0.9144 succes PSUCC ()
+0.6644 0.6587 0.8321 succes PSUCC fft3d.f:57
+0.6484 0.6464 0.4722 succes PSUCC fft3d.f:49
+0.2968 0.2929 0.3849 succes PSUCC fft3d.f:166
+0.8632 0.8568 0.6638 succes PSUCC fft3d.f:48
+0.4312 0.4314 0.9411 succes PSUCC fft3d.f:49
+0.0885 0.0883 0.3612 succes PSUCC fft3d.f:48
+0.1568 0.1552 0.6417 succes PSUCC fft3d.f:82
+0.2205 0.2193 0.4168 failed PSUCC fft3d.f:120
+0.3722 0.3703 0.3333 succes PSUCC fft3d.f:47
+0.4426 0.4400 0.1150 succes PSUCC fft3d.f:2
+0.0046 0.0047 0.8878 succes PSUCC fft3d.f:81
+0.1626 0.1618 0.3110 succes PSUCC fft3d.f:48
+0.7323 0.7270 0.0898 succes PSUCC fft3d.f:48
+0.7922 0.7964 0.8609 succes PSUCC fft3d.f:49
+0.4505 0.4465 0.2845 succes PSUCC fft3d.f:81
+0.0160 0.0160 0.0591 succes PSUCC fft3d.f:120
+0.0814 0.0803 0.8365 failed PSUCC fft3d.f:48
+0.6463 0.6352 0.6106 succes PSUCC fft3d.f:82
+0.2152 0.2133 0.8917 succes PSUCC fft3d.f:82
+0.7804 0.7749 0.6680 succes PSUCC fft3d.f:49
+0.3455 0.3445 0.9433 succes PSUCC fft3d.f:48
+0.0032 0.0033 0.3661 succes PSUCC ()
+0.0691 0.0688 0.1412 failed PSUCC fft3d.f:2
+0.2238 0.2227 0.5620 succes PSUCC fft3d.f:48
+0.2888 0.2891 0.8372 succes PSUCC fft3d.f:166
+0.4460 0.4438 0.7601 succes PSUCC fft3d.f:81
+0.5138 0.5115 0.0367 succes PSUCC fft3d.f:120
+0.6668 0.6619 0.4549 succes PSUCC fft3d.f:49
+0.2303 0.2296 0.7292 succes PSUCC fft3d.f:46
+0.7988 0.7902 0.0095 succes PSUCC fft3d.f:166
+0.8651 0.8580 0.7860 succes PSUCC fft3d.f:81
+0.4310 0.4295 0.5631 succes PSUCC fft3d.f:82
+0.5886 0.5845 0.4851 succes PSUCC fft3d.f:82
+0.1575 0.1570 0.2627 succes PSUCC ()
+0.7158 0.7158 0.0347 succes PSUCC fft3d.f:2
+0.8751 0.8691 0.4596 succes PSUCC fft3d.f:2
+0.4431 0.4363 0.7357 succes PSUCC fft3d.f:79
+0.0060 0.0061 0.0114 succes PSUCC fft3d.f:82
+0.0779 0.0777 0.7923 failed PSUCC fft3d.f:82
+0.6436 0.6383 0.5681 succes PSUCC fft3d.f:2
+0.2098 0.2093 0.3451 succes PSUCC fft3d.f:2
+0.3594 0.3572 0.2611 succes PSUCC ()
+0.4327 0.4312 0.5432 succes PSUCC fft3d.f:81
+0.0809 0.0806 0.4561 succes PSUCC fft3d.f:46
+0.1484 0.1477 0.7354 succes PSUCC fft3d.f:33
+0.8046 0.8033 0.1561 succes PSUCC fft3d.f:82
+0.3697 0.3667 0.4326 succes PSUCC fft3d.f:2
+0.9356 0.9233 0.2088 succes PSUCC fft3d.f:2
+0.9999 0.9945 0.4845 succes PSUCC fft3d.f:49
+0.1607 0.1609 0.4099 succes PSUCC fft3d.f:2
+0.7228 0.7230 0.6833 succes PSUCC fft3d.f:2
+0.3779 0.3749 0.1025 failed PSUCC fft3d.f:49
+0.4434 0.4437 0.3793 succes PSUCC fft3d.f:78
+0.6034 0.6022 0.3031 succes PSUCC fft3d.f:2
+0.1696 0.1679 0.5787 failed PSUCC fft3d.f:120
+0.2301 0.2266 0.3522 failed PSUCC fft3d.f:49
+0.2970 0.2918 0.1285 succes PSUCC fft3d.f:48
+0.3677 0.3646 0.9110 succes PSUCC fft3d.f:49
+0.9385 0.9319 0.1889 succes PSUCC fft3d.f:48
+0.0003 0.0004 0.9643 succes PSUCC ()
+0.0654 0.0658 0.2391 failed PSUCC fft3d.f:78
+0.6375 0.6337 0.5205 succes PSUCC fft3d.f:79
+0.7889 0.7868 0.9380 succes PSUCC fft3d.f:49
+0.8544 0.8490 0.7136 succes PSUCC fft3d.f:82
+0.4214 0.4184 0.4912 succes PSUCC fft3d.f:120
+0.0744 0.0743 0.4110 failed PSUCC fft3d.f:2
+0.1444 0.1438 0.1897 succes PSUCC fft3d.f:49
+0.2124 0.2117 0.4695 succes PSUCC fft3d.f:2
+0.3616 0.3618 0.8836 succes PSUCC fft3d.f:82
+0.5196 0.5184 0.8061 succes PSUCC fft3d.f:57
+0.5851 0.5824 0.5819 succes PSUCC fft3d.f:2
+0.1534 0.1531 0.8600 succes PSUCC fft3d.f:48
+0.3088 0.3102 0.2813 succes PSUCC fft3d.f:78
+0.4580 0.4573 0.6971 succes PSUCC fft3d.f:49
+0.5255 0.5245 0.4738 failed PSUCC fft3d.f:120
+0.6791 0.6783 0.8931 succes PSUCC fft3d.f:48
+0.2395 0.2383 0.1648 succes PSUCC fft3d.f:82
+0.4013 0.3996 0.0909 succes PSUCC fft3d.f:48
+0.9704 0.9544 0.3699 succes PSUCC fft3d.f:49
+0.0317 0.0319 0.6424 succes PSUCC fft3d.f:49
+0.1858 0.1838 0.5601 succes PSUCC fft3d.f:2
+0.7556 0.7409 0.8415 succes PSUCC fft3d.f:159
+0.2304 0.2310 0.4724 succes PSUCC fft3d.f:82
+0.8837 0.8835 0.8926 succes PSUCC fft3d.f:2
+0.9584 0.9524 0.1761 succes PSUCC ()
+0.1067 0.1060 0.0897 succes PSUCC fft3d.f:49
+0.6745 0.6726 0.8685 failed PSUCC fft3d.f:82
+0.7398 0.7334 0.6421 succes PSUCC fft3d.f:82
+0.8930 0.8757 0.0623 succes PSUCC fft3d.f:82
+0.3736 0.3706 0.1993 failed PSUCC fft3d.f:126
+0.4473 0.4450 0.4824 succes PSUCC fft3d.f:160
+0.0155 0.0155 0.7615 failed PSUCC fft3d.f:2
+0.1617 0.1585 0.1724 succes PSUCC fft3d.f:46
+0.1439 0.1444 0.8115 succes PSUCC fft3d.f:2
+0.7083 0.7089 0.5875 succes PSUCC fft3d.f:2
+0.8613 0.8434 0.0042 succes PSUCC ()
+0.3425 0.3392 0.1417 succes PSUCC fft3d.f:2
+0.9135 0.9132 0.9225 succes PSUCC fft3d.f:2
+0.0656 0.0653 0.8403 succes PSUCC fft3d.f:81
+0.1307 0.1302 0.1145 succes PSUCC fft3d.f:46
+0.7874 0.7880 0.0380 succes PSUCC fft3d.f:45
+0.3484 0.3465 0.3088 succes PSUCC fft3d.f:48
+0.0055 0.0055 0.2306 succes PSUCC fft3d.f:2
+0.0741 0.0743 0.5108 succes PSUCC fft3d.f:82
+0.1369 0.1361 0.7835 succes PSUCC fft3d.f:49
+0.2944 0.2935 0.2056 succes PSUCC fft3d.f:49
+0.3603 0.3581 0.9847 succes PSUCC fft3d.f:48
+0.5165 0.5144 0.4040 succes PSUCC fft3d.f:82
+0.5781 0.5678 0.6773 succes PSUCC fft3d.f:46
+0.6458 0.6428 0.4537 succes PSUCC fft3d.f:160
+0.2172 0.2166 0.2354 failed PSUCC fft3d.f:82
+0.2791 0.2777 0.5074 failed PSUCC fft3d.f:48
+0.9301 0.9282 0.9251 succes PSUCC fft3d.f:82
+0.0032 0.0033 0.7081 succes PSUCC ()
+0.1565 0.1559 0.6265 succes PSUCC fft3d.f:82
+0.7219 0.7169 0.9031 succes PSUCC fft3d.f:81
+0.3732 0.3708 0.8195 succes PSUCC fft3d.f:49
+0.4387 0.4372 0.0962 succes PSUCC fft3d.f:47
+0.0136 0.0136 0.3806 succes PSUCC fft3d.f:82
+0.5726 0.5694 0.6505 failed PSUCC fft3d.f:49
+0.7264 0.7227 0.0699 succes PSUCC fft3d.f:126
+0.3016 0.2991 0.8550 succes PSUCC fft3d.f:48
+0.8616 0.8569 0.6265 succes PSUCC fft3d.f:2
+0.5219 0.5228 0.0507 succes PSUCC fft3d.f:2
+0.0822 0.0818 0.8224 failed PSUCC fft3d.f:82
+0.7349 0.7304 0.7398 succes PSUCC fft3d.f:82
+0.3086 0.3069 0.0236 succes PSUCC ()
+0.3718 0.3698 0.7991 succes PSUCC fft3d.f:120
+0.0241 0.0243 0.7161 succes PSUCC fft3d.f:49
+0.0935 0.0933 0.9964 succes PSUCC fft3d.f:49
+0.2526 0.2517 0.9192 succes PSUCC fft3d.f:82
+0.3178 0.3154 0.1946 failed PSUCC fft3d.f:48
+0.9699 0.9524 0.1133 succes PSUCC fft3d.f:82
+0.4422 0.4398 0.7411 succes PSUCC fft3d.f:47
+0.0975 0.0980 0.6615 succes PSUCC fft3d.f:45
+0.6724 0.6727 0.9467 failed PSUCC fft3d.f:49
+0.8246 0.8169 0.3635 succes PSUCC fft3d.f:81
+0.8869 0.8814 0.1363 succes PSUCC fft3d.f:79
+0.4540 0.4528 0.4150 succes PSUCC fft3d.f:48
+0.1101 0.1096 0.8362 succes PSUCC ()
+0.1784 0.1772 0.6147 succes PSUCC fft3d.f:82
+0.7379 0.7326 0.3848 succes PSUCC fft3d.f:49
+0.8144 0.8160 0.6711 failed PSUCC fft3d.f:120
+0.9614 0.9539 0.0843 succes PSUCC fft3d.f:2
+0.5321 0.5233 0.3632 succes PSUCC fft3d.f:82
+0.0975 0.0970 0.1409 succes PSUCC fft3d.f:160
+0.1627 0.1617 0.4161 succes PSUCC fft3d.f:82
+0.8208 0.8099 0.8383 succes PSUCC fft3d.f:120
+0.3816 0.3801 0.1110 succes PSUCC fft3d.f:2
+0.9537 0.9474 0.3939 succes PSUCC fft3d.f:48
+0.5220 0.5188 0.1729 failed PSUCC fft3d.f:94
+0.6763 0.6712 0.5903 succes PSUCC fft3d.f:2
+0.7371 0.7372 0.3639 succes PSUCC fft3d.f:166
+0.8015 0.7985 0.1386 succes PSUCC fft3d.f:166
+0.3731 0.3702 0.4197 failed PSUCC fft3d.f:120
+0.9384 0.9310 0.1965 succes PSUCC fft3d.f:81
+0.0090 0.0090 0.9766 succes PSUCC fft3d.f:48
+0.0743 0.0745 0.2542 succes PSUCC fft3d.f:82
+0.7247 0.7191 0.1691 succes PSUCC fft3d.f:126
+0.2934 0.2880 0.9477 succes PSUCC fft3d.f:160
+0.8626 0.8580 0.2269 failed PSUCC fft3d.f:49
+0.4252 0.4227 0.0005 failed PSUCC fft3d.f:2
+0.5811 0.5798 0.4221 succes PSUCC fft3d.f:81
+0.1466 0.1460 0.6972 succes PSUCC fft3d.f:2
+0.8012 0.7967 0.1167 succes PSUCC fft3d.f:2
+0.3720 0.3702 0.4000 succes PSUCC fft3d.f:2
+0.0232 0.0232 0.8143 succes PSUCC fft3d.f:48
+0.0925 0.0925 0.0953 succes PSUCC fft3d.f:166
+0.1591 0.1573 0.3708 succes PSUCC fft3d.f:2
+0.2193 0.2181 0.1437 failed PSUCC fft3d.f:2
+0.8798 0.8667 0.0687 succes PSUCC fft3d.f:48
+0.9438 0.9431 0.8416 succes PSUCC fft3d.f:79
+0.5131 0.5110 0.1222 failed PSUCC fft3d.f:82
+0.6674 0.6696 0.5424 failed PSUCC fft3d.f:126
+0.2312 0.2296 0.8159 failed PSUCC fft3d.f:82
