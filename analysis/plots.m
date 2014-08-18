@@ -40,8 +40,8 @@ switch nargin
         for i=1:NumOfClusters
             centers(i,:)=centers(i,:)/NumOfPointsInCluster(i);
         end
-        colors='ykgb';
-        marker='*.od';
+        colors='ymcrgbwkymcrgbwkymcrgbwk';
+        marker='+*.odxs^<>vp+*.odxs^<>vp';
 end
 %Data is ready. Now plotting
 if Dimensions==2
@@ -51,8 +51,8 @@ if Dimensions==2
         hold on
     end
     for i=1:NumOfCenters %plot the centers
-        plot(centers(i,1),centers(i,2),'s','Color',colors(i))
-        hold on
+%        plot(centers(i,1),centers(i,2),'s','Color',colors(i))
+%        hold on
     end
     line([x_min x_min],[0 1]); hold on
     line([x_max x_max],[0 1]); hold on
